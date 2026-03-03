@@ -1,0 +1,2468 @@
+{
+  "name": "CoreMLOdie",
+  "path": "iPhone17,2_26.2_23C55/PrivateFrameworks/CoreMLOdie.framework/CoreMLOdie",
+  "file_size": 196608,
+  "arch": "arm",
+  "bits": 64,
+  "machine": "arm64e",
+  "os": "ios",
+  "bintype": "mach0",
+  "lang": "swift",
+  "stripped": true,
+  "canary": false,
+  "pic": false,
+  "total_functions": 278,
+  "function_categories": {
+    "unnamed_functions": {
+      "count": 191,
+      "items": [
+        {
+          "name": "fcn.246e72624",
+          "addr": "0x246e72624",
+          "size": 29772,
+          "signature": "fcn.246e72624 (int64_t arg1);",
+          "nargs": 1,
+          "nlocals": 0,
+          "cc": 1,
+          "nbbs": 2
+        },
+        {
+          "name": "fcn.246e7dcc4",
+          "addr": "0x246e7dcc4",
+          "size": 7116,
+          "signature": "fcn.246e7dcc4 (int64_t arg1, int64_t arg2);",
+          "nargs": 2,
+          "nlocals": 86,
+          "cc": 66,
+          "nbbs": 106
+        },
+        {
+          "name": "fcn.246e6d3b0",
+          "addr": "0x246e6d3b0",
+          "size": 6724,
+          "signature": "fcn.246e6d3b0 (int64_t arg1, int64_t arg2, int64_t arg3, int64_t arg4, int64_t arg5, int64_t arg6);",
+          "nargs": 6,
+          "nlocals": 86,
+          "cc": 71,
+          "nbbs": 126
+        },
+        {
+          "name": "fcn.246e7c470",
+          "addr": "0x246e7c470",
+          "size": 5796,
+          "signature": "fcn.246e7c470 (int64_t arg1, int64_t arg2, int64_t arg3);",
+          "nargs": 3,
+          "nlocals": 52,
+          "cc": 71,
+          "nbbs": 124
+        },
+        {
+          "name": "fcn.246e6fde8",
+          "addr": "0x246e6fde8",
+          "size": 5168,
+          "signature": "fcn.246e6fde8 (int64_t arg1, int64_t arg2, int64_t arg3, int64_t arg4);",
+          "nargs": 4,
+          "nlocals": 6,
+          "cc": 51,
+          "nbbs": 81
+        },
+        {
+          "name": "fcn.246e76284",
+          "addr": "0x246e76284",
+          "size": 3676,
+          "signature": "fcn.246e76284 (int64_t arg1);",
+          "nargs": 1,
+          "nlocals": 36,
+          "cc": 33,
+          "nbbs": 59
+        },
+        {
+          "name": "fcn.246e69328",
+          "addr": "0x246e69328",
+          "size": 3552,
+          "signature": "fcn.246e69328 (int64_t arg1);",
+          "nargs": 1,
+          "nlocals": 4,
+          "cc": 4,
+          "nbbs": 6
+        },
+        {
+          "name": "fcn.246e6f300",
+          "addr": "0x246e6f300",
+          "size": 1884,
+          "signature": "fcn.246e6f300 (int64_t arg1, int64_t arg2, int64_t arg3, int64_t arg4, int64_t arg5);",
+          "nargs": 5,
+          "nlocals": 6,
+          "cc": 24,
+          "nbbs": 33
+        },
+        {
+          "name": "fcn.246e82d48",
+          "addr": "0x246e82d48",
+          "size": 1872,
+          "signature": "fcn.246e82d48 (int64_t arg_c0h);",
+          "nargs": 1,
+          "nlocals": 25,
+          "cc": 62,
+          "nbbs": 91
+        },
+        {
+          "name": "fcn.246e6c790",
+          "addr": "0x246e6c790",
+          "size": 1548,
+          "signature": "fcn.246e6c790 (int64_t arg1, int64_t arg2, int64_t arg3, int64_t arg4, int64_t arg5);",
+          "nargs": 5,
+          "nlocals": 37,
+          "cc": 24,
+          "nbbs": 32
+        },
+        {
+          "name": "fcn.246e81f24",
+          "addr": "0x246e81f24",
+          "size": 1404,
+          "signature": "fcn.246e81f24 (int64_t arg1, int64_t arg2, int64_t arg3, int64_t arg_40h);",
+          "nargs": 4,
+          "nlocals": 10,
+          "cc": 80,
+          "nbbs": 114
+        },
+        {
+          "name": "fcn.246e71844",
+          "addr": "0x246e71844",
+          "size": 1180,
+          "signature": "fcn.246e71844 (int64_t arg1, int64_t arg2, int64_t arg3, int64_t arg4);",
+          "nargs": 4,
+          "nlocals": 6,
+          "cc": 16,
+          "nbbs": 23
+        },
+        {
+          "name": "fcn.246e72638",
+          "addr": "0x246e72638",
+          "size": 1096,
+          "signature": "fcn.246e72638 (int64_t arg1, int64_t arg2, int64_t arg_80h);",
+          "nargs": 3,
+          "nlocals": 16,
+          "cc": 33,
+          "nbbs": 53
+        },
+        {
+          "name": "fcn.246e86fd4",
+          "addr": "0x246e86fd4",
+          "size": 1096,
+          "signature": "fcn.246e86fd4 (int64_t arg1, int64_t arg2, int64_t arg3, int64_t arg4);",
+          "nargs": 4,
+          "nlocals": 22,
+          "cc": 10,
+          "nbbs": 14
+        },
+        {
+          "name": "fcn.246e6a840",
+          "addr": "0x246e6a840",
+          "size": 1032,
+          "signature": "fcn.246e6a840 (int64_t arg1);",
+          "nargs": 1,
+          "nlocals": 25,
+          "cc": 8,
+          "nbbs": 14
+        },
+        {
+          "name": "fcn.246e79394",
+          "addr": "0x246e79394",
+          "size": 960,
+          "signature": "fcn.246e79394 (int64_t arg1, int64_t arg2, int64_t arg3, int64_t arg4, int64_t arg5, int64_t arg6, int64_t arg_b0h);",
+          "nargs": 7,
+          "nlocals": 21,
+          "cc": 25,
+          "nbbs": 43
+        },
+        {
+          "name": "fcn.246e6fa5c",
+          "addr": "0x246e6fa5c",
+          "size": 908,
+          "signature": "fcn.246e6fa5c (int64_t arg1, int64_t arg2, int64_t arg3, int64_t arg4, int64_t arg5, int64_t arg6, int64_t arg_90h);",
+          "nargs": 7,
+          "nlocals": 15,
+          "cc": 17,
+          "nbbs": 28
+        },
+        {
+          "name": "fcn.246e7bd4c",
+          "addr": "0x246e7bd4c",
+          "size": 908,
+          "signature": "fcn.246e7bd4c (int64_t arg1, int64_t arg2);",
+          "nargs": 2,
+          "nlocals": 38,
+          "cc": 10,
+          "nbbs": 13
+        },
+        {
+          "name": "fcn.246e86c54",
+          "addr": "0x246e86c54",
+          "size": 872,
+          "signature": "fcn.246e86c54 (int64_t arg1, int64_t arg2, int64_t arg3);",
+          "nargs": 3,
+          "nlocals": 20,
+          "cc": 8,
+          "nbbs": 12
+        },
+        {
+          "name": "fcn.246e6efc0",
+          "addr": "0x246e6efc0",
+          "size": 832,
+          "signature": "fcn.246e6efc0 (int64_t arg1, int64_t arg2, int64_t arg3, int64_t arg_70h);",
+          "nargs": 4,
+          "nlocals": 12,
+          "cc": 16,
+          "nbbs": 26
+        },
+        {
+          "name": "fcn.246e88494",
+          "addr": "0x246e88494",
+          "size": 788,
+          "signature": "fcn.246e88494 ();",
+          "nargs": 0,
+          "nlocals": 0,
+          "cc": 1,
+          "nbbs": 1
+        },
+        {
+          "name": "fcn.246e73454",
+          "addr": "0x246e73454",
+          "size": 788,
+          "signature": "fcn.246e73454 (int64_t arg1);",
+          "nargs": 1,
+          "nlocals": 2,
+          "cc": 3,
+          "nbbs": 4
+        },
+        {
+          "name": "fcn.246e743fc",
+          "addr": "0x246e743fc",
+          "size": 760,
+          "signature": "fcn.246e743fc (int64_t arg1, int64_t arg2, int64_t arg3, int64_t arg4, int64_t arg5, int64_t arg6, int64_t arg7);",
+          "nargs": 7,
+          "nlocals": 17,
+          "cc": 15,
+          "nbbs": 20
+        },
+        {
+          "name": "fcn.246e7475c",
+          "addr": "0x246e7475c",
+          "size": 756,
+          "signature": "fcn.246e7475c (signed int64_t arg1, int64_t arg2, int64_t arg3, int64_t arg4, int64_t arg5, int64_t arg6, int64_t arg_80h);",
+          "nargs": 7,
+          "nlocals": 26,
+          "cc": 45,
+          "nbbs": 56
+        },
+        {
+          "name": "fcn.246e71574",
+          "addr": "0x246e71574",
+          "size": 720,
+          "signature": "fcn.246e71574 (int64_t arg1);",
+          "nargs": 1,
+          "nlocals": 17,
+          "cc": 11,
+          "nbbs": 20
+        },
+        {
+          "name": "fcn.246e80f14",
+          "addr": "0x246e80f14",
+          "size": 704,
+          "signature": "fcn.246e80f14 (signed int64_t arg1, int64_t arg2, int64_t arg_d0h);",
+          "nargs": 3,
+          "nlocals": 17,
+          "cc": 15,
+          "nbbs": 30
+        },
+        {
+          "name": "fcn.246e72354",
+          "addr": "0x246e72354",
+          "size": 700,
+          "signature": "fcn.246e72354 (int64_t arg1, int64_t arg2, int64_t arg3, int64_t arg4, int64_t arg5, int64_t arg6, int64_t arg_a0h);",
+          "nargs": 7,
+          "nlocals": 18,
+          "cc": 15,
+          "nbbs": 25
+        },
+        {
+          "name": "fcn.246e80c6c",
+          "addr": "0x246e80c6c",
+          "size": 680,
+          "signature": "fcn.246e80c6c (signed int64_t arg1, int64_t arg2, int64_t arg_c0h);",
+          "nargs": 3,
+          "nlocals": 16,
+          "cc": 15,
+          "nbbs": 30
+        },
+        {
+          "name": "fcn.246e6bf10",
+          "addr": "0x246e6bf10",
+          "size": 676,
+          "signature": "fcn.246e6bf10 (int64_t arg1, int64_t arg2);",
+          "nargs": 2,
+          "nlocals": 24,
+          "cc": 9,
+          "nbbs": 10
+        },
+        {
+          "name": "fcn.246e80594",
+          "addr": "0x246e80594",
+          "size": 660,
+          "signature": "fcn.246e80594 (int64_t arg1, int64_t arg_b0h);",
+          "nargs": 2,
+          "nlocals": 13,
+          "cc": 26,
+          "nbbs": 33
+        },
+        {
+          "name": "fcn.246e6a5b4",
+          "addr": "0x246e6a5b4",
+          "size": 652,
+          "signature": "fcn.246e6a5b4 (int64_t arg1);",
+          "nargs": 1,
+          "nlocals": 14,
+          "cc": 6,
+          "nbbs": 7
+        },
+        {
+          "name": "fcn.246e811d4",
+          "addr": "0x246e811d4",
+          "size": 648,
+          "signature": "fcn.246e811d4 (signed int64_t arg1, int64_t arg2, int64_t arg_70h);",
+          "nargs": 3,
+          "nlocals": 14,
+          "cc": 15,
+          "nbbs": 30
+        },
+        {
+          "name": "fcn.246e6cee4",
+          "addr": "0x246e6cee4",
+          "size": 640,
+          "signature": "fcn.246e6cee4 (int64_t arg1);",
+          "nargs": 1,
+          "nlocals": 12,
+          "cc": 10,
+          "nbbs": 20
+        },
+        {
+          "name": "fcn.246e77ee8",
+          "addr": "0x246e77ee8",
+          "size": 640,
+          "signature": "fcn.246e77ee8 (signed int64_t arg1);",
+          "nargs": 1,
+          "nlocals": 0,
+          "cc": 54,
+          "nbbs": 54
+        },
+        {
+          "name": "fcn.246e8145c",
+          "addr": "0x246e8145c",
+          "size": 624,
+          "signature": "fcn.246e8145c (signed int64_t arg1, int64_t arg2, int64_t arg_70h);",
+          "nargs": 3,
+          "nlocals": 13,
+          "cc": 15,
+          "nbbs": 30
+        },
+        {
+          "name": "fcn.246e7fdc4",
+          "addr": "0x246e7fdc4",
+          "size": 592,
+          "signature": "fcn.246e7fdc4 (signed int64_t arg1, int64_t arg_b0h);",
+          "nargs": 2,
+          "nlocals": 14,
+          "cc": 13,
+          "nbbs": 25
+        },
+        {
+          "name": "fcn.246e6d164",
+          "addr": "0x246e6d164",
+          "size": 588,
+          "signature": "fcn.246e6d164 (int64_t arg1, int64_t arg2, int64_t arg3);",
+          "nargs": 3,
+          "nlocals": 12,
+          "cc": 5,
+          "nbbs": 8
+        },
+        {
+          "name": "fcn.246e69abc",
+          "addr": "0x246e69abc",
+          "size": 572,
+          "signature": "fcn.246e69abc (int64_t arg1);",
+          "nargs": 1,
+          "nlocals": 14,
+          "cc": 6,
+          "nbbs": 11
+        },
+        {
+          "name": "fcn.246e74dcc",
+          "addr": "0x246e74dcc",
+          "size": 568,
+          "signature": "fcn.246e74dcc (int64_t arg1, int64_t arg2, int64_t arg3);",
+          "nargs": 3,
+          "nlocals": 14,
+          "cc": 5,
+          "nbbs": 9
+        },
+        {
+          "name": "fcn.246e77854",
+          "addr": "0x246e77854",
+          "size": 568,
+          "signature": "fcn.246e77854 (int64_t arg1, int64_t arg_70h);",
+          "nargs": 2,
+          "nlocals": 14,
+          "cc": 5,
+          "nbbs": 5
+        },
+        {
+          "name": "fcn.246e6c3bc",
+          "addr": "0x246e6c3bc",
+          "size": 564,
+          "signature": "fcn.246e6c3bc (int64_t arg1);",
+          "nargs": 1,
+          "nlocals": 16,
+          "cc": 8,
+          "nbbs": 11
+        },
+        {
+          "name": "fcn.246e8036c",
+          "addr": "0x246e8036c",
+          "size": 552,
+          "signature": "fcn.246e8036c (signed int64_t arg1, int64_t arg_b0h);",
+          "nargs": 2,
+          "nlocals": 14,
+          "cc": 12,
+          "nbbs": 23
+        },
+        {
+          "name": "fcn.246e78e18",
+          "addr": "0x246e78e18",
+          "size": 544,
+          "signature": "fcn.246e78e18 (int64_t arg1, int64_t arg2, int64_t arg_80h);",
+          "nargs": 3,
+          "nlocals": 19,
+          "cc": 10,
+          "nbbs": 19
+        },
+        {
+          "name": "fcn.246e82678",
+          "addr": "0x246e82678",
+          "size": 544,
+          "signature": "fcn.246e82678 (int64_t arg1, int64_t arg2, int64_t arg3, int64_t arg4, int64_t arg5, int64_t arg6, int64_t arg7, int64_t arg_b0h);",
+          "nargs": 8,
+          "nlocals": 22,
+          "cc": 24,
+          "nbbs": 34
+        },
+        {
+          "name": "fcn.246e7313c",
+          "addr": "0x246e7313c",
+          "size": 540,
+          "signature": "fcn.246e7313c (int64_t arg_70h);",
+          "nargs": 1,
+          "nlocals": 13,
+          "cc": 11,
+          "nbbs": 20
+        },
+        {
+          "name": "fcn.246e7f9b8",
+          "addr": "0x246e7f9b8",
+          "size": 524,
+          "signature": "fcn.246e7f9b8 (int64_t arg1, int64_t arg2, int64_t arg_90h);",
+          "nargs": 3,
+          "nlocals": 10,
+          "cc": 9,
+          "nbbs": 16
+        },
+        {
+          "name": "fcn.246e7fbc4",
+          "addr": "0x246e7fbc4",
+          "size": 512,
+          "signature": "fcn.246e7fbc4 (int64_t arg1, int64_t arg2, int64_t arg_c0h);",
+          "nargs": 3,
+          "nlocals": 15,
+          "cc": 10,
+          "nbbs": 18
+        },
+        {
+          "name": "fcn.246e7a3f8",
+          "addr": "0x246e7a3f8",
+          "size": 496,
+          "signature": "fcn.246e7a3f8 (int64_t arg1, signed int64_t arg2, int64_t arg3);",
+          "nargs": 3,
+          "nlocals": 10,
+          "cc": 18,
+          "nbbs": 26
+        },
+        {
+          "name": "fcn.246e79858",
+          "addr": "0x246e79858",
+          "size": 496,
+          "signature": "fcn.246e79858 (int64_t arg1, signed int64_t arg2, int64_t arg3);",
+          "nargs": 3,
+          "nlocals": 10,
+          "cc": 18,
+          "nbbs": 26
+        },
+        {
+          "name": "fcn.246e74a50",
+          "addr": "0x246e74a50",
+          "size": 480,
+          "signature": "fcn.246e74a50 (int64_t arg1, int64_t arg2, int64_t arg3, int64_t arg4, int64_t arg_40h);",
+          "nargs": 5,
+          "nlocals": 29,
+          "cc": 13,
+          "nbbs": 19
+        }
+      ]
+    },
+    "symbols": {
+      "count": 72,
+      "items": [
+        {
+          "name": "sym.___swift_allocate_value_buffer",
+          "addr": "0x246e6b54c",
+          "size": 100,
+          "signature": "sym.___swift_allocate_value_buffer (int64_t arg1, int64_t arg2);",
+          "nargs": 2,
+          "nlocals": 4,
+          "cc": 4,
+          "nbbs": 5
+        },
+        {
+          "name": "sym.___swift_allocate_boxed_opaque_existential_1",
+          "addr": "0x246e770e0",
+          "size": 100,
+          "signature": "sym.___swift_allocate_boxed_opaque_existential_1 (int64_t arg1);",
+          "nargs": 1,
+          "nlocals": 4,
+          "cc": 4,
+          "nbbs": 5
+        },
+        {
+          "name": "sym.___swift_destroy_boxed_opaque_existential_0",
+          "addr": "0x246e69dd8",
+          "size": 76,
+          "signature": "sym.___swift_destroy_boxed_opaque_existential_0 (int64_t arg1);",
+          "nargs": 1,
+          "nlocals": 0,
+          "cc": 4,
+          "nbbs": 5
+        },
+        {
+          "name": "sym.___swift_instantiateConcreteTypeFromMangledNameV2",
+          "addr": "0x246e69cf8",
+          "size": 72,
+          "signature": "sym.___swift_instantiateConcreteTypeFromMangledNameV2 (int64_t arg1, int64_t arg2);",
+          "nargs": 2,
+          "nlocals": 4,
+          "cc": 2,
+          "nbbs": 3
+        },
+        {
+          "name": "sym.___swift_instantiateConcreteTypeFromMangledNameAbstractV2",
+          "addr": "0x246e6af8c",
+          "size": 72,
+          "signature": "sym.___swift_instantiateConcreteTypeFromMangledNameAbstractV2 (int64_t arg1, int64_t arg2);",
+          "nargs": 2,
+          "nlocals": 4,
+          "cc": 2,
+          "nbbs": 3
+        },
+        {
+          "name": "sym.___swift_project_boxed_opaque_existential_1",
+          "addr": "0x246e69d40",
+          "size": 68,
+          "signature": "sym.___swift_project_boxed_opaque_existential_1 (int64_t arg1, int64_t arg2);",
+          "nargs": 2,
+          "nlocals": 0,
+          "cc": 4,
+          "nbbs": 5
+        },
+        {
+          "name": "sym.___swift_project_value_buffer",
+          "addr": "0x246e6b5b0",
+          "size": 56,
+          "signature": "sym.___swift_project_value_buffer (int64_t arg1, int64_t arg2);",
+          "nargs": 2,
+          "nlocals": 0,
+          "cc": 4,
+          "nbbs": 5
+        },
+        {
+          "name": "sym.___swift_instantiateGenericMetadata",
+          "addr": "0x246e87434",
+          "size": 48,
+          "signature": "sym.___swift_instantiateGenericMetadata (int64_t arg1, int64_t arg2, int64_t arg3, int64_t arg4, int64_t arg_30h);",
+          "nargs": 5,
+          "nlocals": 5,
+          "cc": 1,
+          "nbbs": 1
+        },
+        {
+          "name": "sym.Foundation.Data____GenericAccessor",
+          "addr": "0x246e6989c",
+          "size": 40,
+          "signature": "sym.Foundation.Data____GenericAccessor (int64_t arg1);",
+          "nargs": 1,
+          "nlocals": 0,
+          "cc": 1,
+          "nbbs": 1
+        },
+        {
+          "name": "sym.Foundation.Data._Representation",
+          "addr": "0x246e69880",
+          "size": 28,
+          "signature": "sym.Foundation.Data._Representation (int64_t arg1);",
+          "nargs": 1,
+          "nlocals": 0,
+          "cc": 1,
+          "nbbs": 1
+        },
+        {
+          "name": "sym.___swift_memcpy40_8",
+          "addr": "0x246e6c308",
+          "size": 20,
+          "signature": "sym.___swift_memcpy40_8 (int64_t arg1, int64_t arg2);",
+          "nargs": 2,
+          "nlocals": 0,
+          "cc": 1,
+          "nbbs": 1
+        },
+        {
+          "name": "sym.___swift_memcpy64_8",
+          "addr": "0x246e7c290",
+          "size": 20,
+          "signature": "sym.___swift_memcpy64_8 (int64_t arg1, int64_t arg2);",
+          "nargs": 2,
+          "nlocals": 0,
+          "cc": 1,
+          "nbbs": 1
+        },
+        {
+          "name": "sym.XPCSegmenterInput._symbolic__s10CoreMLOdie17XPCSegmenterInputP",
+          "addr": "0x246e8adec",
+          "size": 20,
+          "signature": "sym.XPCSegmenterInput._symbolic__s10CoreMLOdie17XPCSegmenterInputP ();",
+          "nargs": 0,
+          "nlocals": 0,
+          "cc": 2,
+          "nbbs": 2
+        },
+        {
+          "name": "sym.___swift_memcpy16_8",
+          "addr": "0x246e6933c",
+          "size": 12,
+          "signature": "sym.___swift_memcpy16_8 (int64_t arg1, int64_t arg2);",
+          "nargs": 2,
+          "nlocals": 0,
+          "cc": 1,
+          "nbbs": 1
+        },
+        {
+          "name": "sym.___swift_memcpy32_8",
+          "addr": "0x246e698c4",
+          "size": 12,
+          "signature": "sym.___swift_memcpy32_8 (int64_t arg1, int64_t arg2);",
+          "nargs": 2,
+          "nlocals": 0,
+          "cc": 1,
+          "nbbs": 1
+        },
+        {
+          "name": "sym.___swift_memcpy1_1",
+          "addr": "0x246e69f34",
+          "size": 12,
+          "signature": "sym.___swift_memcpy1_1 (int64_t arg1, int64_t arg2);",
+          "nargs": 2,
+          "nlocals": 0,
+          "cc": 1,
+          "nbbs": 1
+        },
+        {
+          "name": "sym.___swift_memcpy8_8",
+          "addr": "0x246e74120",
+          "size": 12,
+          "signature": "sym.___swift_memcpy8_8 (int64_t arg1, int64_t arg2);",
+          "nargs": 2,
+          "nlocals": 0,
+          "cc": 1,
+          "nbbs": 1
+        },
+        {
+          "name": "sym.symbolic_Error.",
+          "addr": "0x246e8aac4",
+          "size": 8,
+          "signature": "sym.symbolic_Error. (int64_t arg1);",
+          "nargs": 1,
+          "nlocals": 0,
+          "cc": 1,
+          "nbbs": 1
+        },
+        {
+          "name": "sym.CoreMLOdie.BNNSSegmenterError.conformsto.Hashable_...HAASQ_",
+          "addr": "0x246e8abe0",
+          "size": 8,
+          "signature": "sym.CoreMLOdie.BNNSSegmenterError.conformsto.Hashable_...HAASQ_ ();",
+          "nargs": 0,
+          "nlocals": 0,
+          "cc": 1,
+          "nbbs": 1
+        },
+        {
+          "name": "sym.symbolic_CaseIterable.",
+          "addr": "0x246e8ac2c",
+          "size": 8,
+          "signature": "sym.symbolic_CaseIterable. ();",
+          "nargs": 0,
+          "nlocals": 0,
+          "cc": 1,
+          "nbbs": 1
+        },
+        {
+          "name": "sym.String._symbolic_SS7message_t",
+          "addr": "0x246e8ad50",
+          "size": 8,
+          "signature": "sym.String._symbolic_SS7message_t ();",
+          "nargs": 0,
+          "nlocals": 0,
+          "cc": 1,
+          "nbbs": 1
+        },
+        {
+          "name": "sym.symbolic_...SY",
+          "addr": "0x246e8a9cc",
+          "size": 6,
+          "signature": "sym.symbolic_...SY ();",
+          "nargs": 0,
+          "nlocals": 0,
+          "cc": 0,
+          "nbbs": 1
+        },
+        {
+          "name": "sym.___swift_noop_void_return",
+          "addr": "0x246e69348",
+          "size": 4,
+          "signature": "sym.___swift_noop_void_return ();",
+          "nargs": 0,
+          "nlocals": 0,
+          "cc": 1,
+          "nbbs": 1
+        },
+        {
+          "name": "sym.___swift_memcpy0_1",
+          "addr": "0x246e73dbc",
+          "size": 4,
+          "signature": "sym.___swift_memcpy0_1 ();",
+          "nargs": 0,
+          "nlocals": 0,
+          "cc": 1,
+          "nbbs": 1
+        },
+        {
+          "name": "sym.__swift_stdlib_malloc_size",
+          "addr": "0x246e7aa9c",
+          "size": 4,
+          "signature": "sym.__swift_stdlib_malloc_size ();",
+          "nargs": 0,
+          "nlocals": 0,
+          "cc": 1,
+          "nbbs": 1
+        },
+        {
+          "name": "sym.symbolic_bnns_graph_context_t",
+          "addr": "0x246e8a998",
+          "size": 4,
+          "signature": "sym.symbolic_bnns_graph_context_t ();",
+          "nargs": 0,
+          "nlocals": 0,
+          "cc": 1,
+          "nbbs": 1
+        },
+        {
+          "name": "sym.Int._symbolic_Si",
+          "addr": "0x246e8a9a4",
+          "size": 4,
+          "signature": "sym.Int._symbolic_Si ();",
+          "nargs": 0,
+          "nlocals": 0,
+          "cc": 1,
+          "nbbs": 1
+        },
+        {
+          "name": "sym.symbolic_BNNSTargetSystem",
+          "addr": "0x246e8a9a8",
+          "size": 4,
+          "signature": "sym.symbolic_BNNSTargetSystem ();",
+          "nargs": 0,
+          "nlocals": 0,
+          "cc": 1,
+          "nbbs": 1
+        },
+        {
+          "name": "sym.symbolic_e5rt_error_code_t",
+          "addr": "0x246e8a9b4",
+          "size": 4,
+          "signature": "sym.symbolic_e5rt_error_code_t ();",
+          "nargs": 0,
+          "nlocals": 0,
+          "cc": 1,
+          "nbbs": 1
+        },
+        {
+          "name": "sym.String._symbolic_SS",
+          "addr": "0x246e8a9c8",
+          "size": 4,
+          "signature": "sym.String._symbolic_SS ();",
+          "nargs": 0,
+          "nlocals": 0,
+          "cc": 1,
+          "nbbs": 1
+        },
+        {
+          "name": "sym.symbolic_Array",
+          "addr": "0x246e8aa20",
+          "size": 4,
+          "signature": "sym.symbolic_Array ();",
+          "nargs": 0,
+          "nlocals": 0,
+          "cc": 1,
+          "nbbs": 1
+        },
+        {
+          "name": "sym.CoreMLOdie.BNNSDelegate.ODIE.allocator_...DelegateAaD14SymbolResolver_",
+          "addr": "0x246e8aa68",
+          "size": 4,
+          "signature": "sym.CoreMLOdie.BNNSDelegate.ODIE.allocator_...DelegateAaD14SymbolResolver_ ();",
+          "nargs": 0,
+          "nlocals": 0,
+          "cc": 1,
+          "nbbs": 1
+        },
+        {
+          "name": "sym.Operand._symbolic_Si6offset______7elementtSg_4ODIE7OperandO",
+          "addr": "0x246e8aacc",
+          "size": 4,
+          "signature": "sym.Operand._symbolic_Si6offset______7elementtSg_4ODIE7OperandO ();",
+          "nargs": 0,
+          "nlocals": 0,
+          "cc": 1,
+          "nbbs": 1
+        },
+        {
+          "name": "sym.Operand._symbolic_Si6offset______7elementt_4ODIE7OperandO",
+          "addr": "0x246e8aae8",
+          "size": 4,
+          "signature": "sym.Operand._symbolic_Si6offset______7elementt_4ODIE7OperandO ();",
+          "nargs": 0,
+          "nlocals": 0,
+          "cc": 1,
+          "nbbs": 1
+        },
+        {
+          "name": "sym.OperandType._symbolic_Si6offset______7elementtSg_4ODIE11OperandTypeO",
+          "addr": "0x246e8ab1c",
+          "size": 4,
+          "signature": "sym.OperandType._symbolic_Si6offset______7elementtSg_4ODIE11OperandTypeO ();",
+          "nargs": 0,
+          "nlocals": 0,
+          "cc": 1,
+          "nbbs": 1
+        },
+        {
+          "name": "sym.E5RTBufferObject._symbolic_______10CoreMLOdie16E5RTBufferObjectC",
+          "addr": "0x246e8ab38",
+          "size": 4,
+          "signature": "sym.E5RTBufferObject._symbolic_______10CoreMLOdie16E5RTBufferObjectC ();",
+          "nargs": 0,
+          "nlocals": 0,
+          "cc": 1,
+          "nbbs": 1
+        },
+        {
+          "name": "sym.E5CreateOptions._symbolic_______10CoreMLOdie15E5CreateOptionsC",
+          "addr": "0x246e8ab44",
+          "size": 4,
+          "signature": "sym.E5CreateOptions._symbolic_______10CoreMLOdie15E5CreateOptionsC ();",
+          "nargs": 0,
+          "nlocals": 0,
+          "cc": 1,
+          "nbbs": 1
+        },
+        {
+          "name": "sym.symbolic_OpaquePointer...V__1",
+          "addr": "0x246e8ab50",
+          "size": 4,
+          "signature": "sym.symbolic_OpaquePointer...V__1 ();",
+          "nargs": 0,
+          "nlocals": 0,
+          "cc": 1,
+          "nbbs": 1
+        },
+        {
+          "name": "sym.E5RTExecutionStreamOperation._symbolic_______10CoreMLOdie28E5RTExecutionStreamOperationC",
+          "addr": "0x246e8ab58",
+          "size": 4,
+          "signature": "sym.E5RTExecutionStreamOperation._symbolic_______10CoreMLOdie28E5RTExecutionStreamOperationC ();",
+          "nargs": 0,
+          "nlocals": 0,
+          "cc": 1,
+          "nbbs": 1
+        },
+        {
+          "name": "sym.CoreMLOdie.E5IOPort.allocator:_allocator__S_...AASQ_",
+          "addr": "0x246e8ab64",
+          "size": 4,
+          "signature": "sym.CoreMLOdie.E5IOPort.allocator:_allocator__S_...AASQ_ ();",
+          "nargs": 0,
+          "nlocals": 0,
+          "cc": 1,
+          "nbbs": 1
+        },
+        {
+          "name": "sym.E5RTOperandDescriptor._symbolic_______10CoreMLOdie21E5RTOperandDescriptorC",
+          "addr": "0x246e8ab6c",
+          "size": 4,
+          "signature": "sym.E5RTOperandDescriptor._symbolic_______10CoreMLOdie21E5RTOperandDescriptorC ();",
+          "nargs": 0,
+          "nlocals": 0,
+          "cc": 1,
+          "nbbs": 1
+        },
+        {
+          "name": "sym.E5RTProgramLibrary._symbolic_______10CoreMLOdie18E5RTProgramLibraryC",
+          "addr": "0x246e8ab78",
+          "size": 4,
+          "signature": "sym.E5RTProgramLibrary._symbolic_______10CoreMLOdie18E5RTProgramLibraryC ();",
+          "nargs": 0,
+          "nlocals": 0,
+          "cc": 1,
+          "nbbs": 1
+        },
+        {
+          "name": "sym.TargetArchitecture._symbolic_______10CoreMLOdie18TargetArchitectureO",
+          "addr": "0x246e8ab8c",
+          "size": 4,
+          "signature": "sym.TargetArchitecture._symbolic_______10CoreMLOdie18TargetArchitectureO ();",
+          "nargs": 0,
+          "nlocals": 0,
+          "cc": 1,
+          "nbbs": 1
+        },
+        {
+          "name": "sym.AllowedDelegates._symbolic_______10CoreMLOdie16AllowedDelegatesV15MPSGraphOptionsV",
+          "addr": "0x246e8aba8",
+          "size": 4,
+          "signature": "sym.AllowedDelegates._symbolic_______10CoreMLOdie16AllowedDelegatesV15MPSGraphOptionsV ();",
+          "nargs": 0,
+          "nlocals": 0,
+          "cc": 1,
+          "nbbs": 1
+        },
+        {
+          "name": "sym.AllowedDelegates._symbolic_______10CoreMLOdie16AllowedDelegatesV11E5MLOptionsV",
+          "addr": "0x246e8abb4",
+          "size": 4,
+          "signature": "sym.AllowedDelegates._symbolic_______10CoreMLOdie16AllowedDelegatesV11E5MLOptionsV ();",
+          "nargs": 0,
+          "nlocals": 0,
+          "cc": 1,
+          "nbbs": 1
+        },
+        {
+          "name": "sym.Compiler._symbolic______Sg_4ODIE8CompilerC19TargetSpecificationV",
+          "addr": "0x246e8abe8",
+          "size": 4,
+          "signature": "sym.Compiler._symbolic______Sg_4ODIE8CompilerC19TargetSpecificationV ();",
+          "nargs": 0,
+          "nlocals": 0,
+          "cc": 1,
+          "nbbs": 1
+        },
+        {
+          "name": "sym.symbolic_E5MLCompilerInput...V",
+          "addr": "0x246e8abf0",
+          "size": 4,
+          "signature": "sym.symbolic_E5MLCompilerInput...V ();",
+          "nargs": 0,
+          "nlocals": 0,
+          "cc": 1,
+          "nbbs": 1
+        },
+        {
+          "name": "sym.CoreMLOdie.TargetArchitecture.CaseIterable.AllCases_...l_",
+          "addr": "0x246e8ac24",
+          "size": 4,
+          "signature": "sym.CoreMLOdie.TargetArchitecture.CaseIterable.AllCases_...l_ ();",
+          "nargs": 0,
+          "nlocals": 0,
+          "cc": 1,
+          "nbbs": 1
+        },
+        {
+          "name": "sym.E5RTTensorDescriptor._symbolic_______10CoreMLOdie20E5RTTensorDescriptorC",
+          "addr": "0x246e8ac40",
+          "size": 4,
+          "signature": "sym.E5RTTensorDescriptor._symbolic_______10CoreMLOdie20E5RTTensorDescriptorC ();",
+          "nargs": 0,
+          "nlocals": 0,
+          "cc": 1,
+          "nbbs": 1
+        },
+        {
+          "name": "sym.symbolic__ContiguousArrayStorage.allocator__1",
+          "addr": "0x246e8ac50",
+          "size": 4,
+          "signature": "sym.symbolic__ContiguousArrayStorage.allocator__1 ();",
+          "nargs": 0,
+          "nlocals": 0,
+          "cc": 1,
+          "nbbs": 1
+        }
+      ]
+    },
+    "other": {
+      "count": 15,
+      "items": [
+        {
+          "name": "Foundation.Data...V",
+          "addr": "0x246e8a9c0",
+          "size": 4,
+          "signature": "sym.Data._symbolic______Sg_10Foundation4DataV ();",
+          "nargs": 0,
+          "nlocals": 0,
+          "cc": 1,
+          "nbbs": 1
+        },
+        {
+          "name": "KeyedEncodingContainer...V_10CoreMLOdie0D16MLSegmenterInputV10CodingKeys33_8D91DBB18002A275A6415CD998517AA3LLO",
+          "addr": "0x246e8a9e0",
+          "size": 4,
+          "signature": "sym.MLSegmenterInput._symbolic______y_____G_s22KeyedEncodingContainerV_10CoreMLOdie0D16MLSegmenterInputV10CodingKeys33_8D91DBB18002A275A6415CD998517AA3LLO ();",
+          "nargs": 0,
+          "nlocals": 0,
+          "cc": 1,
+          "nbbs": 1
+        },
+        {
+          "name": "CoreMLOdie.MLSegmenterInput.CodingKeys._8D91DBB18002A275A6415CD998517AA3(...O)",
+          "addr": "0x246e8a9f4",
+          "size": 4,
+          "signature": "sym.MLSegmenterInput._symbolic_______10CoreMLOdie0A16MLSegmenterInputV10CodingKeys33_8D91DBB18002A275A6415CD998517AA3LLO ();",
+          "nargs": 0,
+          "nlocals": 0,
+          "cc": 1,
+          "nbbs": 1
+        },
+        {
+          "name": "KeyedDecodingContainer...V_10CoreMLOdie17E5MLCompilerInputV10CodingKeys33_96DF4B2DB6F4CFD77461D6AFB24AD014LLO",
+          "addr": "0x246e8aa28",
+          "size": 4,
+          "signature": "sym.E5MLCompilerInput._symbolic______y_____G_s22KeyedDecodingContainerV_10CoreMLOdie17E5MLCompilerInputV10CodingKeys33_96DF4B2DB6F4CFD77461D6AFB24AD014LLO ();",
+          "nargs": 0,
+          "nlocals": 0,
+          "cc": 1,
+          "nbbs": 1
+        },
+        {
+          "name": "CoreMLOdie.E5MLCompilerInput.CodingKeys._96DF4B2DB6F4CFD77461D6AFB24AD014(...O)",
+          "addr": "0x246e8aa44",
+          "size": 4,
+          "signature": "sym.E5MLCompilerInput._symbolic_______10CoreMLOdie17E5MLCompilerInputV10CodingKeys33_96DF4B2DB6F4CFD77461D6AFB24AD014LLO ();",
+          "nargs": 0,
+          "nlocals": 0,
+          "cc": 1,
+          "nbbs": 1
+        },
+        {
+          "name": "CoreMLOdie.BNNSDelegate.BNNSError.allocator.bool: allocatorBNNSError.bool -> allocator..metadata.type",
+          "addr": "0x246e8aa70",
+          "size": 4,
+          "signature": "sym.BNNSDelegate._symbolic_______10CoreMLOdie12BNNSDelegateC9BNNSErrorO ();",
+          "nargs": 0,
+          "nlocals": 0,
+          "cc": 1,
+          "nbbs": 1
+        },
+        {
+          "name": "CoreMLOdie.BNNSDelegateKernel...V..metadata.type",
+          "addr": "0x246e8aa7c",
+          "size": 4,
+          "signature": "sym.BNNSDelegateKernel._symbolic_______10CoreMLOdie18BNNSDelegateKernelV ();",
+          "nargs": 0,
+          "nlocals": 0,
+          "cc": 1,
+          "nbbs": 1
+        },
+        {
+          "name": "CoreMLOdie.BNNSSegmenter.allocator..metadata.type",
+          "addr": "0x246e8abc0",
+          "size": 4,
+          "signature": "sym.BNNSSegmenter._symbolic_______10CoreMLOdie13BNNSSegmenterC ();",
+          "nargs": 0,
+          "nlocals": 0,
+          "cc": 1,
+          "nbbs": 1
+        },
+        {
+          "name": "CoreMLOdie.BNNSCompileError.bool..metadata.type",
+          "addr": "0x246e8abcc",
+          "size": 4,
+          "signature": "sym.BNNSCompileError._symbolic_______10CoreMLOdie16BNNSCompileErrorO ();",
+          "nargs": 0,
+          "nlocals": 0,
+          "cc": 1,
+          "nbbs": 1
+        },
+        {
+          "name": "CoreMLOdie.ProgramLibrary...V",
+          "addr": "0x246e8ac0c",
+          "size": 4,
+          "signature": "sym.ProgramLibrary._symbolic_______10CoreMLOdie14ProgramLibraryV ();",
+          "nargs": 0,
+          "nlocals": 0,
+          "cc": 1,
+          "nbbs": 1
+        },
+        {
+          "name": "CoreMLOdie.E5MLDelegate.allocator",
+          "addr": "0x246e8ad30",
+          "size": 4,
+          "signature": "sym.E5MLDelegate._symbolic_______10CoreMLOdie12E5MLDelegateC ();",
+          "nargs": 0,
+          "nlocals": 0,
+          "cc": 1,
+          "nbbs": 1
+        },
+        {
+          "name": "CoreMLOdie.E5MLSegmentInfo...V",
+          "addr": "0x246e8ad64",
+          "size": 4,
+          "signature": "sym.E5MLSegmentInfo._symbolic_______10CoreMLOdie15E5MLSegmentInfoV ();",
+          "nargs": 0,
+          "nlocals": 0,
+          "cc": 1,
+          "nbbs": 1
+        },
+        {
+          "name": "_SetStorage.allocator -> ().CoreMLOdie.E5IOPort",
+          "addr": "0x246e8ad70",
+          "size": 4,
+          "signature": "sym.E5IOPort._symbolic______y_____G_s11_SetStorageC_10CoreMLOdie8E5IOPortC ();",
+          "nargs": 0,
+          "nlocals": 0,
+          "cc": 1,
+          "nbbs": 1
+        },
+        {
+          "name": "_DictionaryStorage.allocator -> ().CoreMLOdie.E5IOPort",
+          "addr": "0x246e8adb8",
+          "size": 4,
+          "signature": "sym.E5IOPort._symbolic______ySi_____G_s18_DictionaryStorageC_10CoreMLOdie8E5IOPortC ();",
+          "nargs": 0,
+          "nlocals": 0,
+          "cc": 1,
+          "nbbs": 1
+        },
+        {
+          "name": "KeyedDecodingContainer...V_10CoreMLOdie0D16MLSegmenterInputV10CodingKeys33_8D91DBB18002A275A6415CD998517AA3LLO",
+          "addr": "0x246e8a9d2",
+          "size": 2,
+          "signature": "sym.MLSegmenterInput._symbolic______y_____G_s22KeyedDecodingContainerV_10CoreMLOdie0D16MLSegmenterInputV10CodingKeys33_8D91DBB18002A275A6415CD998517AA3LLO ();",
+          "nargs": 0,
+          "nlocals": 0,
+          "cc": 1,
+          "nbbs": 1
+        }
+      ]
+    }
+  },
+  "total_classes": 49,
+  "classes": [
+    {
+      "name": "E5RTBufferObject",
+      "method_count": 10,
+      "methods": [
+        "0",
+        "1",
+        "2",
+        "3",
+        "4",
+        "func.0000a0e0",
+        "6",
+        "7",
+        "8",
+        "9"
+      ]
+    },
+    {
+      "name": "E5RTTensorDescriptor",
+      "method_count": 2,
+      "methods": [
+        "0",
+        "1"
+      ]
+    },
+    {
+      "name": "E5RTProgramFunction",
+      "method_count": 1,
+      "methods": [
+        "0"
+      ]
+    },
+    {
+      "name": "BNNSOptions",
+      "method_count": 1,
+      "methods": [
+        "0"
+      ]
+    },
+    {
+      "name": "XPCSegmenter",
+      "method_count": 1,
+      "methods": [
+        "0"
+      ]
+    },
+    {
+      "name": "BNNSTargetSystem",
+      "method_count": 0,
+      "methods": []
+    },
+    {
+      "name": "bnns_graph_context_t",
+      "method_count": 0,
+      "methods": []
+    },
+    {
+      "name": "CoreMLSegmenterInput",
+      "method_count": 0,
+      "methods": []
+    },
+    {
+      "name": "e5rt_error_code_t",
+      "method_count": 0,
+      "methods": []
+    },
+    {
+      "name": "CodingKeys",
+      "method_count": 0,
+      "methods": []
+    },
+    {
+      "name": "bnns_graph_argument_t",
+      "method_count": 0,
+      "methods": []
+    },
+    {
+      "name": "E5MLCompilerInput",
+      "method_count": 0,
+      "methods": []
+    },
+    {
+      "name": "CodingKeys_1",
+      "method_count": 0,
+      "methods": []
+    },
+    {
+      "name": "BNNSDelegate",
+      "method_count": 0,
+      "methods": []
+    },
+    {
+      "name": "BNNSError",
+      "method_count": 0,
+      "methods": []
+    },
+    {
+      "name": "BNNSDelegateKernel",
+      "method_count": 0,
+      "methods": []
+    },
+    {
+      "name": "E5CreateOptions",
+      "method_count": 0,
+      "methods": []
+    },
+    {
+      "name": "E5RTExecutionStream",
+      "method_count": 0,
+      "methods": []
+    },
+    {
+      "name": "E5RTExecutionStreamOperation",
+      "method_count": 0,
+      "methods": []
+    },
+    {
+      "name": "E5IOPort",
+      "method_count": 0,
+      "methods": []
+    },
+    {
+      "name": "E5RTOperandDescriptor",
+      "method_count": 0,
+      "methods": []
+    },
+    {
+      "name": "E5RTProgramLibrary",
+      "method_count": 0,
+      "methods": []
+    },
+    {
+      "name": "AllowedDelegates",
+      "method_count": 0,
+      "methods": []
+    },
+    {
+      "name": "MPSGraphOptions",
+      "method_count": 0,
+      "methods": []
+    },
+    {
+      "name": "E5MLOptions",
+      "method_count": 0,
+      "methods": []
+    },
+    {
+      "name": "BNNSSegmenter",
+      "method_count": 0,
+      "methods": []
+    },
+    {
+      "name": "BNNSCompiler",
+      "method_count": 0,
+      "methods": []
+    },
+    {
+      "name": "BNNSCompileError",
+      "method_count": 0,
+      "methods": []
+    },
+    {
+      "name": "BNNSSegmenterError",
+      "method_count": 0,
+      "methods": []
+    },
+    {
+      "name": "ProgramLibrary",
+      "method_count": 0,
+      "methods": []
+    },
+    {
+      "name": "TargetArchitecture",
+      "method_count": 0,
+      "methods": []
+    },
+    {
+      "name": "E5MLDelegate",
+      "method_count": 0,
+      "methods": []
+    },
+    {
+      "name": "E5MLError",
+      "method_count": 0,
+      "methods": []
+    },
+    {
+      "name": "E5MLDelegateKernel",
+      "method_count": 0,
+      "methods": []
+    },
+    {
+      "name": "E5MLSegmentInfo",
+      "method_count": 0,
+      "methods": []
+    },
+    {
+      "name": "XPCDelegateCompiler",
+      "method_count": 0,
+      "methods": []
+    },
+    {
+      "name": "UnnamedClass0",
+      "method_count": 0,
+      "methods": []
+    },
+    {
+      "name": "UnnamedClass1",
+      "method_count": 0,
+      "methods": []
+    },
+    {
+      "name": "UnnamedClass2",
+      "method_count": 0,
+      "methods": []
+    },
+    {
+      "name": "UnnamedClass3",
+      "method_count": 0,
+      "methods": []
+    },
+    {
+      "name": "UnnamedClass4",
+      "method_count": 0,
+      "methods": []
+    },
+    {
+      "name": "UnnamedClass5",
+      "method_count": 0,
+      "methods": []
+    },
+    {
+      "name": "UnnamedClass6",
+      "method_count": 0,
+      "methods": []
+    },
+    {
+      "name": "UnnamedClass7",
+      "method_count": 0,
+      "methods": []
+    },
+    {
+      "name": "UnnamedClass8",
+      "method_count": 0,
+      "methods": []
+    },
+    {
+      "name": "UnnamedClass9",
+      "method_count": 0,
+      "methods": []
+    },
+    {
+      "name": "UnnamedClass10",
+      "method_count": 0,
+      "methods": []
+    },
+    {
+      "name": "UnnamedClass11",
+      "method_count": 0,
+      "methods": []
+    },
+    {
+      "name": "UnnamedClass12",
+      "method_count": 0,
+      "methods": []
+    }
+  ],
+  "total_imports": 153,
+  "import_libraries": {
+    "unknown": {
+      "count": 153,
+      "items": [
+        "sym.imp.BNNSTargetSystem",
+        "sym.imp.bnns_graph_context_t",
+        "sym.imp.CoreMLOdie.MLSegmenterInput...V",
+        "sym.imp.bnns_graph_argument_t",
+        "sym.imp.CoreMLOdie.BNNSDelegateKernel...V",
+        "sym.imp.CoreMLOdie.AllowedDelegates.E5MLOptions...V",
+        "sym.imp.CoreMLOdie.E5MLDelegateKernel...V",
+        "__swift_reflection_version",
+        "sym.imp.CoreMLOdie.E5MLSegmentInfo...V",
+        "sym.imp.symbolic bnns_graph_context_t",
+        "sym.imp.symbolic UnsafeMutableRawPointer",
+        "sym.imp.symbolic Swift.Int",
+        "sym.imp.symbolic BNNSTargetSystem",
+        "sym.imp.symbolic UInt32...V",
+        "sym.imp.symbolic e5rt_error_code_t",
+        "sym.imp.symbolic CoreMLOdie.MLSegmenterInput...V",
+        "sym.imp.symbolic Foundation.Data...V",
+        "sym.imp.symbolic Swift.String",
+        "sym.imp.symbolic ...SY",
+        "sym.imp.symbolic CoreMLOdie.MLSegmenterInput.deallocator.CodingKeys._8D91DBB18002A275A6415CD998517AA3(...O)",
+        "sym.imp.symbolic CoreMLOdie.MLSegmenterInput.deallocator.CodingKeys._8D91DBB18002A275A6415CD998517AA3(...O)",
+        "sym.imp.symbolic bnns_graph_argument_t",
+        "sym.imp.symbolic CoreMLOdie.MLSegmenterInput.CodingKeys._8D91DBB18002A275A6415CD998517AA3(...O)",
+        "sym.imp.CoreMLOdie.MLSegmenterInput.CodingKeys._8D91DBB18002A275A6415CD998517AA3(...OSHAASQ)",
+        "sym.imp.CoreMLOdie.MLSegmenterInput.CodingKeys._8D91DBB18002A275A6415CD998517AA3...s0E3KeyAAs28CustomDebugStringConvertible",
+        "sym.imp.CoreMLOdie.MLSegmenterInput.CodingKeys._8D91DBB18002A275A6415CD998517AA3...s0E3KeyAAs23CustomStringConvertible",
+        "sym.imp.symbolic Foundation.URL...V",
+        "sym.imp.symbolic CoreMLOdie.E5MLCompilerInput...V",
+        "sym.imp.symbolic Array",
+        "sym.imp.symbolic CoreMLOdie.E5MLCompilerInput.CodingKeys._96DF4B2DB6F4CFD77461D6AFB24AD014(...O)"
+      ]
+    }
+  },
+  "total_exports": 0,
+  "export_prefixes": {},
+  "export_samples": {},
+  "total_strings": 215,
+  "interesting_strings": [
+    "unspecialized",
+    "catchAllDelegateTag",
+    "espressocOptions",
+    "com.apple.CoreMLOdie",
+    "_TtC10CoreMLOdie12BNNSDelegate",
+    "bnnsGraphContext",
+    "generateExecutionIR not implemented",
+    "CoreMLOdie/BNNSDelegateKernel.swift",
+    "BNNS kernel failed to execute with flag:",
+    "Expected NDArray at output index",
+    "CoreMLOdie/E5RT+ODIE.swift",
+    "Unknown interleave case",
+    "Interleave must be known",
+    "Expected NDArray input",
+    "Missing input port:",
+    "Only NDArray inputs supported for reshape",
+    "CoreMLOdie/E5RTTensorDescriptor.swift",
+    "Tensor descriptor already released",
+    "Expected NDArray or meta NDArray type at output index",
+    "Missing output port at index",
+    "Unexpected interleave",
+    "Unsupported scalar type:",
+    "_TtC10CoreMLOdie16E5RTBufferObject",
+    "_TtC10CoreMLOdie15E5CreateOptions",
+    "_TtC10CoreMLOdie19E5RTExecutionStream",
+    "_TtC10CoreMLOdie28E5RTExecutionStreamOperation",
+    "_TtC10CoreMLOdie8E5IOPort",
+    "_TtC10CoreMLOdie21E5RTOperandDescriptor",
+    "handle",
+    "_TtC10CoreMLOdie19E5RTProgramFunction",
+    "_TtC10CoreMLOdie18E5RTProgramLibrary",
+    "_TtC10CoreMLOdie13BNNSSegmenter",
+    "_TtC10CoreMLOdie12BNNSCompiler",
+    "target",
+    "CoreMLOdie/Compiler+Delegates.swift",
+    "Expected mlirURL to be either .bc or .mlir file.",
+    "com.apple.ggml.E5MLCompiler",
+    "com.apple.mlpt.CoreMLSegmenter",
+    "CoreMLOdie/ProgramLibrary.swift",
+    "Fatal error",
+    "Compiled library path:",
+    " does not have assets compiled for the current architecture:",
+    "_TtC10CoreMLOdie20E5RTTensorDescriptor",
+    "' not found in: \"",
+    "_TtC10CoreMLOdie12E5MLDelegate",
+    "executionStreamOperations",
+    "Expected NDArray output type at index",
+    "Missing operation for entrypoint",
+    "Output name index out of range",
+    "Missing output port:",
+    "Missing inout port:",
+    "Expected NDArray or meta NDArray output type at index",
+    "CoreMLOdie/E5MLDelegateKernel.swift",
+    "BNNSTargetSystem",
+    "bnns_graph_context_t",
+    "CoreMLOdie",
+    "CoreMLSegmenterInput",
+    "e5rt_error_code_t",
+    ">8y5x;",
+    "]5x;\\\\",
+    "CodingKeys",
+    "bnns_graph_argument_t",
+    "}Fx;\\\\",
+    ">8=6x;\\f",
+    ">8\\r7x;",
+    ">8MLx;",
+    "E5MLCompilerInput",
+    ">8m7x;(",
+    "CodingKeys",
+    ">8e4x;",
+    ">855x;`",
+    ">8uJx;8",
+    "YJx;\\b",
+    "BNNSDelegate",
+    "BNNSError",
+    "BNNSDelegateKernel",
+    "E5RTBufferObject",
+    "E5CreateOptions",
+    "E5RTExecutionStream",
+    "E5RTExecutionStreamOperation",
+    "E5IOPort",
+    "=2x;\\f\\r",
+    "E5RTOperandDescriptor",
+    "E5RTProgramFunction",
+    "E5RTProgramLibrary",
+    "AllowedDelegates",
+    "BNNSOptions",
+    "MPSGraphOptions",
+    "E5MLOptions",
+    "BNNSSegmenter",
+    "BNNSCompiler",
+    "BNNSCompileError",
+    "/x;T\\f",
+    ">8ECx;,\\f",
+    "BNNSSegmenterError",
+    "aBx;\\b",
+    "ProgramLibrary",
+    "Y-x;x\\n",
+    ">8!,x;P\\n",
+    "(x;i\\f",
+    "TargetArchitecture",
+    "\\a\\b\\t\\n\\v\\f\\r",
+    "E5RTTensorDescriptor",
+    "E5MLDelegate",
+    "E5MLError",
+    "}>x;`\\b",
+    "E5MLDelegateKernel",
+    "E5MLSegmentInfo",
+    "XPCSegmenterInput",
+    "XPCDelegateCompilerInput",
+    "XPCSegmenter",
+    "XPCDelegateCompiler",
+    ">8Pv\\a;l",
+    ">80x\\a;",
+    "contentsOfDirectoryAtURL:includingPropertiesForKeys:options:error:",
+    "defaultManager",
+    "fileExistsAtPath:",
+    "initWithArchitecture:gpuCoreCount:aneOptionsURL:",
+    "\\a\\b\\t\\n\\v\\f\\r"
+  ],
+  "sections": [
+    {
+      "name": "0.__TEXT.__text",
+      "size": 123196,
+      "perm": "-r-x"
+    },
+    {
+      "name": "1.__TEXT.__auth_stubs",
+      "size": 4928,
+      "perm": "-r-x"
+    },
+    {
+      "name": "2.__TEXT.__cstring",
+      "size": 2164,
+      "perm": "-r-x"
+    },
+    {
+      "name": "3.__TEXT.__const",
+      "size": 4656,
+      "perm": "-r-x"
+    },
+    {
+      "name": "4.__TEXT.__constg_swiftt",
+      "size": 1848,
+      "perm": "-r-x"
+    },
+    {
+      "name": "5.__TEXT.__swift5_typeref",
+      "size": 1200,
+      "perm": "-r-x"
+    },
+    {
+      "name": "6.__TEXT.__swift5_builtin",
+      "size": 80,
+      "perm": "-r-x"
+    },
+    {
+      "name": "7.__TEXT.__swift5_reflstr",
+      "size": 1047,
+      "perm": "-r-x"
+    },
+    {
+      "name": "8.__TEXT.__swift5_fieldmd",
+      "size": 1676,
+      "perm": "-r-x"
+    },
+    {
+      "name": "9.__TEXT.__swift5_assocty",
+      "size": 72,
+      "perm": "-r-x"
+    },
+    {
+      "name": "10.__TEXT.__swift5_proto",
+      "size": 164,
+      "perm": "-r-x"
+    },
+    {
+      "name": "11.__TEXT.__swift5_types",
+      "size": 144,
+      "perm": "-r-x"
+    },
+    {
+      "name": "12.__TEXT.__swift_as_entry",
+      "size": 36,
+      "perm": "-r-x"
+    },
+    {
+      "name": "13.__TEXT.__swift_as_ret",
+      "size": 36,
+      "perm": "-r-x"
+    },
+    {
+      "name": "14.__TEXT.__swift5_capture",
+      "size": 64,
+      "perm": "-r-x"
+    },
+    {
+      "name": "15.__TEXT.__oslogstring",
+      "size": 232,
+      "perm": "-r-x"
+    },
+    {
+      "name": "16.__TEXT.__swift5_protos",
+      "size": 8,
+      "perm": "-r-x"
+    },
+    {
+      "name": "17.__TEXT.__unwind_info",
+      "size": 1784,
+      "perm": "-r-x"
+    },
+    {
+      "name": "18.__TEXT.__eh_frame",
+      "size": 4272,
+      "perm": "-r-x"
+    },
+    {
+      "name": "19.__TEXT.__objc_methname",
+      "size": 149,
+      "perm": "-r-x"
+    },
+    {
+      "name": "20.__DATA_CONST.__got",
+      "size": 504,
+      "perm": "-rw-"
+    },
+    {
+      "name": "21.__DATA_CONST.__const",
+      "size": 80,
+      "perm": "-rw-"
+    },
+    {
+      "name": "22.__DATA_CONST.__objc_classlist",
+      "size": 104,
+      "perm": "-rw-"
+    },
+    {
+      "name": "23.__DATA_CONST.__objc_imageinfo",
+      "size": 8,
+      "perm": "-rw-"
+    },
+    {
+      "name": "24.__DATA_CONST.__objc_selrefs",
+      "size": 32,
+      "perm": "-rw-"
+    },
+    {
+      "name": "25.__AUTH_CONST.__auth_got",
+      "size": 2464,
+      "perm": "-rw-"
+    },
+    {
+      "name": "26.__AUTH_CONST.__auth_ptr",
+      "size": 776,
+      "perm": "-rw-"
+    },
+    {
+      "name": "27.__AUTH_CONST.__const",
+      "size": 2960,
+      "perm": "-rw-"
+    },
+    {
+      "name": "28.__AUTH_CONST.__objc_const",
+      "size": 2384,
+      "perm": "-rw-"
+    },
+    {
+      "name": "29.__AUTH.__data",
+      "size": 2952,
+      "perm": "-rw-"
+    },
+    {
+      "name": "30.__DATA.__data",
+      "size": 1168,
+      "perm": "-rw-"
+    },
+    {
+      "name": "31.__DATA.__bss",
+      "size": 0,
+      "perm": "-rw-"
+    },
+    {
+      "name": "32.__DATA.__common",
+      "size": 0,
+      "perm": "-rw-"
+    }
+  ],
+  "top_functions": [
+    {
+      "name": "fcn.246e72624",
+      "addr": "0x246e72624",
+      "size": 29772,
+      "signature": "fcn.246e72624 (int64_t arg1);",
+      "cc": 1,
+      "nbbs": 2,
+      "disasm_preview": "            ; CALL XREF from fcn.246e72638 @ 0x246e72808(x)\n\u250c 40: fcn.246e72624 (int64_t arg1);\n\u2502 `- args(x0)\n\u2502           0x246e72624      e30300aa       mov x3, x0                 ; arg1\n\u2502           0x246e72628      010840f9       ldr x1, [x0, 0x10]         ; arg1\n\u2502           0x246e7262c      00008052       mov w0, 0\n\u2502           0x246e72630      02008052       mov w2, 0\n\u2502       \u250c\u2500< 0x246e72634      0a1d0014       b 0x246e79a5c\n        \u2502   ; CALL XREF from sym.__swift_stdlib_malloc_size @ +0x9d4(x)\n\u250c 1096: fcn.246e72638 (int64_t arg1, int64_t arg2, int64_t arg_80h);\n\u2502 `- args(x0, x1, sp[0x80..0x80]) vars(16:sp[0x8..0x80])\n\u2502       \u2502   0x246e72638      7f2303d5       pacibsp\n\u2502       \u2502   0x246e7263c      ff0302d1       sub sp, sp, 0x80\n\u2502       \u2502   0x246e72640      fc1300f9       str x28, [var_20h]\n\u2502       \u2502   0x246e72644      fb6b03a9       stp x27, x26, [var_30h]\n\u2502       \u2502   0x246e72648      f96304a9       stp x25, x24, [var_40h]\n\u2502       \u2502   0x246e7264c      f75b05a9       stp x23, x22, [var_50h]\n\u2502       \u2502   0x246e72650      f44f06a9       stp x20, x19, [var_60h]\n\u2502       \u2502   0x246e72654      fd7b07a9       stp x29, x30, [var_70h]\n\u2502       \u2502   0x246e72658      fdc30191       add x29, sp, 0x70\n\u2502       \u2502   0x246e7265c      f50700f9       str x21, [var_8h]\n\u2502       \u2502   0x246e72660      f90300aa       mov x25, x0                ; arg1\n\u2502       \u2502   0x246e72664      08e07d92       and x8, x0, 0xffffffffffffff8 ; arg1\n\u2502       \u2502   0x246e72668      1bfc7ed3       lsr x27, x0, 0x3e          ; arg1\n\u2502      \u250c\u2500\u2500< 0x246e7266c      bb0b00b5       cbnz x27, 0x246e727e0\n\u2502      \u2502\u2502   0x246e72670      160940f9       ldr x22, [x8, 0x10]\n\u2502      \u2502\u2502   ; CODE XREF from fcn.246e72638 @ 0x246e727f8(x)\n\u2502      \u2502\u2502   0x246e72674      280840f9       ldr x8, [x1, 0x10]\n\u2502      \u2502\u2502   0x246e72678      df0208eb       cmp x22, x8\n\u2502     \u250c\u2500\u2500\u2500< 0x246e7267c      010c0054       b.ne 0x246e727fc\n\u2502     \u2502\u2502\u2502   0x246e72680      e10300f9       str x1, [sp]\n\u2502     \u2502\u2502\u2502   0x246e72684      d89818b0       adrp x24, 0x27818b000\n\u2502     \u2502\u2502\u2502   0x246e72688      188347f9       ldr x24, [x24, 0xf00]\n\u2502    \u250c\u2500\u2500\u2500\u2500< 0x246e7268c      960400b4       cbz x22, 0x246e7271c\n\u2502    \u2502\u2502\u2502\u2502   0x246e72690      f81700f9       str x24, [arg_80hx28]\n\u2502    \u2502\u2502\u2502\u2502   0x246e72694      f4a30091       add x20, sp, 0x28\n\u2502    \u2502\u2502\u2502\u2502   0x246e72698      00008052       mov w0, 0\n\u2502    \u2502\u2502\u2502\u2502   0x246e7269c      e10316aa       mov x1, x22\n\u2502    \u2502\u2502\u2502\u2502   0x246e726a0      02008052       mov w2, 0\n\u2502    \u2502\u2502\u2502\u2502   0x246e726a4      fc1e0094       bl fcn.246e7a294\n\u2502    \u2502\u2502\u2502\u2502   0x246e726a8      f41740f9       ldr x20, [arg_80hx28]\n\u2502    \u2502\u2502\u2502\u2502   0x246e726ac      3f0b42f2       tst x25, -0x3fffffffffffffff\n\u2502   \u250c\u2500\u2500\u2500\u2500\u2500< 0x246e726b0      a0030054       b.eq 0x246e72724\n\u2502   \u2502\u2502\u2502\u2502\u2502   0x246e726b4      170080d2       mov x23, 0\n\u2502   \u2502\u2502\u2502\u2502\u2502   ; CODE XREF from fcn.246e72638 @ 0x246e726f4(x)\n\u2502   \u2502\u2502\u2502\u2502\u2502   0x246e726b8      e00317aa       mov x0, x23\n\u2502   \u2502\u2502\u2502\u2502\u2502   0x246e726bc      e10319aa       mov x1, x25\n\u2502   \u2502\u2502\u2502\u2502\u2502   0x246e726c0      f8f30794       bl 0x24706f6a0\n\u2502   \u2502\u2502\u2502\u2502\u2502   0x246e726c4      1"
+    },
+    {
+      "name": "fcn.246e7dcc4",
+      "addr": "0x246e7dcc4",
+      "size": 7116,
+      "signature": "fcn.246e7dcc4 (int64_t arg1, int64_t arg2);",
+      "cc": 66,
+      "nbbs": 106,
+      "disasm_preview": "            ; CALL XREF from fcn.246e7dcc4 @ +0x1bd8(x)\n\u250c 7116: fcn.246e7dcc4 (int64_t arg1, int64_t arg2);\n\u2502 `- args(x0, x1) vars(86:sp[0x8..0x290])\n\u2502           0x246e7dcc4      7f2303d5       pacibsp\n\u2502           0x246e7dcc8      fc0f1af8       str x28, [sp, -0x60]!\n\u2502           0x246e7dccc      fb6b01a9       stp x27, x26, [var_0h_2]\n\u2502           0x246e7dcd0      f96302a9       stp x25, x24, [var_10h]\n\u2502           0x246e7dcd4      f75b03a9       stp x23, x22, [var_20h]\n\u2502           0x246e7dcd8      f44f04a9       stp x20, x19, [var_30h]\n\u2502           0x246e7dcdc      fd7b05a9       stp x29, x30, [var_40h]\n\u2502           0x246e7dce0      fd430191       add x29, sp, 0x50\n\u2502           0x246e7dce4      ff8308d1       sub sp, sp, 0x220\n\u2502           0x246e7dce8      f70315aa       mov x23, x21\n\u2502           0x246e7dcec      f30301aa       mov x19, x1                ; arg2\n\u2502           0x246e7dcf0      a82301d1       sub x8, x29, 0x48\n\u2502           0x246e7dcf4      000110f8       stur x0, [x8, -0x100]      ; arg1\n\u2502           0x246e7dcf8      000080d2       mov x0, 0\n\u2502           0x246e7dcfc      b5c50794       bl 0x24706f3d0\n\u2502           0x246e7dd00      e90300aa       mov x9, x0\n\u2502           0x246e7dd04      288d5ff8       ldr x8, [x9, -8]!\n\u2502           0x246e7dd08      f00308aa       mov x16, x8\n\u2502           0x246e7dd0c      f10309aa       mov x17, x9\n\u2502           0x246e7dd10      f1c7e5f2       movk x17, 0x2e3f, lsl 48   ; '?.'\n\u2502           0x246e7dd14      301ac1da       autda x16, x17\n\u2502           0x246e7dd18      f10310aa       mov x17, x16\n\u2502           0x246e7dd1c      f147c1da       xpacd x17\n\u2502           0x246e7dd20      1f0211eb       cmp x16, x17\n\u2502       \u250c\u2500< 0x246e7dd24      40000054       b.eq 0x246e7dd2c\n\u2502       \u2502   0x246e7dd28      408e38d4       brk 0xc472\n\u2502       \u2502   ; CODE XREF from fcn.246e7dcc4 @ 0x246e7dd24(x)\n\u2502       \u2514\u2500> 0x246e7dd2c      a0c337a9       stp x0, x16, [x29, -0x88]\n\u2502           0x246e7dd30      f00308aa       mov x16, x8\n\u2502           0x246e7dd34      f10309aa       mov x17, x9\n\u2502           0x246e7dd38      f1c7e5f2       movk x17, 0x2e3f, lsl 48   ; '?.'\n\u2502           0x246e7dd3c      301ac1da       autda x16, x17\n\u2502           0x246e7dd40      082240f9       ldr x8, [x16, 0x40]\n\u2502           0x246e7dd44      e90308aa       mov x9, x8\n\u2502           0x246e7dd48      91bc1db0       adrp x17, 0x28260e000\n\u2502           0x246e7dd4c      31621e91       add x17, x17, 0x798\n\u2502           0x246e7dd50      300240f9       ldr x16, [x17]\n\u2502           0x246e7dd54      110a3fd7       blraa x16, x17\n\u2502           0x246e7dd58      e9030091       mov x9, sp\n\u2502           0x246e7dd5c      0a3d0091       add x10, x8, 0xf\n\u2502           0x246e7dd60      4ced7c92       and x12, x10, 0xfffffffffffffff0\n\u2502           0x246e7dd64      29010ccb       sub x9, x9, x12\n\u2502           0x246e7dd68      a90317f8       stur x9, [x29, -0x90]\n\u2502           0x246e7dd6c      3f010091       mov sp, x9\n\u2502           0x246e7dd70      e90308aa       mov x9, x8\n\u2502           0x246e7dd74      91bc1db0       adrp x17, "
+    },
+    {
+      "name": "fcn.246e6d3b0",
+      "addr": "0x246e6d3b0",
+      "size": 6724,
+      "signature": "fcn.246e6d3b0 (int64_t arg1, int64_t arg2, int64_t arg3, int64_t arg4, int64_t arg5, int64_t arg6);",
+      "cc": 71,
+      "nbbs": 126,
+      "disasm_preview": "            ; CALL XREF from fcn.246e7c470 @ 0x246e7d730(x)\n            ; CALL XREF from fcn.246e7dcc4 @ 0x246e7e7e8(x)\n\u250c 6724: fcn.246e6d3b0 (int64_t arg1, int64_t arg2, int64_t arg3, int64_t arg4, int64_t arg5, int64_t arg6);\n\u2502 `- args(x0, x1, x2, x3, x4, x5) vars(86:sp[0x8..0x290])\n\u2502           0x246e6d3b0      7f2303d5       pacibsp\n\u2502           0x246e6d3b4      fc0f1af8       str x28, [sp, -0x60]!\n\u2502           0x246e6d3b8      fb6b01a9       stp x27, x26, [var_0h_9]\n\u2502           0x246e6d3bc      f96302a9       stp x25, x24, [var_10h]\n\u2502           0x246e6d3c0      f75b03a9       stp x23, x22, [var_20h]\n\u2502           0x246e6d3c4      f44f04a9       stp x20, x19, [var_30h]\n\u2502           0x246e6d3c8      fd7b05a9       stp x29, x30, [var_40h]\n\u2502           0x246e6d3cc      fd430191       add x29, sp, 0x50\n\u2502           0x246e6d3d0      ff8308d1       sub sp, sp, 0x220\n\u2502           0x246e6d3d4      b58315f8       stur x21, [x29, -0xa8]\n\u2502           0x246e6d3d8      a86303d1       sub x8, x29, 0xd8\n\u2502           0x246e6d3dc      050110f8       stur x5, [x8, -0x100]      ; arg6\n\u2502           0x246e6d3e0      a86301d1       sub x8, x29, 0x58\n\u2502           0x246e6d3e4      040110f8       stur x4, [x8, -0x100]      ; arg5\n\u2502           0x246e6d3e8      a8a301d1       sub x8, x29, 0x68\n\u2502           0x246e6d3ec      030110f8       stur x3, [x8, -0x100]      ; arg4\n\u2502           0x246e6d3f0      a8c300d1       sub x8, x29, 0x30\n\u2502           0x246e6d3f4      020110f8       stur x2, [x8, -0x100]      ; arg3\n\u2502           0x246e6d3f8      f40301aa       mov x20, x1                ; arg2\n\u2502           0x246e6d3fc      f80300aa       mov x24, x0                ; arg1\n\u2502           0x246e6d400      e89818f0       adrp x8, 0x27818c000\n\u2502           0x246e6d404      08ad46f9       ldr x8, [x8, 0xd58]\n\u2502           0x246e6d408      080140f9       ldr x8, [x8]\n\u2502           0x246e6d40c      a8031af8       stur x8, [x29, -0x60]\n\u2502           0x246e6d410      000080d2       mov x0, 0\n\u2502           0x246e6d414      ef070894       bl 0x24706f3d0\n\u2502           0x246e6d418      a86304d1       sub x8, x29, 0x118\n\u2502           0x246e6d41c      000110f8       stur x0, [x8, -0x100]\n\u2502           0x246e6d420      e90300aa       mov x9, x0\n\u2502           0x246e6d424      288d5ff8       ldr x8, [x9, -8]!\n\u2502           0x246e6d428      f00308aa       mov x16, x8\n\u2502           0x246e6d42c      f10309aa       mov x17, x9\n\u2502           0x246e6d430      f1c7e5f2       movk x17, 0x2e3f, lsl 48   ; '?.'\n\u2502           0x246e6d434      301ac1da       autda x16, x17\n\u2502           0x246e6d438      f10310aa       mov x17, x16\n\u2502           0x246e6d43c      f147c1da       xpacd x17\n\u2502           0x246e6d440      1f0211eb       cmp x16, x17\n\u2502       \u250c\u2500< 0x246e6d444      40000054       b.eq 0x246e6d44c\n\u2502       \u2502   0x246e6d448      408e38d4       brk 0xc472\n\u2502       \u2502   ; CODE XREF from fcn.246e6d3b0 @ 0x246e6d444(x)\n\u2502       \u2514\u2500> 0x246e6d44c      b08310f8       stur x16, [x29, -0xf8]\n\u2502           0x246e6d450      f00308aa       mov x16, x8\n\u2502           0x246e6d4"
+    },
+    {
+      "name": "fcn.246e7c470",
+      "addr": "0x246e7c470",
+      "size": 5796,
+      "signature": "fcn.246e7c470 (int64_t arg1, int64_t arg2, int64_t arg3);",
+      "cc": 71,
+      "nbbs": 124,
+      "disasm_preview": "            ; CALL XREF from fcn.246e7dcc4 @ +0x1bf0(x)\n\u250c 5796: fcn.246e7c470 (int64_t arg1, int64_t arg2, int64_t arg3);\n\u2502 `- args(x0, x1, x2) vars(52:sp[0x8..0x1a0])\n\u2502           0x246e7c470      7f2303d5       pacibsp\n\u2502           0x246e7c474      fc0f1af8       str x28, [sp, -0x60]!\n\u2502           0x246e7c478      fb6b01a9       stp x27, x26, [var_10h]\n\u2502           0x246e7c47c      f96302a9       stp x25, x24, [var_20h]\n\u2502           ; DATA XREF from fcn.246e7c470 @ 0x246e7ceec(r)\n\u2502           ; DATA XREF from fcn.246e7dcc4 @ 0x246e7e4b8(r)\n\u2502           0x246e7c480      f75b03a9       stp x23, x22, [var_30h]\n\u2502           ; DATA XREF from fcn.246e7c470 @ 0x246e7cef4(r)\n\u2502           ; DATA XREF from fcn.246e7dcc4 @ 0x246e7e4c4(r)\n\u2502           0x246e7c484      f44f04a9       stp x20, x19, [var_40h]\n\u2502           0x246e7c488      fd7b05a9       stp x29, x30, [var_50h_2]\n\u2502           0x246e7c48c      fd430191       add x29, sp, 0x50\n\u2502           0x246e7c490      ff0305d1       sub sp, sp, 0x140\n\u2502           0x246e7c494      a8c300d1       sub x8, x29, 0x30\n\u2502           0x246e7c498      150110f8       stur x21, [x8, -0x100]\n\u2502           0x246e7c49c      a8a300d1       sub x8, x29, 0x28\n\u2502           0x246e7c4a0      140110f8       stur x20, [x8, -0x100]\n\u2502           0x246e7c4a4      fc0302aa       mov x28, x2                ; arg3\n\u2502           0x246e7c4a8      a82300d1       sub x8, x29, 8\n\u2502           0x246e7c4ac      010110f8       stur x1, [x8, -0x100]      ; arg2\n\u2502           0x246e7c4b0      a82302d1       sub x8, x29, 0x88\n\u2502           0x246e7c4b4      000110f8       stur x0, [x8, -0x100]      ; arg1\n\u2502           0x246e7c4b8      88981890       adrp x8, 0x27818c000\n\u2502           0x246e7c4bc      08ad46f9       ldr x8, [x8, 0xd58]\n\u2502           0x246e7c4c0      080140f9       ldr x8, [x8]\n\u2502           0x246e7c4c4      a8031af8       stur x8, [x29, -0x60]\n\u2502           0x246e7c4c8      000080d2       mov x0, 0\n\u2502           0x246e7c4cc      e9ca0794       bl 0x24706f070\n\u2502           0x246e7c4d0      a88301d1       sub x8, x29, 0x60\n\u2502           0x246e7c4d4      000110f8       stur x0, [x8, -0x100]\n\u2502           0x246e7c4d8      e90300aa       mov x9, x0\n\u2502           0x246e7c4dc      288d5ff8       ldr x8, [x9, -8]!\n\u2502           0x246e7c4e0      f00308aa       mov x16, x8\n\u2502           0x246e7c4e4      f10309aa       mov x17, x9\n\u2502           0x246e7c4e8      f1c7e5f2       movk x17, 0x2e3f, lsl 48   ; '?.'\n\u2502           0x246e7c4ec      301ac1da       autda x16, x17\n\u2502           0x246e7c4f0      f10310aa       mov x17, x16\n\u2502           0x246e7c4f4      f147c1da       xpacd x17\n\u2502           0x246e7c4f8      1f0211eb       cmp x16, x17\n\u2502       \u250c\u2500< 0x246e7c4fc      40000054       b.eq 0x246e7c504\n\u2502       \u2502   0x246e7c500      408e38d4       brk 0xc472\n\u2502       \u2502   ; CODE XREF from fcn.246e7c470 @ 0x246e7c4fc(x)\n\u2502       \u2514\u2500> 0x246e7c504      aae301d1       sub x10, x29, 0x78\n\u2502           0x246e7c508      500110f8       stur x16, [x10, -0x100]\n\u2502           0x246e7c50c      f00308aa       mov x16, x8\n\u2502    "
+    },
+    {
+      "name": "fcn.246e6fde8",
+      "addr": "0x246e6fde8",
+      "size": 5168,
+      "signature": "fcn.246e6fde8 (int64_t arg1, int64_t arg2, int64_t arg3, int64_t arg4);",
+      "cc": 51,
+      "nbbs": 81,
+      "disasm_preview": "            ; CALL XREF from fcn.246e7c470 @ 0x246e7dac8(x)\n\u250c 5168: fcn.246e6fde8 (int64_t arg1, int64_t arg2, int64_t arg3, int64_t arg4);\n\u2502 `- args(x0, x1, x2, x3) vars(6:sp[0xa0..0x300])\n\u2502           0x246e6fde8      7f2303d5       pacibsp\n\u2502           0x246e6fdec      fc0f1af8       str x28, [sp, -0x60]!\n\u2502           0x246e6fdf0      fb6b01a9       stp x27, x26, [sp, 0x10]\n\u2502           0x246e6fdf4      f96302a9       stp x25, x24, [sp, 0x20]\n\u2502           0x246e6fdf8      f75b03a9       stp x23, x22, [sp, 0x30]\n\u2502           0x246e6fdfc      f44f04a9       stp x20, x19, [sp, 0x40]\n\u2502           0x246e6fe00      fd7b05a9       stp x29, x30, [sp, 0x50]\n\u2502           0x246e6fe04      fd430191       add x29, sp, 0x50\n\u2502           0x246e6fe08      ff8308d1       sub sp, sp, 0x220\n\u2502           0x246e6fe0c      fb0315aa       mov x27, x21\n\u2502           0x246e6fe10      f70303aa       mov x23, x3                ; arg4\n\u2502           0x246e6fe14      a80301d1       sub x8, x29, 0x40\n\u2502           0x246e6fe18      020110f8       stur x2, [x8, -0x100]      ; arg3\n\u2502           0x246e6fe1c      a88302d1       sub x8, x29, 0xa0\n\u2502           0x246e6fe20      010110f8       stur x1, [x8, -0x100]      ; arg2\n\u2502           0x246e6fe24      fa0300aa       mov x26, x0                ; arg1\n\u2502           0x246e6fe28      e89818b0       adrp x8, 0x27818c000\n\u2502           0x246e6fe2c      08ad46f9       ldr x8, [x8, 0xd58]\n\u2502           0x246e6fe30      080140f9       ldr x8, [x8]\n\u2502           0x246e6fe34      a8031af8       stur x8, [x29, -0x60]\n\u2502           0x246e6fe38      000080d2       mov x0, 0\n\u2502           0x246e6fe3c      1dfd0794       bl 0x24706f2b0\n\u2502           0x246e6fe40      a8a302d1       sub x8, x29, 0xa8\n\u2502           0x246e6fe44      000110f8       stur x0, [x8, -0x100]\n\u2502           0x246e6fe48      e90300aa       mov x9, x0\n\u2502           0x246e6fe4c      288d5ff8       ldr x8, [x9, -8]!\n\u2502           0x246e6fe50      f00308aa       mov x16, x8\n\u2502           0x246e6fe54      f10309aa       mov x17, x9\n\u2502           0x246e6fe58      f1c7e5f2       movk x17, 0x2e3f, lsl 48   ; '?.'\n\u2502           0x246e6fe5c      301ac1da       autda x16, x17\n\u2502           0x246e6fe60      f10310aa       mov x17, x16\n\u2502           0x246e6fe64      f147c1da       xpacd x17\n\u2502           0x246e6fe68      1f0211eb       cmp x16, x17\n\u2502       \u250c\u2500< 0x246e6fe6c      40000054       b.eq 0x246e6fe74\n\u2502       \u2502   0x246e6fe70      408e38d4       brk 0xc472\n\u2502       \u2502   ; CODE XREF from fcn.246e6fde8 @ 0x246e6fe6c(x)\n\u2502       \u2514\u2500> 0x246e6fe74      f30310aa       mov x19, x16\n\u2502           0x246e6fe78      f00308aa       mov x16, x8\n\u2502           0x246e6fe7c      f10309aa       mov x17, x9\n\u2502           0x246e6fe80      f1c7e5f2       movk x17, 0x2e3f, lsl 48   ; '?.'\n\u2502           0x246e6fe84      301ac1da       autda x16, x17\n\u2502           0x246e6fe88      082240f9       ldr x8, [x16, 0x40]\n\u2502           0x246e6fe8c      e90308aa       mov x9, x8\n\u2502           0x246e6fe90      f1bc1df0       adrp x17, 0x28260e000\n\u2502           0x246e6fe94      31621e9"
+    },
+    {
+      "name": "fcn.246e76284",
+      "addr": "0x246e76284",
+      "size": 3676,
+      "signature": "fcn.246e76284 (int64_t arg1);",
+      "cc": 33,
+      "nbbs": 59,
+      "disasm_preview": "            ; CALL XREF from fcn.246e75398 @ +0x9e0(x)\n\u250c 3676: fcn.246e76284 (int64_t arg1);\n\u2502 `- args(x0) vars(36:sp[0x8..0x140])\n\u2502           0x246e76284      7f2303d5       pacibsp\n\u2502           0x246e76288      fc6fbaa9       stp x28, x27, [sp, -0x60]!\n\u2502           0x246e7628c      fa6701a9       stp x26, x25, [var_10h]\n\u2502           0x246e76290      f85f02a9       stp x24, x23, [var_20h]\n\u2502           0x246e76294      f65703a9       stp x22, x21, [var_30h]\n\u2502           0x246e76298      f44f04a9       stp x20, x19, [var_40h]\n\u2502           0x246e7629c      fd7b05a9       stp x29, x30, [var_50h_2]\n\u2502           0x246e762a0      fd430191       add x29, sp, 0x50\n\u2502           0x246e762a4      ff8303d1       sub sp, sp, 0xe0\n\u2502           0x246e762a8      f30300aa       mov x19, x0                ; arg1\n\u2502           0x246e762ac      00201c90       adrp x0, 0x27f276000\n\u2502           0x246e762b0      00601591       add x0, x0, 0x558          ; int64_t arg1\n\u2502           0x246e762b4      810000f0       adrp x1, str.CoreMLOdie_E5MLDelegateKernel.swift ; 0x246e89000\n\u2502           0x246e762b8      21a03291       add x1, x1, 0xca8          ; int64_t arg2\n\u2502           0x246e762bc      8fceff97       bl sym.___swift_instantiateConcreteTypeFromMangledNameV2\n\u2502           0x246e762c0      a00311f8       stur x0, [x29, -0xf0]\n\u2502           0x246e762c4      e80300aa       mov x8, x0\n\u2502           0x246e762c8      108d5ff8       ldr x16, [x8, -8]!\n\u2502           0x246e762cc      f10308aa       mov x17, x8\n\u2502           0x246e762d0      f1c7e5f2       movk x17, 0x2e3f, lsl 48   ; '?.'\n\u2502           0x246e762d4      301ac1da       autda x16, x17\n\u2502           0x246e762d8      092240f9       ldr x9, [x16, 0x40]\n\u2502           0x246e762dc      283d0091       add x8, x9, 0xf\n\u2502           0x246e762e0      08ed7c92       and x8, x8, 0xfffffffffffffff0\n\u2502           0x246e762e4      d1bc1d90       adrp x17, 0x28260e000\n\u2502           0x246e762e8      31621e91       add x17, x17, 0x798\n\u2502           0x246e762ec      300240f9       ldr x16, [x17]\n\u2502           0x246e762f0      110a3fd7       blraa x16, x17\n\u2502           0x246e762f4      e9030091       mov x9, sp\n\u2502           0x246e762f8      280108cb       sub x8, x9, x8\n\u2502           0x246e762fc      a80314f8       stur x8, [x29, -0xc0]\n\u2502           0x246e76300      1f010091       mov sp, x8\n\u2502           0x246e76304      000080d2       mov x0, 0\n\u2502           0x246e76308      35d0ff97       bl fcn.246e6a3dc\n\u2502           0x246e7630c      a08313f8       stur x0, [x29, -0xc8]\n\u2502           0x246e76310      e80300aa       mov x8, x0\n\u2502           0x246e76314      108d5ff8       ldr x16, [x8, -8]!\n\u2502           0x246e76318      f10308aa       mov x17, x8\n\u2502           0x246e7631c      f1c7e5f2       movk x17, 0x2e3f, lsl 48   ; '?.'\n\u2502           0x246e76320      301ac1da       autda x16, x17\n\u2502           0x246e76324      082240f9       ldr x8, [x16, 0x40]\n\u2502           0x246e76328      e90308aa       mov x9, x8\n\u2502           0x246e7632c      d1bc1d90       adrp x17, 0x28260e000\n\u2502           0x246e7633"
+    },
+    {
+      "name": "fcn.246e69328",
+      "addr": "0x246e69328",
+      "size": 3552,
+      "signature": "fcn.246e69328 (int64_t arg1);",
+      "cc": 4,
+      "nbbs": 6,
+      "disasm_preview": "            ;-- section.0.__TEXT.__text:\n            ;-- pc:\n            ; NULL XREF from segment.__TEXT @ +0x88(r)\n\u250c 96: fcn.246e69328 (int64_t arg1);\n\u2502 `- args(x0) vars(4:sp[0x8..0x20])\n\u2502           0x246e69328      61201cb0       adrp x1, 0x27f276000       ; [00] -r-x section size 123196 named 0.__TEXT.__text\n\u2502           0x246e6932c      21200d91       add x1, x1, 0x348\n\u2502           0x246e69330      02751f90       adrp x2, 0x285d09000\n\u2502           0x246e69334      42401291       add x2, x2, 0x490\n\u2502       \u250c\u2500< 0x246e69338      61030014       b 0x246e6a0bc\n\u250c 12: sym.___swift_memcpy16_8 (int64_t arg1, int64_t arg2);\n\u2502 `- args(x0, x1)\n\u2502       \u2502   0x246e6933c      2000c03d       ldr q0, [x1]               ; arg2\n\u2502       \u2502   0x246e69340      0000803d       str q0, [x0]               ; arg1\n\u2514       \u2502   0x246e69344      c0035fd6       ret\n\u250c 4: sym.___swift_noop_void_return ();\n\u2514       \u2502   0x246e69348      c0035fd6       ret\n        \u2502   ; CODE XREF from sym.___swift_memcpy1_1 @ +0x2dc(x)\n       \u250c\u2500\u2500< 0x246e6934c      c1000034       cbz w1, 0x246e69364\n       \u2502\u2502   0x246e69350      08404039       ldrb w8, [x0, 0x10]\n      \u250c\u2500\u2500\u2500< 0x246e69354      88000034       cbz w8, 0x246e69364\n      \u2502\u2502\u2502   0x246e69358      080040b9       ldr w8, [x0]\n      \u2502\u2502\u2502   0x246e6935c      00050011       add w0, w8, 1\n      \u2502\u2502\u2502   0x246e69360      c0035fd6       ret\n      \u2502\u2502\u2502   ; CODE XREFS from sym.___swift_noop_void_return @ +0x4(x), +0xc(x)\n      \u2514\u2514\u2500\u2500> 0x246e69364      00008052       mov w0, 0\n        \u2502   0x246e69368      c0035fd6       ret\n        \u2502   ; CODE XREF from sym.___swift_memcpy1_1 @ +0x2e0(x)\n       \u250c\u2500\u2500< 0x246e6936c      c1000034       cbz w1, 0x246e69384\n       \u2502\u2502   0x246e69370      28040051       sub w8, w1, 1\n       \u2502\u2502   0x246e69374      087c00a9       stp x8, xzr, [x0]\n      \u250c\u2500\u2500\u2500< 0x246e69378      c2000034       cbz w2, 0x246e69390\n      \u2502\u2502\u2502   0x246e6937c      28008052       mov w8, 1\n     \u250c\u2500\u2500\u2500\u2500< 0x246e69380      03000014       b 0x246e6938c\n     \u2502\u2502\u2502\u2502   ; CODE XREF from sym.___swift_noop_void_return @ +0x24(x)\n    \u250c\u2500\u2500\u2514\u2500\u2500> 0x246e69384      62000034       cbz w2, 0x246e69390\n    \u2502\u2502\u2502 \u2502   0x246e69388      08008052       mov w8, 0\n    \u2502\u2502\u2502 \u2502   ; CODE XREF from sym.___swift_noop_void_return @ +0x38(x)\n    \u2502\u2514\u2500\u2500\u2500\u2500> 0x246e6938c      08400039       strb w8, [x0, 0x10]\n    \u2502 \u2502 \u2502   ; CODE XREFS from sym.___swift_noop_void_return @ +0x30(x), +0x3c(x)\n    \u2514\u2500\u2514\u2500\u2500\u2500> 0x246e69390      c0035fd6       ret\n        \u2502   0x246e69394      61201cb0       adrp x1, 0x27f276000\n        \u2502   0x246e69398      21400d91       add x1, x1, 0x350\n        \u2502   0x246e6939c      02751f90       adrp x2, 0x285d09000\n        \u2502   0x246e693a0      42401491       add x2, x2, 0x510\n       \u250c\u2500\u2500< 0x246e693a4      46030014       b 0x246e6a0bc              ; fcn.246e69328+0xd94\n       \u2502\u2502   ; CODE XREF from fcn.246e75398 @ +0x114(x)\n       \u2502\u2502   0x246e693a8      08004039       ldrb w8, [x0]\n       \u2502\u2502   0x246e693ac      29004039       ldrb w9, [x1]\n       \u2502\u2502   0x246e693b0      0801094a       eor w8, w8, w9\n       \u2502\u2502   0x246e6"
+    },
+    {
+      "name": "fcn.246e6f300",
+      "addr": "0x246e6f300",
+      "size": 1884,
+      "signature": "fcn.246e6f300 (int64_t arg1, int64_t arg2, int64_t arg3, int64_t arg4, int64_t arg5);",
+      "cc": 24,
+      "nbbs": 33,
+      "disasm_preview": "            ; CALL XREF from fcn.246e7c470 @ 0x246e7d830(x)\n\u250c 1884: fcn.246e6f300 (int64_t arg1, int64_t arg2, int64_t arg3, int64_t arg4, int64_t arg5);\n\u2502 `- args(x0, x1, x2, x3, x4) vars(6:sp[0x10..0x120])\n\u2502           0x246e6f300      7f2303d5       pacibsp\n\u2502           0x246e6f304      fc0f1af8       str x28, [sp, -0x60]!\n\u2502           0x246e6f308      fb6b01a9       stp x27, x26, [sp, 0x10]\n\u2502           0x246e6f30c      f96302a9       stp x25, x24, [sp, 0x20]\n\u2502           0x246e6f310      f75b03a9       stp x23, x22, [sp, 0x30]\n\u2502           0x246e6f314      f44f04a9       stp x20, x19, [sp, 0x40]\n\u2502           0x246e6f318      fd7b05a9       stp x29, x30, [sp, 0x50]\n\u2502           0x246e6f31c      fd430191       add x29, sp, 0x50\n\u2502           0x246e6f320      ff4303d1       sub sp, sp, 0xd0\n\u2502           0x246e6f324      b58316f8       stur x21, [x29, -0x98]\n\u2502           0x246e6f328      a39331a9       stp x3, x4, [x29, -0xe8]   ; arg5\n\u2502           0x246e6f32c      a2031af8       stur x2, [x29, -0x60]      ; arg3\n\u2502           0x246e6f330      a18312f8       stur x1, [x29, -0xd8]      ; arg2\n\u2502           0x246e6f334      f80300aa       mov x24, x0                ; arg1\n\u2502           0x246e6f338      000080d2       mov x0, 0\n\u2502           0x246e6f33c      ddff0794       bl 0x24706f2b0\n\u2502           0x246e6f340      a08315f8       stur x0, [x29, -0xa8]\n\u2502           0x246e6f344      e90300aa       mov x9, x0\n\u2502           0x246e6f348      288d5ff8       ldr x8, [x9, -8]!\n\u2502           0x246e6f34c      f00308aa       mov x16, x8\n\u2502           0x246e6f350      f10309aa       mov x17, x9\n\u2502           0x246e6f354      f1c7e5f2       movk x17, 0x2e3f, lsl 48   ; '?.'\n\u2502           0x246e6f358      301ac1da       autda x16, x17\n\u2502           0x246e6f35c      f10310aa       mov x17, x16\n\u2502           0x246e6f360      f147c1da       xpacd x17\n\u2502           0x246e6f364      1f0211eb       cmp x16, x17\n\u2502       \u250c\u2500< 0x246e6f368      40000054       b.eq 0x246e6f370\n\u2502       \u2502   0x246e6f36c      408e38d4       brk 0xc472\n\u2502       \u2502   ; CODE XREF from fcn.246e6f300 @ 0x246e6f368(x)\n\u2502       \u2514\u2500> 0x246e6f370      f40310aa       mov x20, x16\n\u2502           0x246e6f374      f00308aa       mov x16, x8\n\u2502           0x246e6f378      f10309aa       mov x17, x9\n\u2502           0x246e6f37c      f1c7e5f2       movk x17, 0x2e3f, lsl 48   ; '?.'\n\u2502           0x246e6f380      301ac1da       autda x16, x17\n\u2502           0x246e6f384      082240f9       ldr x8, [x16, 0x40]\n\u2502           0x246e6f388      e90308aa       mov x9, x8\n\u2502           0x246e6f38c      f1bc1df0       adrp x17, 0x28260e000\n\u2502           0x246e6f390      31621e91       add x17, x17, 0x798\n\u2502           0x246e6f394      300240f9       ldr x16, [x17]\n\u2502           0x246e6f398      110a3fd7       blraa x16, x17\n\u2502           0x246e6f39c      e9030091       mov x9, sp\n\u2502           0x246e6f3a0      0a3d0091       add x10, x8, 0xf\n\u2502           0x246e6f3a4      4ced7c92       and x12, x10, 0xfffffffffffffff0\n\u2502           0x246e6f3a8      29010ccb       sub x9, x9, x12\n\u2502           "
+    },
+    {
+      "name": "fcn.246e82d48",
+      "addr": "0x246e82d48",
+      "size": 1872,
+      "signature": "fcn.246e82d48 (int64_t arg_c0h);",
+      "cc": 62,
+      "nbbs": 91,
+      "disasm_preview": "            ; CALL XREF from fcn.246e7bd4c @ 0x246e7bf2c(x)\n\u250c 1872: fcn.246e82d48 (int64_t arg_c0h);\n\u2502 `- args(sp[0xc0..0xc0]) vars(25:sp[0x8..0xc0])\n\u2502           0x246e82d48      7f2303d5       pacibsp\n\u2502           0x246e82d4c      ff0303d1       sub sp, sp, 0xc0\n\u2502           0x246e82d50      fc3300f9       str x28, [var_60h]\n\u2502           0x246e82d54      fb6b07a9       stp x27, x26, [var_70h]\n\u2502           0x246e82d58      f96308a9       stp x25, x24, [var_80h]\n\u2502           0x246e82d5c      f75b09a9       stp x23, x22, [var_90h]\n\u2502           0x246e82d60      f44f0aa9       stp x20, x19, [var_a0h]\n\u2502           0x246e82d64      fd7b0ba9       stp x29, x30, [var_b0h]\n\u2502           0x246e82d68      fdc30291       add x29, sp, 0xb0\n\u2502           0x246e82d6c      f30308aa       mov x19, x8\n\u2502           0x246e82d70      42078052       mov w2, 0x3a               ; ':'\n\u2502           0x246e82d74      0320fcd2       mov x3, -0x1f00000000000000 ; int64_t arg4\n\u2502           0x246e82d78      b9d8ff97       bl fcn.246e7905c\n\u2502       \u250c\u2500< 0x246e82d7c      352e00b5       cbnz x21, 0x246e83340\n\u2502       \u2502   0x246e82d80      f80303aa       mov x24, x3\n\u2502       \u2502   0x246e82d84      e01300f9       str x0, [arg_c0hx20]\n\u2502       \u2502   0x246e82d88      e12700f9       str x1, [arg_c0hx48]\n\u2502       \u2502   0x246e82d8c      e00302aa       mov x0, x2                 ; int64_t arg1\n\u2502       \u2502   0x246e82d90      e10303aa       mov x1, x3                 ; int64_t arg2\n\u2502       \u2502   0x246e82d94      820f8052       mov w2, 0x7c               ; '|'\n\u2502       \u2502   0x246e82d98      0320fcd2       mov x3, -0x1f00000000000000 ; int64_t arg4\n\u2502       \u2502   0x246e82d9c      b0d8ff97       bl fcn.246e7905c\n\u2502       \u2502   0x246e82da0      f90315aa       mov x25, x21\n\u2502      \u250c\u2500\u2500< 0x246e82da4      f50000b4       cbz x21, 0x246e82dc0\n\u2502      \u2502\u2502   0x246e82da8      e02740f9       ldr x0, [arg_c0hx48]\n\u2502      \u2502\u2502   0x246e82dac      01b40794       bl 0x24706fdb0\n\u2502      \u2502\u2502   0x246e82db0      e00318aa       mov x0, x24\n\u2502      \u2502\u2502   0x246e82db4      ffb30794       bl 0x24706fdb0\n\u2502      \u2502\u2502   0x246e82db8      f50319aa       mov x21, x25\n\u2502     \u250c\u2500\u2500\u2500< 0x246e82dbc      61010014       b 0x246e83340\n\u2502     \u2502\u2502\u2502   ; CODE XREF from fcn.246e82d48 @ 0x246e82da4(x)\n\u2502     \u2502\u2514\u2500\u2500> 0x246e82dc0      f40301aa       mov x20, x1\n\u2502     \u2502 \u2502   0x246e82dc4      fa0302aa       mov x26, x2\n\u2502     \u2502 \u2502   0x246e82dc8      fc0303aa       mov x28, x3\n\u2502     \u2502 \u2502   0x246e82dcc      f70300aa       mov x23, x0\n\u2502     \u2502 \u2502   0x246e82dd0      e00318aa       mov x0, x24\n\u2502     \u2502 \u2502   0x246e82dd4      f7b30794       bl 0x24706fdb0\n\u2502     \u2502 \u2502   0x246e82dd8      e0031aaa       mov x0, x26                ; int64_t arg1\n\u2502     \u2502 \u2502   0x246e82ddc      e1031caa       mov x1, x28                ; int64_t arg2\n\u2502     \u2502 \u2502   0x246e82de0      820f8052       mov w2, 0x7c               ; '|'\n\u2502     \u2502 \u2502   0x246e82de4      0320fcd2       mov x3, -0x1f00000000000000 ; int64_t arg4\n\u2502     \u2502 \u2502   0x246e82de8      f50319aa       mov x21, x25\n\u2502     \u2502 \u2502   0x246e82dec      9cd8ff97       bl fcn.246e7905c\n\u2502     \u2502 \u2502   0"
+    },
+    {
+      "name": "fcn.246e6c790",
+      "addr": "0x246e6c790",
+      "size": 1548,
+      "signature": "fcn.246e6c790 (int64_t arg1, int64_t arg2, int64_t arg3, int64_t arg4, int64_t arg5);",
+      "cc": 24,
+      "nbbs": 32,
+      "disasm_preview": "            ; CALL XREF from fcn.246e6c3bc @ +0x290(x)\n\u250c 1548: fcn.246e6c790 (int64_t arg1, int64_t arg2, int64_t arg3, int64_t arg4, int64_t arg5);\n\u2502 `- args(x0, x1, x4, x5, x6) vars(37:sp[0x8..0x120])\n\u2502           0x246e6c790      7f2303d5       pacibsp\n\u2502           0x246e6c794      fc0f1af8       str x28, [sp, -0x60]!\n\u2502           0x246e6c798      fb6b01a9       stp x27, x26, [var_0h]\n\u2502           0x246e6c79c      f96302a9       stp x25, x24, [var_10h]\n\u2502           0x246e6c7a0      f75b03a9       stp x23, x22, [var_20h]\n\u2502           0x246e6c7a4      f44f04a9       stp x20, x19, [var_30h]\n\u2502           0x246e6c7a8      fd7b05a9       stp x29, x30, [var_40h]\n\u2502           0x246e6c7ac      fd430191       add x29, sp, 0x50\n\u2502           0x246e6c7b0      ffc302d1       sub sp, sp, 0xb0\n\u2502           0x246e6c7b4      a6d732a9       stp x6, x21, [x29, -0xd8]  ; arg7\n\u2502           0x246e6c7b8      a50312f8       stur x5, [x29, -0xe0]      ; arg6\n\u2502           0x246e6c7bc      fa0304aa       mov x26, x4                ; arg5\n\u2502           0x246e6c7c0      f60301aa       mov x22, x1                ; arg2\n\u2502           0x246e6c7c4      f40300aa       mov x20, x0                ; arg1\n\u2502           0x246e6c7c8      000080d2       mov x0, 0\n\u2502           0x246e6c7cc      a10a0894       bl 0x24706f250\n\u2502           0x246e6c7d0      f80300aa       mov x24, x0\n\u2502           0x246e6c7d4      e90300aa       mov x9, x0\n\u2502           0x246e6c7d8      288d5ff8       ldr x8, [x9, -8]!\n\u2502           0x246e6c7dc      f00308aa       mov x16, x8\n\u2502           0x246e6c7e0      f10309aa       mov x17, x9\n\u2502           0x246e6c7e4      f1c7e5f2       movk x17, 0x2e3f, lsl 48   ; '?.'\n\u2502           0x246e6c7e8      301ac1da       autda x16, x17\n\u2502           0x246e6c7ec      f10310aa       mov x17, x16\n\u2502           0x246e6c7f0      f147c1da       xpacd x17\n\u2502           0x246e6c7f4      1f0211eb       cmp x16, x17\n\u2502       \u250c\u2500< 0x246e6c7f8      40000054       b.eq 0x246e6c800\n\u2502       \u2502   0x246e6c7fc      408e38d4       brk 0xc472\n\u2502       \u2502   ; CODE XREF from fcn.246e6c790 @ 0x246e6c7f8(x)\n\u2502       \u2514\u2500> 0x246e6c800      f30310aa       mov x19, x16\n\u2502           0x246e6c804      f00308aa       mov x16, x8\n\u2502           0x246e6c808      f10309aa       mov x17, x9\n\u2502           0x246e6c80c      f1c7e5f2       movk x17, 0x2e3f, lsl 48   ; '?.'\n\u2502           0x246e6c810      301ac1da       autda x16, x17\n\u2502           0x246e6c814      082240f9       ldr x8, [x16, 0x40]\n\u2502           0x246e6c818      e90308aa       mov x9, x8\n\u2502           0x246e6c81c      11bd1dd0       adrp x17, 0x28260e000\n\u2502           0x246e6c820      31621e91       add x17, x17, 0x798\n\u2502           0x246e6c824      300240f9       ldr x16, [x17]\n\u2502           0x246e6c828      110a3fd7       blraa x16, x17\n\u2502           0x246e6c82c      e9030091       mov x9, sp\n\u2502           0x246e6c830      083d0091       add x8, x8, 0xf\n\u2502           0x246e6c834      08ed7c92       and x8, x8, 0xfffffffffffffff0\n\u2502           0x246e6c838      280108cb       sub x8, x9, x8\n\u2502           0x246e6c83c   "
+    },
+    {
+      "name": "fcn.246e81f24",
+      "addr": "0x246e81f24",
+      "size": 1404,
+      "signature": "fcn.246e81f24 (int64_t arg1, int64_t arg2, int64_t arg3, int64_t arg_40h);",
+      "cc": 80,
+      "nbbs": 114,
+      "disasm_preview": "            ; CALL XREF from fcn.246e82d48 @ 0x246e832f0(x)\n\u250c 1404: fcn.246e81f24 (int64_t arg1, int64_t arg2, int64_t arg3, int64_t arg_40h);\n\u2502 `- args(x0, x1, x2, sp[0x40..0x40]) vars(10:sp[0x8..0x40])\n\u2502           0x246e81f24      7f2303d5       pacibsp\n\u2502           0x246e81f28      ff0301d1       sub sp, sp, 0x40\n\u2502           0x246e81f2c      f65701a9       stp x22, x21, [var_10h]\n\u2502           0x246e81f30      f44f02a9       stp x20, x19, [var_20h]\n\u2502           0x246e81f34      fd7b03a9       stp x29, x30, [var_30h]\n\u2502           0x246e81f38      fdc30091       add x29, sp, 0x30\n\u2502           0x246e81f3c      f30302aa       mov x19, x2                ; arg3\n\u2502           0x246e81f40      e00700a9       stp x0, x1, [sp]           ; arg2\n\u2502           0x246e81f44      e00301aa       mov x0, x1                 ; arg2\n\u2502           0x246e81f48      a2b70794       bl 0x24706fdd0\n\u2502           0x246e81f4c      419818b0       adrp x1, 0x27818a000\n\u2502           0x246e81f50      219c43f9       ldr x1, [x1, 0x738]\n\u2502           0x246e81f54      429818b0       adrp x2, 0x27818a000\n\u2502           0x246e81f58      42d443f9       ldr x2, [x2, 0x7a8]\n\u2502           0x246e81f5c      439818b0       adrp x3, 0x27818a000\n\u2502           0x246e81f60      63b443f9       ldr x3, [x3, 0x768]\n\u2502           0x246e81f64      e0030091       mov x0, sp\n\u2502           0x246e81f68      72b50794       bl 0x24706f530\n\u2502           0x246e81f6c      f40300aa       mov x20, x0\n\u2502       \u250c\u2500< 0x246e81f70      6113e0b7       tbnz x1, 0x3c, 0x246e821dc\n\u2502      \u250c\u2500\u2500< 0x246e81f74      6114e8b7       tbnz x1, 0x3d, 0x246e82200\n\u2502      \u2502\u2502   ; CODE XREF from fcn.246e81f24 @ 0x246e821fc(x)\n\u2502     \u250c\u2500\u2500\u2500< 0x246e81f78      1428e0b6       tbz x20, 0x3c, 0x246e82478\n\u2502     \u2502\u2502\u2502   0x246e81f7c      28ec4092       and x8, x1, 0xfffffffffffffff\n\u2502     \u2502\u2502\u2502   0x246e81f80      00810091       add x0, x8, 0x20\n\u2502     \u2502\u2502\u2502   0x246e81f84      88be4092       and x8, x20, 0xffffffffffff\n\u2502     \u2502\u2502\u2502   ; CODE XREF from fcn.246e81f24 @ 0x246e8248c(x)\n\u2502     \u2502\u2502\u2502   0x246e81f88      09004039       ldrb w9, [x0]\n\u2502     \u2502\u2502\u2502   0x246e81f8c      3fad0071       cmp w9, 0x2b               ; '+'\n\u2502    \u250c\u2500\u2500\u2500\u2500< 0x246e81f90      40060054       b.eq 0x246e82058\n\u2502    \u2502\u2502\u2502\u2502   0x246e81f94      3fb50071       cmp w9, 0x2d               ; '-'\n\u2502   \u250c\u2500\u2500\u2500\u2500\u2500< 0x246e81f98      210c0054       b.ne 0x246e8211c\n\u2502   \u2502\u2502\u2502\u2502\u2502   0x246e81f9c      1f0500f1       cmp x8, 1\n\u2502  \u250c\u2500\u2500\u2500\u2500\u2500\u2500< 0x246e81fa0      8b270054       b.lt 0x246e82490\n\u2502  \u2502\u2502\u2502\u2502\u2502\u2502   0x246e81fa4      080500f1       subs x8, x8, 1\n\u2502 \u250c\u2500\u2500\u2500\u2500\u2500\u2500\u2500< 0x246e81fa8      e0240054       b.eq 0x246e82444\n\u2502 \u2502\u2502\u2502\u2502\u2502\u2502\u2502   0x246e81fac      6bc20011       add w11, w19, 0x30\n\u2502 \u2502\u2502\u2502\u2502\u2502\u2502\u2502   0x246e81fb0      6ade0011       add w10, w19, 0x37\n\u2502 \u2502\u2502\u2502\u2502\u2502\u2502\u2502   0x246e81fb4      695e0111       add w9, w19, 0x57\n\u2502 \u2502\u2502\u2502\u2502\u2502\u2502\u2502   0x246e81fb8      7f2a00f1       cmp x19, 0xa\n\u2502 \u2502\u2502\u2502\u2502\u2502\u2502\u2502   0x246e81fbc      2c0c8052       mov w12, 0x61              ; 'a'\n\u2502 \u2502\u2502\u2502\u2502\u2502\u2502\u2502   0x246e81fc0      29c18c1a       csel w9, w9, w12, gt\n\u2502 \u2502\u2502\u2502\u2502\u2502\u2502\u2502   0x246e81fc4      2c088052       mov w12, 0x41              "
+    },
+    {
+      "name": "fcn.246e71844",
+      "addr": "0x246e71844",
+      "size": 1180,
+      "signature": "fcn.246e71844 (int64_t arg1, int64_t arg2, int64_t arg3, int64_t arg4);",
+      "cc": 16,
+      "nbbs": 23,
+      "disasm_preview": "            ; CALL XREF from fcn.246e7c470 @ 0x246e7d7b4(x)\n\u250c 1180: fcn.246e71844 (int64_t arg1, int64_t arg2, int64_t arg3, int64_t arg4);\n\u2502 `- args(x0, x1, x2, x3) vars(6:sp[0x10..0xd0])\n\u2502           0x246e71844      7f2303d5       pacibsp\n\u2502           0x246e71848      fc0f1af8       str x28, [sp, -0x60]!\n\u2502           0x246e7184c      fb6b01a9       stp x27, x26, [sp, 0x10]\n\u2502           0x246e71850      f96302a9       stp x25, x24, [sp, 0x20]\n\u2502           0x246e71854      f75b03a9       stp x23, x22, [sp, 0x30]\n\u2502           0x246e71858      f44f04a9       stp x20, x19, [sp, 0x40]\n\u2502           0x246e7185c      fd7b05a9       stp x29, x30, [sp, 0x50]\n\u2502           0x246e71860      fd430191       add x29, sp, 0x50\n\u2502           0x246e71864      ff0302d1       sub sp, sp, 0x80\n\u2502           0x246e71868      b50318f8       stur x21, [x29, -0x80]\n\u2502           0x246e7186c      f60303aa       mov x22, x3                ; arg4\n\u2502           0x246e71870      a2831bf8       stur x2, [x29, -0x48]      ; arg3\n\u2502           0x246e71874      a10314f8       stur x1, [x29, -0xc0]      ; arg2\n\u2502           0x246e71878      f40300aa       mov x20, x0                ; arg1\n\u2502           0x246e7187c      000080d2       mov x0, 0\n\u2502           0x246e71880      8cf60794       bl 0x24706f2b0\n\u2502           0x246e71884      f70300aa       mov x23, x0\n\u2502           0x246e71888      e90300aa       mov x9, x0\n\u2502           0x246e7188c      288d5ff8       ldr x8, [x9, -8]!\n\u2502           0x246e71890      f00308aa       mov x16, x8\n\u2502           0x246e71894      f10309aa       mov x17, x9\n\u2502           0x246e71898      f1c7e5f2       movk x17, 0x2e3f, lsl 48   ; '?.'\n\u2502           0x246e7189c      301ac1da       autda x16, x17\n\u2502           0x246e718a0      f10310aa       mov x17, x16\n\u2502           0x246e718a4      f147c1da       xpacd x17\n\u2502           0x246e718a8      1f0211eb       cmp x16, x17\n\u2502       \u250c\u2500< 0x246e718ac      40000054       b.eq 0x246e718b4\n\u2502       \u2502   0x246e718b0      408e38d4       brk 0xc472\n\u2502       \u2502   ; CODE XREF from fcn.246e71844 @ 0x246e718ac(x)\n\u2502       \u2514\u2500> 0x246e718b4      f80310aa       mov x24, x16\n\u2502           0x246e718b8      f00308aa       mov x16, x8\n\u2502           0x246e718bc      f10309aa       mov x17, x9\n\u2502           0x246e718c0      f1c7e5f2       movk x17, 0x2e3f, lsl 48   ; '?.'\n\u2502           0x246e718c4      301ac1da       autda x16, x17\n\u2502           0x246e718c8      082240f9       ldr x8, [x16, 0x40]\n\u2502           0x246e718cc      e90308aa       mov x9, x8\n\u2502           0x246e718d0      f1bc1db0       adrp x17, 0x28260e000\n\u2502           0x246e718d4      31621e91       add x17, x17, 0x798\n\u2502           0x246e718d8      300240f9       ldr x16, [x17]\n\u2502           0x246e718dc      110a3fd7       blraa x16, x17\n\u2502           0x246e718e0      e9030091       mov x9, sp\n\u2502           0x246e718e4      083d0091       add x8, x8, 0xf\n\u2502           0x246e718e8      08ed7c92       and x8, x8, 0xfffffffffffffff0\n\u2502           0x246e718ec      390108cb       sub x25, x9, x8\n\u2502           0x246e718f0      3f030091       "
+    },
+    {
+      "name": "fcn.246e72638",
+      "addr": "0x246e72638",
+      "size": 1096,
+      "signature": "fcn.246e72638 (int64_t arg1, int64_t arg2, int64_t arg_80h);",
+      "cc": 33,
+      "nbbs": 53,
+      "disasm_preview": "            ; CALL XREF from sym.__swift_stdlib_malloc_size @ +0x9d4(x)\n\u250c 1096: fcn.246e72638 (int64_t arg1, int64_t arg2, int64_t arg_80h);\n\u2502 `- args(x0, x1, sp[0x80..0x80]) vars(16:sp[0x8..0x80])\n\u2502           0x246e72638      7f2303d5       pacibsp\n\u2502           0x246e7263c      ff0302d1       sub sp, sp, 0x80\n\u2502           0x246e72640      fc1300f9       str x28, [var_20h]\n\u2502           0x246e72644      fb6b03a9       stp x27, x26, [var_30h]\n\u2502           0x246e72648      f96304a9       stp x25, x24, [var_40h]\n\u2502           0x246e7264c      f75b05a9       stp x23, x22, [var_50h]\n\u2502           0x246e72650      f44f06a9       stp x20, x19, [var_60h]\n\u2502           0x246e72654      fd7b07a9       stp x29, x30, [var_70h]\n\u2502           0x246e72658      fdc30191       add x29, sp, 0x70\n\u2502           0x246e7265c      f50700f9       str x21, [var_8h]\n\u2502           0x246e72660      f90300aa       mov x25, x0                ; arg1\n\u2502           0x246e72664      08e07d92       and x8, x0, 0xffffffffffffff8 ; arg1\n\u2502           0x246e72668      1bfc7ed3       lsr x27, x0, 0x3e          ; arg1\n\u2502       \u250c\u2500< 0x246e7266c      bb0b00b5       cbnz x27, 0x246e727e0\n\u2502       \u2502   0x246e72670      160940f9       ldr x22, [x8, 0x10]\n\u2502       \u2502   ; CODE XREF from fcn.246e72638 @ 0x246e727f8(x)\n\u2502       \u2502   0x246e72674      280840f9       ldr x8, [x1, 0x10]\n\u2502       \u2502   0x246e72678      df0208eb       cmp x22, x8\n\u2502      \u250c\u2500\u2500< 0x246e7267c      010c0054       b.ne 0x246e727fc\n\u2502      \u2502\u2502   0x246e72680      e10300f9       str x1, [sp]\n\u2502      \u2502\u2502   0x246e72684      d89818b0       adrp x24, 0x27818b000\n\u2502      \u2502\u2502   0x246e72688      188347f9       ldr x24, [x24, 0xf00]\n\u2502     \u250c\u2500\u2500\u2500< 0x246e7268c      960400b4       cbz x22, 0x246e7271c\n\u2502     \u2502\u2502\u2502   0x246e72690      f81700f9       str x24, [arg_80hx28]\n\u2502     \u2502\u2502\u2502   0x246e72694      f4a30091       add x20, sp, 0x28\n\u2502     \u2502\u2502\u2502   0x246e72698      00008052       mov w0, 0\n\u2502     \u2502\u2502\u2502   0x246e7269c      e10316aa       mov x1, x22\n\u2502     \u2502\u2502\u2502   0x246e726a0      02008052       mov w2, 0\n\u2502     \u2502\u2502\u2502   0x246e726a4      fc1e0094       bl fcn.246e7a294\n\u2502     \u2502\u2502\u2502   0x246e726a8      f41740f9       ldr x20, [arg_80hx28]\n\u2502     \u2502\u2502\u2502   0x246e726ac      3f0b42f2       tst x25, -0x3fffffffffffffff\n\u2502    \u250c\u2500\u2500\u2500\u2500< 0x246e726b0      a0030054       b.eq 0x246e72724\n\u2502    \u2502\u2502\u2502\u2502   0x246e726b4      170080d2       mov x23, 0\n\u2502    \u2502\u2502\u2502\u2502   ; CODE XREF from fcn.246e72638 @ 0x246e726f4(x)\n\u2502   \u250c\u2500\u2500\u2500\u2500\u2500> 0x246e726b8      e00317aa       mov x0, x23\n\u2502   \u254e\u2502\u2502\u2502\u2502   0x246e726bc      e10319aa       mov x1, x25\n\u2502   \u254e\u2502\u2502\u2502\u2502   0x246e726c0      f8f30794       bl 0x24706f6a0\n\u2502   \u254e\u2502\u2502\u2502\u2502   0x246e726c4      130840f9       ldr x19, [x0, 0x10]\n\u2502   \u254e\u2502\u2502\u2502\u2502   0x246e726c8      52f60794       bl 0x247070010\n\u2502   \u254e\u2502\u2502\u2502\u2502   0x246e726cc      f41700f9       str x20, [arg_80hx28]\n\u2502   \u254e\u2502\u2502\u2502\u2502   0x246e726d0      9c2241a9       ldp x28, x8, [x20, 0x10]\n\u2502   \u254e\u2502\u2502\u2502\u2502   0x246e726d4      9a070091       add x26, x28, 1\n\u2502   \u254e\u2502\u2502\u2502\u2502   0x246e726d8      9f0748eb       cmp x28, x8, lsr 1\n\u2502  \u250c\u2500\u2500\u2500\u2500\u2500\u2500< 0x246e726dc      02010054       b.hs 0x246e726fc\n\u2502  \u2502\u254e\u2502\u2502\u2502\u2502   ; CODE X"
+    },
+    {
+      "name": "fcn.246e86fd4",
+      "addr": "0x246e86fd4",
+      "size": 1096,
+      "signature": "fcn.246e86fd4 (int64_t arg1, int64_t arg2, int64_t arg3, int64_t arg4);",
+      "cc": 10,
+      "nbbs": 14,
+      "disasm_preview": "            ; CALL XREF from fcn.246e86fd4 @ +0x454(x)\n\u250c 1096: fcn.246e86fd4 (int64_t arg1, int64_t arg2, int64_t arg3, int64_t arg4);\n\u2502 `- args(x0, x1, x2, x3) vars(22:sp[0x8..0xb0])\n\u2502           0x246e86fd4      7f2303d5       pacibsp\n\u2502           0x246e86fd8      fc0f1af8       str x28, [sp, -0x60]!\n\u2502           0x246e86fdc      fb6b01a9       stp x27, x26, [var_10h]\n\u2502           0x246e86fe0      f96302a9       stp x25, x24, [var_20h]\n\u2502           0x246e86fe4      f75b03a9       stp x23, x22, [var_30h]\n\u2502           0x246e86fe8      f44f04a9       stp x20, x19, [var_40h]\n\u2502           0x246e86fec      fd7b05a9       stp x29, x30, [var_50h_2]\n\u2502           0x246e86ff0      fd430191       add x29, sp, 0x50\n\u2502           0x246e86ff4      ff4301d1       sub sp, sp, 0x50\n\u2502           0x246e86ff8      b5831bf8       stur x21, [x29, -0x48]\n\u2502           0x246e86ffc      fb0314aa       mov x27, x20\n\u2502           0x246e87000      f40303aa       mov x20, x3                ; arg4\n\u2502           0x246e87004      a10b38a9       stp x1, x2, [x29, -0x80]   ; arg3\n\u2502           0x246e87008      a08317f8       stur x0, [x29, -0x88]      ; arg1\n\u2502           0x246e8700c      000080d2       mov x0, 0\n\u2502           0x246e87010      e49f0794       bl 0x24706efa0\n\u2502           0x246e87014      f30300aa       mov x19, x0\n\u2502           0x246e87018      e90300aa       mov x9, x0\n\u2502           0x246e8701c      288d5ff8       ldr x8, [x9, -8]!\n\u2502           0x246e87020      f00308aa       mov x16, x8\n\u2502           0x246e87024      f10309aa       mov x17, x9\n\u2502           0x246e87028      f1c7e5f2       movk x17, 0x2e3f, lsl 48   ; '?.'\n\u2502           0x246e8702c      301ac1da       autda x16, x17\n\u2502           0x246e87030      f10310aa       mov x17, x16\n\u2502           0x246e87034      f147c1da       xpacd x17\n\u2502           0x246e87038      1f0211eb       cmp x16, x17\n\u2502       \u250c\u2500< 0x246e8703c      40000054       b.eq 0x246e87044\n\u2502       \u2502   0x246e87040      408e38d4       brk 0xc472\n\u2502       \u2502   ; CODE XREF from fcn.246e86fd4 @ 0x246e8703c(x)\n\u2502       \u2514\u2500> 0x246e87044      b08316f8       stur x16, [x29, -0x98]\n\u2502           0x246e87048      f00308aa       mov x16, x8\n\u2502           0x246e8704c      f10309aa       mov x17, x9\n\u2502           0x246e87050      f1c7e5f2       movk x17, 0x2e3f, lsl 48   ; '?.'\n\u2502           0x246e87054      301ac1da       autda x16, x17\n\u2502           0x246e87058      082240f9       ldr x8, [x16, 0x40]\n\u2502           0x246e8705c      e90308aa       mov x9, x8\n\u2502           0x246e87060      31bc1df0       adrp x17, 0x28260e000\n\u2502           0x246e87064      31621e91       add x17, x17, 0x798\n\u2502           0x246e87068      300240f9       ldr x16, [x17]\n\u2502           0x246e8706c      110a3fd7       blraa x16, x17\n\u2502           0x246e87070      e9030091       mov x9, sp\n\u2502           0x246e87074      083d0091       add x8, x8, 0xf\n\u2502           0x246e87078      08ed7c92       and x8, x8, 0xfffffffffffffff0\n\u2502           0x246e8707c      280108cb       sub x8, x9, x8\n\u2502           0x246e87080      a80319f8       stur x8, [x29, -0x70"
+    },
+    {
+      "name": "fcn.246e6a840",
+      "addr": "0x246e6a840",
+      "size": 1032,
+      "signature": "fcn.246e6a840 (int64_t arg1);",
+      "cc": 8,
+      "nbbs": 14,
+      "disasm_preview": "            ; CALL XREF from fcn.246e6a840 @ +0x584(x)\n\u250c 1032: fcn.246e6a840 (int64_t arg1);\n\u2502 `- args(x0) vars(25:sp[0x8..0xc0])\n\u2502           0x246e6a840      7f2303d5       pacibsp\n\u2502           0x246e6a844      fc0f1af8       str x28, [sp, -0x60]!\n\u2502           0x246e6a848      fb6b01a9       stp x27, x26, [var_10h]\n\u2502           0x246e6a84c      f96302a9       stp x25, x24, [var_20h]\n\u2502           0x246e6a850      f75b03a9       stp x23, x22, [var_30h]\n\u2502           0x246e6a854      f44f04a9       stp x20, x19, [var_40h]\n\u2502           0x246e6a858      fd7b05a9       stp x29, x30, [var_50h_2]\n\u2502           0x246e6a85c      fd430191       add x29, sp, 0x50\n\u2502           0x246e6a860      ff8301d1       sub sp, sp, 0x60\n\u2502           0x246e6a864      b58319f8       stur x21, [x29, -0x68]\n\u2502           0x246e6a868      f90300aa       mov x25, x0                ; arg1\n\u2502           0x246e6a86c      a88316f8       stur x8, [x29, -0x98]\n\u2502           0x246e6a870      60201c90       adrp x0, 0x27f276000\n\u2502           0x246e6a874      00e00e91       add x0, x0, 0x3b8          ; int64_t arg1\n\u2502           0x246e6a878      e10000f0       adrp x1, str.CoreMLOdie_E5MLDelegateKernel.swift ; 0x246e89000\n\u2502           0x246e6a87c      21000f91       add x1, x1, 0x3c0          ; int64_t arg2\n\u2502           0x246e6a880      1efdff97       bl sym.___swift_instantiateConcreteTypeFromMangledNameV2\n\u2502           0x246e6a884      108c5ff8       ldr x16, [x0, -8]!\n\u2502           0x246e6a888      f10300aa       mov x17, x0\n\u2502           0x246e6a88c      f1c7e5f2       movk x17, 0x2e3f, lsl 48   ; '?.'\n\u2502           0x246e6a890      301ac1da       autda x16, x17\n\u2502           0x246e6a894      092240f9       ldr x9, [x16, 0x40]\n\u2502           0x246e6a898      283d0091       add x8, x9, 0xf\n\u2502           0x246e6a89c      08ed7c92       and x8, x8, 0xfffffffffffffff0\n\u2502           0x246e6a8a0      31bd1d90       adrp x17, 0x28260e000\n\u2502           0x246e6a8a4      31621e91       add x17, x17, 0x798\n\u2502           0x246e6a8a8      300240f9       ldr x16, [x17]\n\u2502           0x246e6a8ac      110a3fd7       blraa x16, x17\n\u2502           0x246e6a8b0      e9030091       mov x9, sp\n\u2502           0x246e6a8b4      280108cb       sub x8, x9, x8\n\u2502           0x246e6a8b8      a80318f8       stur x8, [x29, -0x80]\n\u2502           0x246e6a8bc      1f010091       mov sp, x8\n\u2502           0x246e6a8c0      60201c90       adrp x0, 0x27f276000\n\u2502           0x246e6a8c4      00e00f91       add x0, x0, 0x3f8          ; int64_t arg1\n\u2502           0x246e6a8c8      e10000f0       adrp x1, str.CoreMLOdie_E5MLDelegateKernel.swift ; 0x246e89000\n\u2502           0x246e6a8cc      21401191       add x1, x1, 0x450          ; int64_t arg2\n\u2502           0x246e6a8d0      0afdff97       bl sym.___swift_instantiateConcreteTypeFromMangledNameV2\n\u2502           0x246e6a8d4      a00319f8       stur x0, [x29, -0x70]\n\u2502           0x246e6a8d8      e90300aa       mov x9, x0\n\u2502           0x246e6a8dc      288d5ff8       ldr x8, [x9, -8]!\n\u2502           0x246e6a8e0      f00308aa       mov x16, x8\n\u2502        "
+    },
+    {
+      "name": "fcn.246e79394",
+      "addr": "0x246e79394",
+      "size": 960,
+      "signature": "fcn.246e79394 (int64_t arg1, int64_t arg2, int64_t arg3, int64_t arg4, int64_t arg5, int64_t arg6, int64_t arg_b0h);",
+      "cc": 25,
+      "nbbs": 43,
+      "disasm_preview": "            ; CALL XREF from fcn.246e7922c @ 0x246e7929c(x)\n\u250c 960: fcn.246e79394 (int64_t arg1, int64_t arg2, int64_t arg3, int64_t arg4, int64_t arg5, int64_t arg6, int64_t arg_b0h);\n\u2502 `- args(x0, x1, x2, x3, x4, x5, sp[0xb0..0xb0]) vars(21:sp[0x8..0xa8])\n\u2502           0x246e79394      7f2303d5       pacibsp\n\u2502           0x246e79398      ffc302d1       sub sp, sp, 0xb0\n\u2502           0x246e7939c      fc2b00f9       str x28, [var_50h]\n\u2502           0x246e793a0      fb6b06a9       stp x27, x26, [var_60h]\n\u2502           0x246e793a4      f96307a9       stp x25, x24, [var_70h]\n\u2502           0x246e793a8      f75b08a9       stp x23, x22, [var_80h]\n\u2502           0x246e793ac      f44f09a9       stp x20, x19, [var_90h]\n\u2502           0x246e793b0      fd7b0aa9       stp x29, x30, [var_a0h]\n\u2502           0x246e793b4      fd830291       add x29, sp, 0xa0\n\u2502           0x246e793b8      a2831bf8       stur x2, [x29, -0x48]      ; arg3\n\u2502       \u250c\u2500< 0x246e793bc      601af8b7       tbnz x0, 0x3f, 0x246e79708\n\u2502       \u2502   0x246e793c0      f30315aa       mov x19, x21\n\u2502       \u2502   0x246e793c4      f70305aa       mov x23, x5                ; arg6\n\u2502       \u2502   0x246e793c8      f80304aa       mov x24, x4                ; arg5\n\u2502       \u2502   0x246e793cc      a8ec78d3       ubfx x8, x5, 0x38, 4       ; arg6\n\u2502       \u2502   0x246e793d0      89bc4092       and x9, x4, 0xffffffffffff ; arg5\n\u2502      \u250c\u2500\u2500< 0x246e793d4      a00e00b4       cbz x0, 0x246e795a8\n\u2502      \u2502\u2502   0x246e793d8      ff0243f2       tst x23, 0x2000000000000000\n\u2502      \u2502\u2502   0x246e793dc      2a01889a       csel x10, x9, x8, eq\n\u2502     \u250c\u2500\u2500\u2500< 0x246e793e0      4a0e00b4       cbz x10, 0x246e795a8\n\u2502     \u2502\u2502\u2502   0x246e793e4      f40303aa       mov x20, x3                ; arg4\n\u2502     \u2502\u2502\u2502   0x246e793e8      e12f00b9       str w1, [arg_b0hx2c]       ; arg2\n\u2502     \u2502\u2502\u2502   0x246e793ec      e8fe7cd3       lsr x8, x23, 0x3c\n\u2502     \u2502\u2502\u2502   0x246e793f0      1f0345f2       tst x24, 0x800000000000000\n\u2502     \u2502\u2502\u2502   0x246e793f4      e9179f1a       cset w9, eq\n\u2502     \u2502\u2502\u2502   0x246e793f8      1f01096a       tst w8, w9\n\u2502     \u2502\u2502\u2502   0x246e793fc      e8008052       mov w8, 7\n\u2502     \u2502\u2502\u2502   0x246e79400      69018052       mov w9, 0xb\n\u2502     \u2502\u2502\u2502   0x246e79404      2811889a       csel x8, x9, x8, ne\n\u2502     \u2502\u2502\u2502   0x246e79408      08410aaa       orr x8, x8, x10, lsl 16\n\u2502     \u2502\u2502\u2502   0x246e7940c      e81300f9       str x8, [arg_b0hx20]\n\u2502     \u2502\u2502\u2502   0x246e79410      5bf57ed3       lsl x27, x10, 2\n\u2502     \u2502\u2502\u2502   0x246e79414      9c9818d0       adrp x28, 0x27818b000\n\u2502     \u2502\u2502\u2502   0x246e79418      9c8347f9       ldr x28, [x28, 0xf00]\n\u2502     \u2502\u2502\u2502   0x246e7941c      ea018052       mov w10, 0xf\n\u2502     \u2502\u2502\u2502   ; CODE XREF from fcn.246e79394 @ 0x246e79560(x)\n\u2502     \u2502\u2502\u2502   0x246e79420      5afd4ed3       lsr x26, x10, 0xe\n\u2502     \u2502\u2502\u2502   0x246e79424      5f031beb       cmp x26, x27\n\u2502    \u250c\u2500\u2500\u2500\u2500< 0x246e79428      80110054       b.eq 0x246e79658\n\u2502    \u2502\u2502\u2502\u2502   0x246e7942c      fc1b00f9       str x28, [arg_b0hx30]\n\u2502    \u2502\u2502\u2502\u2502   0x246e79430      e00f00f9       str x0, [arg_b0hx18]       ; arg1\n\u2502    \u2502\u2502\u2502\u2502   ; CODE XREF from fcn.246e7939"
+    },
+    {
+      "name": "fcn.246e6fa5c",
+      "addr": "0x246e6fa5c",
+      "size": 908,
+      "signature": "fcn.246e6fa5c (int64_t arg1, int64_t arg2, int64_t arg3, int64_t arg4, int64_t arg5, int64_t arg6, int64_t arg_90h);",
+      "cc": 17,
+      "nbbs": 28,
+      "disasm_preview": "            ; CALL XREF from fcn.246e71430 @ +0x84(x)\n\u250c 908: fcn.246e6fa5c (int64_t arg1, int64_t arg2, int64_t arg3, int64_t arg4, int64_t arg5, int64_t arg6, int64_t arg_90h);\n\u2502 `- args(x0, x1, x2, x3, x4, x5, sp[0x90..0x90]) vars(15:sp[0x8..0x90])\n\u2502           0x246e6fa5c      7f2303d5       pacibsp\n\u2502           0x246e6fa60      ff4302d1       sub sp, sp, 0x90\n\u2502           0x246e6fa64      fc1b00f9       str x28, [sp, 0x30]\n\u2502           0x246e6fa68      fb6b04a9       stp x27, x26, [sp, 0x40]\n\u2502           0x246e6fa6c      f96305a9       stp x25, x24, [sp, 0x50]\n\u2502           0x246e6fa70      f75b06a9       stp x23, x22, [sp, 0x60]\n\u2502           0x246e6fa74      f44f07a9       stp x20, x19, [sp, 0x70]\n\u2502           0x246e6fa78      fd7b08a9       stp x29, x30, [sp, 0x80]\n\u2502           0x246e6fa7c      fd030291       add x29, sp, 0x80\n\u2502           0x246e6fa80      fc0305aa       mov x28, x5                ; arg6\n\u2502           0x246e6fa84      fb0304aa       mov x27, x4                ; arg5\n\u2502           0x246e6fa88      fa0303aa       mov x26, x3                ; arg4\n\u2502           0x246e6fa8c      f30302aa       mov x19, x2                ; arg3\n\u2502           0x246e6fa90      f60301aa       mov x22, x1                ; arg2\n\u2502           0x246e6fa94      f70300aa       mov x23, x0                ; arg1\n\u2502           0x246e6fa98      e89818b0       adrp x8, 0x27818c000\n\u2502           0x246e6fa9c      08ad46f9       ldr x8, [x8, 0xd58]\n\u2502           0x246e6faa0      080140f9       ldr x8, [x8]\n\u2502           0x246e6faa4      e81700f9       str x8, [sp, 0x28]\n\u2502           0x246e6faa8      f40302aa       mov x20, x2                ; arg3\n\u2502           0x246e6faac      f50b0094       bl fcn.246e72a80\n\u2502       \u250c\u2500< 0x246e6fab0      f50100b4       cbz x21, 0x246e6faec\n\u2502       \u2502   ; XREFS: CODE 0x246e6fb68  CODE 0x246e6fb94  CODE 0x246e6fc00  \n\u2502       \u2502   ; XREFS: CODE 0x246e6fc68  CODE 0x246e6fdcc  CODE 0x246e6fdd4  \n\u2502       \u2502   0x246e6fab4      e81740f9       ldr x8, [sp, 0x28]\n\u2502       \u2502   0x246e6fab8      e99818b0       adrp x9, 0x27818c000\n\u2502       \u2502   0x246e6fabc      29ad46f9       ldr x9, [x9, 0xd58]\n\u2502       \u2502   0x246e6fac0      290140f9       ldr x9, [x9]\n\u2502       \u2502   0x246e6fac4      3f0108eb       cmp x9, x8\n\u2502      \u250c\u2500\u2500< 0x246e6fac8      e1180054       b.ne 0x246e6fde4\n\u2502      \u2502\u2502   ; CODE XREF from fcn.246e6fa5c @ 0x246e6fc90(x)\n\u2502      \u2502\u2502   0x246e6facc      fd7b48a9       ldp x29, x30, [sp, 0x80]\n\u2502      \u2502\u2502   0x246e6fad0      f44f47a9       ldp x20, x19, [sp, 0x70]\n\u2502      \u2502\u2502   0x246e6fad4      f75b46a9       ldp x23, x22, [sp, 0x60]\n\u2502      \u2502\u2502   0x246e6fad8      f96345a9       ldp x25, x24, [sp, 0x50]\n\u2502      \u2502\u2502   0x246e6fadc      fb6b44a9       ldp x27, x26, [sp, 0x40]\n\u2502      \u2502\u2502   0x246e6fae0      fc1b40f9       ldr x28, [sp, 0x30]\n\u2502      \u2502\u2502   0x246e6fae4      ff430291       add sp, sp, 0x90           ; 0x178000\n\u2502      \u2502\u2502   0x246e6fae8      ff0f5fd6       retab\n\u2502      \u2502\u2502   ; CODE XREF from fcn.246e6fa5c @ 0x246e6fab0(x)\n\u2502      \u2502\u2514\u2500> 0x246e6faec      f80315aa       mov x24, x21\n\u2502      \u2502\u250c"
+    },
+    {
+      "name": "fcn.246e7bd4c",
+      "addr": "0x246e7bd4c",
+      "size": 908,
+      "signature": "fcn.246e7bd4c (int64_t arg1, int64_t arg2);",
+      "cc": 10,
+      "nbbs": 13,
+      "disasm_preview": "            ; CALL XREF from fcn.246e7b9c0 @ +0xe8(x)\n            ; CALL XREF from fcn.246e82d48 @ +0x2c5c(x)\n\u250c 908: fcn.246e7bd4c (int64_t arg1, int64_t arg2);\n\u2502 `- args(x0, x1) vars(38:sp[0x8..0x170])\n\u2502           0x246e7bd4c      7f2303d5       pacibsp\n\u2502           0x246e7bd50      fc0f1af8       str x28, [sp, -0x60]!\n\u2502           0x246e7bd54      fb6b01a9       stp x27, x26, [var_10h]\n\u2502           0x246e7bd58      f96302a9       stp x25, x24, [var_20h]\n\u2502           0x246e7bd5c      f75b03a9       stp x23, x22, [var_30h]\n\u2502           0x246e7bd60      f44f04a9       stp x20, x19, [var_40h]\n\u2502           0x246e7bd64      fd7b05a9       stp x29, x30, [var_50h_2]\n\u2502           0x246e7bd68      fd430191       add x29, sp, 0x50\n\u2502           0x246e7bd6c      ff4304d1       sub sp, sp, 0x110\n\u2502           0x246e7bd70      f80315aa       mov x24, x21\n\u2502           0x246e7bd74      a80301d1       sub x8, x29, 0x40\n\u2502           0x246e7bd78      140110f8       stur x20, [x8, -0x100]\n\u2502           0x246e7bd7c      a82301d1       sub x8, x29, 0x48\n\u2502           0x246e7bd80      010110f8       stur x1, [x8, -0x100]      ; arg2\n\u2502           0x246e7bd84      f40300aa       mov x20, x0                ; arg1\n\u2502           0x246e7bd88      000080d2       mov x0, 0\n\u2502           0x246e7bd8c      a9cd0794       bl 0x24706f430\n\u2502           0x246e7bd90      108c5ff8       ldr x16, [x0, -8]!\n\u2502           0x246e7bd94      f10300aa       mov x17, x0\n\u2502           0x246e7bd98      f1c7e5f2       movk x17, 0x2e3f, lsl 48   ; '?.'\n\u2502           0x246e7bd9c      301ac1da       autda x16, x17\n\u2502           0x246e7bda0      082240f9       ldr x8, [x16, 0x40]\n\u2502           0x246e7bda4      e90308aa       mov x9, x8\n\u2502           0x246e7bda8      91bc1df0       adrp x17, 0x28260e000\n\u2502           0x246e7bdac      31621e91       add x17, x17, 0x798\n\u2502           0x246e7bdb0      300240f9       ldr x16, [x17]\n\u2502           0x246e7bdb4      110a3fd7       blraa x16, x17\n\u2502           0x246e7bdb8      e9030091       mov x9, sp\n\u2502           0x246e7bdbc      083d0091       add x8, x8, 0xf\n\u2502           0x246e7bdc0      08ed7c92       and x8, x8, 0xfffffffffffffff0\n\u2502           0x246e7bdc4      280108cb       sub x8, x9, x8\n\u2502           0x246e7bdc8      a9e300d1       sub x9, x29, 0x38\n\u2502           0x246e7bdcc      280110f8       stur x8, [x9, -0x100]\n\u2502           0x246e7bdd0      1f010091       mov sp, x8\n\u2502           0x246e7bdd4      000080d2       mov x0, 0\n\u2502           0x246e7bdd8      eacc0794       bl 0x24706f180\n\u2502           0x246e7bddc      f60300aa       mov x22, x0\n\u2502           0x246e7bde0      e90300aa       mov x9, x0\n\u2502           0x246e7bde4      288d5ff8       ldr x8, [x9, -8]!\n\u2502           0x246e7bde8      f00308aa       mov x16, x8\n\u2502           0x246e7bdec      f10309aa       mov x17, x9\n\u2502           0x246e7bdf0      f1c7e5f2       movk x17, 0x2e3f, lsl 48   ; '?.'\n\u2502           0x246e7bdf4      301ac1da       autda x16, x17\n\u2502           0x246e7bdf8      f10310aa       mov x17, x16\n\u2502           0x246e7bdfc      f147c1da       xpacd"
+    },
+    {
+      "name": "fcn.246e86c54",
+      "addr": "0x246e86c54",
+      "size": 872,
+      "signature": "fcn.246e86c54 (int64_t arg1, int64_t arg2, int64_t arg3);",
+      "cc": 8,
+      "nbbs": 12,
+      "disasm_preview": "            ; CALL XREF from fcn.246e86c54 @ +0x374(x)\n\u250c 872: fcn.246e86c54 (int64_t arg1, int64_t arg2, int64_t arg3);\n\u2502 `- args(x0, x1, x2) vars(20:sp[0x8..0xa0])\n\u2502           0x246e86c54      7f2303d5       pacibsp\n\u2502           0x246e86c58      fc0f1af8       str x28, [sp, -0x60]!\n\u2502           0x246e86c5c      fb6b01a9       stp x27, x26, [var_10h]\n\u2502           0x246e86c60      f96302a9       stp x25, x24, [var_20h]\n\u2502           0x246e86c64      f75b03a9       stp x23, x22, [var_30h]\n\u2502           0x246e86c68      f44f04a9       stp x20, x19, [var_40h]\n\u2502           0x246e86c6c      fd7b05a9       stp x29, x30, [var_50h_2]\n\u2502           0x246e86c70      fd430191       add x29, sp, 0x50\n\u2502           0x246e86c74      ff0301d1       sub sp, sp, 0x40\n\u2502           0x246e86c78      b5831bf8       stur x21, [x29, -0x48]\n\u2502           0x246e86c7c      f60314aa       mov x22, x20\n\u2502           0x246e86c80      fc0302aa       mov x28, x2                ; arg3\n\u2502           0x246e86c84      a00738a9       stp x0, x1, [x29, -0x80]   ; arg2\n\u2502           0x246e86c88      000080d2       mov x0, 0\n\u2502           0x246e86c8c      c5a00794       bl 0x24706efa0\n\u2502           0x246e86c90      f90300aa       mov x25, x0\n\u2502           0x246e86c94      e90300aa       mov x9, x0\n\u2502           0x246e86c98      288d5ff8       ldr x8, [x9, -8]!\n\u2502           0x246e86c9c      f00308aa       mov x16, x8\n\u2502           0x246e86ca0      f10309aa       mov x17, x9\n\u2502           0x246e86ca4      f1c7e5f2       movk x17, 0x2e3f, lsl 48   ; '?.'\n\u2502           0x246e86ca8      301ac1da       autda x16, x17\n\u2502           0x246e86cac      f10310aa       mov x17, x16\n\u2502           0x246e86cb0      f147c1da       xpacd x17\n\u2502           0x246e86cb4      1f0211eb       cmp x16, x17\n\u2502       \u250c\u2500< 0x246e86cb8      40000054       b.eq 0x246e86cc0\n\u2502       \u2502   0x246e86cbc      408e38d4       brk 0xc472\n\u2502       \u2502   ; CODE XREF from fcn.246e86c54 @ 0x246e86cb8(x)\n\u2502       \u2514\u2500> 0x246e86cc0      b08317f8       stur x16, [x29, -0x88]\n\u2502           0x246e86cc4      f00308aa       mov x16, x8\n\u2502           0x246e86cc8      f10309aa       mov x17, x9\n\u2502           0x246e86ccc      f1c7e5f2       movk x17, 0x2e3f, lsl 48   ; '?.'\n\u2502           0x246e86cd0      301ac1da       autda x16, x17\n\u2502           0x246e86cd4      082240f9       ldr x8, [x16, 0x40]\n\u2502           0x246e86cd8      e90308aa       mov x9, x8\n\u2502           0x246e86cdc      51bc1d90       adrp x17, 0x28260e000\n\u2502           0x246e86ce0      31621e91       add x17, x17, 0x798\n\u2502           0x246e86ce4      300240f9       ldr x16, [x17]\n\u2502           0x246e86ce8      110a3fd7       blraa x16, x17\n\u2502           0x246e86cec      e9030091       mov x9, sp\n\u2502           0x246e86cf0      083d0091       add x8, x8, 0xf\n\u2502           0x246e86cf4      08ed7c92       and x8, x8, 0xfffffffffffffff0\n\u2502           0x246e86cf8      280108cb       sub x8, x9, x8\n\u2502           0x246e86cfc      a80319f8       stur x8, [x29, -0x70]\n\u2502           0x246e86d00      1f010091       mov sp, x8\n\u2502           0x246e86d04      930b40f9   "
+    },
+    {
+      "name": "fcn.246e6efc0",
+      "addr": "0x246e6efc0",
+      "size": 832,
+      "signature": "fcn.246e6efc0 (int64_t arg1, int64_t arg2, int64_t arg3, int64_t arg_70h);",
+      "cc": 16,
+      "nbbs": 26,
+      "disasm_preview": "            ; CALL XREF from fcn.246e71844 @ +0x4ac(x)\n\u250c 832: fcn.246e6efc0 (int64_t arg1, int64_t arg2, int64_t arg3, int64_t arg_70h);\n\u2502 `- args(x0, x1, x2, sp[0x70..0x70]) vars(12:sp[0x8..0x70])\n\u2502           0x246e6efc0      7f2303d5       pacibsp\n\u2502           0x246e6efc4      ffc301d1       sub sp, sp, 0x70\n\u2502           0x246e6efc8      f96303a9       stp x25, x24, [sp, 0x30]\n\u2502           0x246e6efcc      f75b04a9       stp x23, x22, [sp, 0x40]\n\u2502           0x246e6efd0      f44f05a9       stp x20, x19, [sp, 0x50]\n\u2502           0x246e6efd4      fd7b06a9       stp x29, x30, [sp, 0x60]\n\u2502           0x246e6efd8      fd830191       add x29, sp, 0x60\n\u2502           0x246e6efdc      f30302aa       mov x19, x2                ; arg3\n\u2502           0x246e6efe0      f60301aa       mov x22, x1                ; arg2\n\u2502           0x246e6efe4      f70300aa       mov x23, x0                ; arg1\n\u2502           0x246e6efe8      e89818d0       adrp x8, 0x27818c000\n\u2502           0x246e6efec      08ad46f9       ldr x8, [x8, 0xd58]\n\u2502           0x246e6eff0      080140f9       ldr x8, [x8]\n\u2502           0x246e6eff4      e81700f9       str x8, [sp, 0x28]\n\u2502           0x246e6eff8      f40302aa       mov x20, x2                ; arg3\n\u2502           0x246e6effc      a10e0094       bl fcn.246e72a80\n\u2502       \u250c\u2500< 0x246e6f000      b50100b4       cbz x21, 0x246e6f034\n\u2502       \u2502   ; CODE XREFS from fcn.246e6efc0 @ 0x246e6f0b0(x), 0x246e6f0dc(x), 0x246e6f148(x), 0x246e6f1b0(x)\n\u2502       \u2502   0x246e6f004      e81740f9       ldr x8, [sp, 0x28]\n\u2502       \u2502   0x246e6f008      e99818b0       adrp x9, 0x27818c000\n\u2502       \u2502   0x246e6f00c      29ad46f9       ldr x9, [x9, 0xd58]\n\u2502       \u2502   0x246e6f010      290140f9       ldr x9, [x9]\n\u2502       \u2502   0x246e6f014      3f0108eb       cmp x9, x8\n\u2502      \u250c\u2500\u2500< 0x246e6f018      21170054       b.ne 0x246e6f2fc\n\u2502      \u2502\u2502   ; CODE XREF from fcn.246e6efc0 @ 0x246e6f1d8(x)\n\u2502      \u2502\u2502   0x246e6f01c      fd7b46a9       ldp x29, x30, [sp, 0x60]\n\u2502      \u2502\u2502   0x246e6f020      f44f45a9       ldp x20, x19, [sp, 0x50]\n\u2502      \u2502\u2502   0x246e6f024      f75b44a9       ldp x23, x22, [sp, 0x40]\n\u2502      \u2502\u2502   0x246e6f028      f96343a9       ldp x25, x24, [sp, 0x30]\n\u2502      \u2502\u2502   0x246e6f02c      ffc30191       add sp, sp, 0x70           ; 0x178000\n\u2502      \u2502\u2502   0x246e6f030      ff0f5fd6       retab\n\u2502      \u2502\u2502   ; CODE XREF from fcn.246e6efc0 @ 0x246e6f000(x)\n\u2502      \u2502\u2514\u2500> 0x246e6f034      f90315aa       mov x25, x21\n\u2502      \u2502\u250c\u2500< 0x246e6f038      e0030036       tbz w0, 0, 0x246e6f0b4\n\u2502      \u2502\u2502   0x246e6f03c      780a40f9       ldr x24, [x19, 0x10]\n\u2502      \u2502\u2502   0x246e6f040      000080d2       mov x0, 0\n\u2502      \u2502\u2502   0x246e6f044      fd270094       bl fcn.246e79038\n\u2502      \u2502\u2502   0x246e6f048      e1430091       add x1, sp, 0x10\n\u2502      \u2502\u2502   0x246e6f04c      ad030894       bl 0x24706ff00\n\u2502      \u2502\u2502   0x246e6f050      f30300aa       mov x19, x0\n\u2502      \u2502\u2502   0x246e6f054      1f0800f9       str xzr, [x0, 0x10]\n\u2502      \u2502\u2502   0x246e6f058      ff0700f9       str xzr, [sp, 8]\n\u2502      \u2502\u2502   0x246e6f05c      e1230091       add x1, sp, 8"
+    }
+  ],
+  "detailed_functions": [
+    {
+      "name": "sym.___swift_memcpy16_8",
+      "addr": "0x246e6933c",
+      "size": 12,
+      "signature": "sym.___swift_memcpy16_8 (int64_t arg1, int64_t arg2);",
+      "disasm": "\u250c 12: sym.___swift_memcpy16_8 (int64_t arg1, int64_t arg2);\n\u2502 `- args(x0, x1)\n\u2502           0x246e6933c      2000c03d       ldr q0, [x1]               ; arg2\n\u2502           0x246e69340      0000803d       str q0, [x0]               ; arg1\n\u2514           0x246e69344      c0035fd6       ret\n"
+    },
+    {
+      "name": "sym.___swift_noop_void_return",
+      "addr": "0x246e69348",
+      "size": 4,
+      "signature": "sym.___swift_noop_void_return ();",
+      "disasm": "\u250c 4: sym.___swift_noop_void_return ();\n\u2514           0x246e69348      c0035fd6       ret\n"
+    },
+    {
+      "name": "sym.Foundation.Data._Representation",
+      "addr": "0x246e69880",
+      "size": 28,
+      "signature": "sym.Foundation.Data._Representation (int64_t arg1);",
+      "disasm": "\u250c 28: sym.Foundation.Data._Representation (int64_t arg1);\n\u2502 `- args(x0)\n\u2502           0x246e69880      080040b9       ldr w8, [x0]               ; arg1 ; Foundation.Data._Representation\n\u2502           0x246e69884      090440f9       ldr x9, [x0, 8]            ; arg1\n\u2502           0x246e69888      29fd7ed3       lsr x9, x9, 0x3e\n\u2502           0x246e6988c      080d0011       add w8, w8, 3\n\u2502           0x246e69890      3f0d00f1       cmp x9, 3\n\u2502           0x246e69894      0001891a       csel w0, w8, w9, eq\n\u2514           0x246e69898      c0035fd6       ret\n"
+    },
+    {
+      "name": "sym.Foundation.Data____GenericAccessor",
+      "addr": "0x246e6989c",
+      "size": 40,
+      "signature": "sym.Foundation.Data____GenericAccessor (int64_t arg1);",
+      "disasm": "\u250c 40: sym.Foundation.Data____GenericAccessor (int64_t arg1);\n\u2502 `- args(x0)\n\u2502           0x246e6989c      080440f9       ldr x8, [x0, 8]            ; arg1 ; Foundation.Data -> GenericAccessor\n\u2502           0x246e698a0      08fd7cd3       lsr x8, x8, 0x3c\n\u2502           0x246e698a4      89018052       mov w9, 0xc\n\u2502           0x246e698a8      2a09086a       ands w10, w9, w8, lsl 2\n\u2502           0x246e698ac      4a09482a       orr w10, w10, w8, lsr 2\n\u2502           0x246e698b0      0b028052       mov w11, 0x10\n\u2502           0x246e698b4      6a010a4b       sub w10, w11, w10\n\u2502           0x246e698b8      3f09086a       tst w9, w8, lsl 2\n\u2502           0x246e698bc      e0038a1a       csel w0, wzr, w10, eq\n\u2514           0x246e698c0      c0035fd6       ret\n"
+    },
+    {
+      "name": "sym.___swift_memcpy32_8",
+      "addr": "0x246e698c4",
+      "size": 12,
+      "signature": "sym.___swift_memcpy32_8 (int64_t arg1, int64_t arg2);",
+      "disasm": "\u250c 12: sym.___swift_memcpy32_8 (int64_t arg1, int64_t arg2);\n\u2502 `- args(x0, x1)\n\u2502           0x246e698c4      200440ad       ldp q0, q1, [x1]           ; arg2\n\u2502           0x246e698c8      000400ad       stp q0, q1, [x0]           ; arg1\n\u2514           0x246e698cc      c0035fd6       ret\n"
+    },
+    {
+      "name": "sym.___swift_instantiateConcreteTypeFromMangledNameV2",
+      "addr": "0x246e69cf8",
+      "size": 72,
+      "signature": "sym.___swift_instantiateConcreteTypeFromMangledNameV2 (int64_t arg1, int64_t arg2);",
+      "disasm": "            ; XREFS(97)\n\u250c 72: sym.___swift_instantiateConcreteTypeFromMangledNameV2 (int64_t arg1, int64_t arg2);\n\u2502 `- args(x0, x1) vars(4:sp[0x8..0x20])\n\u2502           0x246e69cf8      7f2303d5       pacibsp\n\u2502           0x246e69cfc      f44fbea9       stp x20, x19, [sp, -0x20]!\n\u2502           0x246e69d00      fd7b01a9       stp x29, x30, [var_10h]\n\u2502           0x246e69d04      fd430091       add x29, sp, 0x10\n\u2502           0x246e69d08      f30300aa       mov x19, x0                ; arg1\n\u2502           0x246e69d0c      000040f9       ldr x0, [x0]               ; arg1\n\u2502       \u250c\u2500< 0x246e69d10      200100b5       cbnz x0, 0x246e69d34\n\u2502       \u2502   0x246e69d14      290040f9       ldr x9, [x1]               ; arg2\n\u2502       \u2502   0x246e69d18      28fd6093       asr x8, x9, 0x20\n\u2502       \u2502   0x246e69d1c      20c0298b       add x0, x1, w9, sxtw       ; arg2\n\u2502       \u2502   0x246e69d20      e10308aa       mov x1, x8\n\u2502       \u2502   0x246e69d24      020080d2       mov x2, 0\n\u2502       \u2502   0x246e69d28      030080d2       mov x3, 0\n\u2502       \u2502   0x246e69d2c      69180894       bl 0x24706fed0\n\u2502       \u2502   0x246e69d30      600200f9       str x0, [x19]\n\u2502       \u2502   ; CODE XREF from sym.___swift_instantiateConcreteTypeFromMangledNameV2 @ 0x246e69d10(x)\n\u2502       \u2514\u2500> 0x246e69d34      fd7b41a9       ldp x29, x30, [var_10h]\n\u2502           0x246e69d38      f44fc2a8       ldp x20, x19, [sp], 0x20\n\u2514           0x246e69d3c      ff0f5fd6       retab\n"
+    },
+    {
+      "name": "sym.___swift_project_boxed_opaque_existential_1",
+      "addr": "0x246e69d40",
+      "size": 68,
+      "signature": "sym.___swift_project_boxed_opaque_existential_1 (int64_t arg1, int64_t arg2);",
+      "disasm": "            ; CALL XREF from fcn.246e69640 @ 0x246e69704(x)\n            ; CALL XREF from fcn.246e69abc @ 0x246e69b74(x)\n            ; CALL XREF from fcn.246e6a5b4 @ 0x246e6a66c(x)\n            ; CALL XREF from fcn.246e6a840 @ 0x246e6aa0c(x)\n\u250c 68: sym.___swift_project_boxed_opaque_existential_1 (int64_t arg1, int64_t arg2);\n\u2502 `- args(x0, x1)\n\u2502           0x246e69d40      308c5ff8       ldr x16, [x1, -8]!         ; arg2\n\u2502           0x246e69d44      f10301aa       mov x17, x1                ; arg2\n\u2502           0x246e69d48      f1c7e5f2       movk x17, 0x2e3f, lsl 48   ; '?.'\n\u2502           0x246e69d4c      301ac1da       autda x16, x17\n\u2502           0x246e69d50      f10310aa       mov x17, x16\n\u2502           0x246e69d54      f147c1da       xpacd x17\n\u2502           0x246e69d58      1f0211eb       cmp x16, x17\n\u2502       \u250c\u2500< 0x246e69d5c      40000054       b.eq 0x246e69d64\n\u2502       \u2502   0x246e69d60      408e38d4       brk 0xc472\n\u2502       \u2502   ; CODE XREF from sym.___swift_project_boxed_opaque_existential_1 @ 0x246e69d5c(x)\n\u2502       \u2514\u2500> 0x246e69d64      085240b9       ldr w8, [x16, 0x50]\n\u2502       \u250c\u2500< 0x246e69d68      c8008836       tbz w8, 0x11, 0x246e69d80\n\u2502       \u2502   0x246e69d6c      090040f9       ldr x9, [x0]               ; arg1\n\u2502       \u2502   0x246e69d70      081d4092       and x8, x8, 0xff\n\u2502       \u2502   0x246e69d74      0a410091       add x10, x8, 0x10\n\u2502       \u2502   0x246e69d78      4801288a       bic x8, x10, x8\n\u2502       \u2502   0x246e69d7c      2001088b       add x0, x9, x8\n\u2502       \u2502   ; CODE XREF from sym.___swift_project_boxed_opaque_existential_1 @ 0x246e69d68(x)\n\u2514       \u2514\u2500> 0x246e69d80      c0035fd6       ret\n"
+    },
+    {
+      "name": "sym.___swift_destroy_boxed_opaque_existential_0",
+      "addr": "0x246e69dd8",
+      "size": 76,
+      "signature": "sym.___swift_destroy_boxed_opaque_existential_0 (int64_t arg1);",
+      "disasm": "            ; XREFS: CALL 0x246e69c08  CALL 0x246e69cdc  CALL 0x246e6ab68  \n            ; XREFS: CALL 0x246e845f8  CALL 0x246e8508c  CALL 0x246e85934  \n            ; XREFS: CALL 0x246e85e5c  \n\u250c 76: sym.___swift_destroy_boxed_opaque_existential_0 (int64_t arg1);\n\u2502 `- args(x0)\n\u2502           0x246e69dd8      010c40f9       ldr x1, [x0, 0x18]         ; arg1\n\u2502           0x246e69ddc      f10301aa       mov x17, x1\n\u2502           0x246e69de0      308e5ff8       ldr x16, [x17, -8]!\n\u2502           0x246e69de4      f1c7e5f2       movk x17, 0x2e3f, lsl 48   ; '?.'\n\u2502           0x246e69de8      301ac1da       autda x16, x17\n\u2502           0x246e69dec      f10310aa       mov x17, x16\n\u2502           0x246e69df0      f147c1da       xpacd x17\n\u2502           0x246e69df4      1f0211eb       cmp x16, x17\n\u2502       \u250c\u2500< 0x246e69df8      40000054       b.eq 0x246e69e00\n\u2502       \u2502   0x246e69dfc      408e38d4       brk 0xc472\n\u2502       \u2502   ; CODE XREF from sym.___swift_destroy_boxed_opaque_existential_0 @ 0x246e69df8(x)\n\u2502       \u2514\u2500> 0x246e69e00      084a4139       ldrb w8, [x16, 0x52]\n\u2502       \u250c\u2500< 0x246e69e04      c8000837       tbnz w8, 1, 0x246e69e1c\n\u2502       \u2502   0x246e69e08      e20310aa       mov x2, x16\n\u2502       \u2502   0x246e69e0c      438c40f8       ldr x3, [x2, 8]!\n\u2502       \u2502   0x246e69e10      f00302aa       mov x16, x2\n\u2502       \u2502   0x246e69e14      109fe0f2       movk x16, 0x4f8, lsl 48\n\u2502       \u2502   0x246e69e18      70081fd7       braa x3, x16\n\u2502       \u2502   ; CODE XREF from sym.___swift_destroy_boxed_opaque_existential_0 @ 0x246e69e04(x)\n\u2502       \u2514\u2500> 0x246e69e1c      000040f9       ldr x0, [x0]               ; arg1\n\u2514       \u250c\u2500< 0x246e69e20      4c180814       b 0x24706ff50\n"
+    },
+    {
+      "name": "sym.___swift_memcpy1_1",
+      "addr": "0x246e69f34",
+      "size": 12,
+      "signature": "sym.___swift_memcpy1_1 (int64_t arg1, int64_t arg2);",
+      "disasm": "\u250c 12: sym.___swift_memcpy1_1 (int64_t arg1, int64_t arg2);\n\u2502 `- args(x0, x1)\n\u2502           0x246e69f34      28004039       ldrb w8, [x1]              ; arg2\n\u2502           0x246e69f38      08000039       strb w8, [x0]              ; arg1\n\u2514           0x246e69f3c      c0035fd6       ret\n"
+    },
+    {
+      "name": "sym.___swift_instantiateConcreteTypeFromMangledNameAbstractV2",
+      "addr": "0x246e6af8c",
+      "size": 72,
+      "signature": "sym.___swift_instantiateConcreteTypeFromMangledNameAbstractV2 (int64_t arg1, int64_t arg2);",
+      "disasm": "            ; CALL XREF from fcn.246e6b080 @ 0x246e6b0bc(x)\n            ; CALL XREF from fcn.246e7715c @ 0x246e77184(x)\n            ; CALL XREF from fcn.246e789dc @ +0x154(x)\n\u250c 72: sym.___swift_instantiateConcreteTypeFromMangledNameAbstractV2 (int64_t arg1, int64_t arg2);\n\u2502 `- args(x0, x1) vars(4:sp[0x8..0x20])\n\u2502           0x246e6af8c      7f2303d5       pacibsp\n\u2502           0x246e6af90      f44fbea9       stp x20, x19, [sp, -0x20]!\n\u2502           0x246e6af94      fd7b01a9       stp x29, x30, [var_10h]\n\u2502           0x246e6af98      fd430091       add x29, sp, 0x10\n\u2502           0x246e6af9c      f30300aa       mov x19, x0                ; arg1\n\u2502           0x246e6afa0      000040f9       ldr x0, [x0]               ; arg1\n\u2502       \u250c\u2500< 0x246e6afa4      200100b5       cbnz x0, 0x246e6afc8\n\u2502       \u2502   0x246e6afa8      280040f9       ldr x8, [x1]               ; arg2\n\u2502       \u2502   0x246e6afac      02fd6093       asr x2, x8, 0x20\n\u2502       \u2502   0x246e6afb0      21c0288b       add x1, x1, w8, sxtw       ; arg2\n\u2502       \u2502   0x246e6afb4      e01f8052       mov w0, 0xff\n\u2502       \u2502   0x246e6afb8      030080d2       mov x3, 0\n\u2502       \u2502   0x246e6afbc      040080d2       mov x4, 0\n\u2502       \u2502   0x246e6afc0      c8130894       bl 0x24706fee0\n\u2502       \u2502   0x246e6afc4      600200f9       str x0, [x19]\n\u2502       \u2502   ; CODE XREF from sym.___swift_instantiateConcreteTypeFromMangledNameAbstractV2 @ 0x246e6afa4(x)\n\u2502       \u2514\u2500> 0x246e6afc8      fd7b41a9       ldp x29, x30, [var_10h]\n\u2502           0x246e6afcc      f44fc2a8       ldp x20, x19, [sp], 0x20\n\u2514           0x246e6afd0      ff0f5fd6       retab\n"
+    },
+    {
+      "name": "sym.___swift_allocate_value_buffer",
+      "addr": "0x246e6b54c",
+      "size": 100,
+      "signature": "sym.___swift_allocate_value_buffer (int64_t arg1, int64_t arg2);",
+      "disasm": "            ; CALL XREF from fcn.246e6b34c @ +0x1ac(x)\n\u250c 100: sym.___swift_allocate_value_buffer (int64_t arg1, int64_t arg2);\n\u2502 `- args(x0, x1) vars(4:sp[0x8..0x20])\n\u2502           0x246e6b54c      7f2303d5       pacibsp\n\u2502           0x246e6b550      f44fbea9       stp x20, x19, [sp, -0x20]!\n\u2502           0x246e6b554      fd7b01a9       stp x29, x30, [var_10h]\n\u2502           0x246e6b558      fd430091       add x29, sp, 0x10\n\u2502           0x246e6b55c      f30301aa       mov x19, x1                ; arg2\n\u2502           0x246e6b560      108c5ff8       ldr x16, [x0, -8]!         ; arg1\n\u2502           0x246e6b564      f10300aa       mov x17, x0                ; arg1\n\u2502           0x246e6b568      f1c7e5f2       movk x17, 0x2e3f, lsl 48   ; '?.'\n\u2502           0x246e6b56c      301ac1da       autda x16, x17\n\u2502           0x246e6b570      f10310aa       mov x17, x16\n\u2502           0x246e6b574      f147c1da       xpacd x17\n\u2502           0x246e6b578      1f0211eb       cmp x16, x17\n\u2502       \u250c\u2500< 0x246e6b57c      40000054       b.eq 0x246e6b584\n\u2502       \u2502   0x246e6b580      408e38d4       brk 0xc472\n\u2502       \u2502   ; CODE XREF from sym.___swift_allocate_value_buffer @ 0x246e6b57c(x)\n\u2502       \u2514\u2500> 0x246e6b584      085240b9       ldr w8, [x16, 0x50]\n\u2502       \u250c\u2500< 0x246e6b588      c8008836       tbz w8, 0x11, 0x246e6b5a0\n\u2502       \u2502   0x246e6b58c      002240f9       ldr x0, [x16, 0x40]\n\u2502       \u2502   0x246e6b590      011d4092       and x1, x8, 0xff\n\u2502       \u2502   0x246e6b594      83120894       bl 0x24706ffa0\n\u2502       \u2502   0x246e6b598      600200f9       str x0, [x19]\n\u2502       \u2502   0x246e6b59c      f30300aa       mov x19, x0\n\u2502       \u2502   ; CODE XREF from sym.___swift_allocate_value_buffer @ 0x246e6b588(x)\n\u2502       \u2514\u2500> 0x246e6b5a0      e00313aa       mov x0, x19\n\u2502           0x246e6b5a4      fd7b41a9       ldp x29, x30, [var_10h]\n\u2502           0x246e6b5a8      f44fc2a8       ldp x20, x19, [sp], 0x20\n\u2514           0x246e6b5ac      ff0f5fd6       retab\n"
+    },
+    {
+      "name": "sym.___swift_project_value_buffer",
+      "addr": "0x246e6b5b0",
+      "size": 56,
+      "signature": "sym.___swift_project_value_buffer (int64_t arg1, int64_t arg2);",
+      "disasm": "            ; CALL XREF from fcn.246e6b34c @ +0x1b8(x)\n            ; CALL XREFS from fcn.246e82d48 @ +0x17a8(x), +0x223c(x), +0x2ae4(x)\n\u250c 56: sym.___swift_project_value_buffer (int64_t arg1, int64_t arg2);\n\u2502 `- args(x0, x1)\n\u2502           0x246e6b5b0      108c5ff8       ldr x16, [x0, -8]!         ; arg1\n\u2502           0x246e6b5b4      f10300aa       mov x17, x0                ; arg1\n\u2502           0x246e6b5b8      f1c7e5f2       movk x17, 0x2e3f, lsl 48   ; '?.'\n\u2502           0x246e6b5bc      301ac1da       autda x16, x17\n\u2502           0x246e6b5c0      f10310aa       mov x17, x16\n\u2502           0x246e6b5c4      f147c1da       xpacd x17\n\u2502           0x246e6b5c8      1f0211eb       cmp x16, x17\n\u2502       \u250c\u2500< 0x246e6b5cc      40000054       b.eq 0x246e6b5d4\n\u2502       \u2502   0x246e6b5d0      408e38d4       brk 0xc472\n\u2502       \u2502   ; CODE XREF from sym.___swift_project_value_buffer @ 0x246e6b5cc(x)\n\u2502       \u2514\u2500> 0x246e6b5d4      084a4139       ldrb w8, [x16, 0x52]\n\u2502       \u250c\u2500< 0x246e6b5d8      48000836       tbz w8, 1, 0x246e6b5e0\n\u2502       \u2502   0x246e6b5dc      210040f9       ldr x1, [x1]               ; arg2\n\u2502       \u2502   ; CODE XREF from sym.___swift_project_value_buffer @ 0x246e6b5d8(x)\n\u2502       \u2514\u2500> 0x246e6b5e0      e00301aa       mov x0, x1                 ; arg2\n\u2514           0x246e6b5e4      c0035fd6       ret\n"
+    },
+    {
+      "name": "sym.___swift_memcpy40_8",
+      "addr": "0x246e6c308",
+      "size": 20,
+      "signature": "sym.___swift_memcpy40_8 (int64_t arg1, int64_t arg2);",
+      "disasm": "\u250c 20: sym.___swift_memcpy40_8 (int64_t arg1, int64_t arg2);\n\u2502 `- args(x0, x1)\n\u2502           0x246e6c308      200440ad       ldp q0, q1, [x1]           ; arg2\n\u2502           0x246e6c30c      281040f9       ldr x8, [x1, 0x20]         ; arg2\n\u2502           0x246e6c310      081000f9       str x8, [x0, 0x20]         ; arg1\n\u2502           0x246e6c314      000400ad       stp q0, q1, [x0]           ; arg1\n\u2514           0x246e6c318      c0035fd6       ret\n"
+    },
+    {
+      "name": "sym.___swift_memcpy0_1",
+      "addr": "0x246e73dbc",
+      "size": 4,
+      "signature": "sym.___swift_memcpy0_1 ();",
+      "disasm": "\u250c 4: sym.___swift_memcpy0_1 ();\n\u2514           0x246e73dbc      c0035fd6       ret\n"
+    },
+    {
+      "name": "sym.___swift_memcpy8_8",
+      "addr": "0x246e74120",
+      "size": 12,
+      "signature": "sym.___swift_memcpy8_8 (int64_t arg1, int64_t arg2);",
+      "disasm": "\u250c 12: sym.___swift_memcpy8_8 (int64_t arg1, int64_t arg2);\n\u2502 `- args(x0, x1)\n\u2502           0x246e74120      280040f9       ldr x8, [x1]               ; arg2\n\u2502           0x246e74124      080000f9       str x8, [x0]               ; arg1\n\u2514           0x246e74128      c0035fd6       ret\n"
+    },
+    {
+      "name": "sym.___swift_allocate_boxed_opaque_existential_1",
+      "addr": "0x246e770e0",
+      "size": 100,
+      "signature": "sym.___swift_allocate_boxed_opaque_existential_1 (int64_t arg1);",
+      "disasm": "            ; CALL XREFS from fcn.246e76284 @ 0x246e7694c(x), 0x246e76bac(x), 0x246e76de0(x)\n\u250c 100: sym.___swift_allocate_boxed_opaque_existential_1 (int64_t arg1);\n\u2502 `- args(x0) vars(4:sp[0x8..0x20])\n\u2502           0x246e770e0      080c40f9       ldr x8, [x0, 0x18]         ; arg1\n\u2502           0x246e770e4      f10308aa       mov x17, x8\n\u2502           0x246e770e8      308e5ff8       ldr x16, [x17, -8]!\n\u2502           0x246e770ec      f1c7e5f2       movk x17, 0x2e3f, lsl 48   ; '?.'\n\u2502           0x246e770f0      301ac1da       autda x16, x17\n\u2502           0x246e770f4      f10310aa       mov x17, x16\n\u2502           0x246e770f8      f147c1da       xpacd x17\n\u2502           0x246e770fc      1f0211eb       cmp x16, x17\n\u2502       \u250c\u2500< 0x246e77100      40000054       b.eq 0x246e77108\n\u2502       \u2502   0x246e77104      408e38d4       brk 0xc472\n\u2502       \u2502   ; CODE XREF from sym.___swift_allocate_boxed_opaque_existential_1 @ 0x246e77100(x)\n\u2502       \u2514\u2500> 0x246e77108      094a4139       ldrb w9, [x16, 0x52]\n\u2502       \u250c\u2500< 0x246e7710c      a9010836       tbz w9, 1, 0x246e77140\n\u2502       \u2502   0x246e77110      7f2303d5       pacibsp\n\u2502       \u2502   0x246e77114      f44fbea9       stp x20, x19, [sp, -0x20]!\n\u2502       \u2502   0x246e77118      fd7b01a9       stp x29, x30, [var_10h]\n\u2502       \u2502   0x246e7711c      fd430091       add x29, sp, 0x10\n\u2502       \u2502   0x246e77120      f30300aa       mov x19, x0                ; arg1\n\u2502       \u2502   0x246e77124      e00308aa       mov x0, x8\n\u2502       \u2502   0x246e77128      06e30794       bl 0x24706fd40\n\u2502       \u2502   0x246e7712c      600200f9       str x0, [x19]\n\u2502       \u2502   0x246e77130      e00301aa       mov x0, x1\n\u2502       \u2502   0x246e77134      fd7b41a9       ldp x29, x30, [var_10h]\n\u2502       \u2502   0x246e77138      f44fc2a8       ldp x20, x19, [sp], 0x20\n\u2502       \u2502   0x246e7713c      ff2303d5       autibsp\n\u2502       \u2502   ; CODE XREF from sym.___swift_allocate_boxed_opaque_existential_1 @ 0x246e7710c(x)\n\u2514       \u2514\u2500> 0x246e77140      c0035fd6       ret\n"
+    },
+    {
+      "name": "sym.__swift_stdlib_malloc_size",
+      "addr": "0x246e7aa9c",
+      "size": 4,
+      "signature": "sym.__swift_stdlib_malloc_size ();",
+      "disasm": "            ; XREFS: CALL 0x246e797dc  CALL 0x246e7994c  CALL 0x246e79af0  \n            ; XREFS: CALL 0x246e79bfc  CALL 0x246e79d3c  CALL 0x246e79e9c  \n            ; XREFS: CALL 0x246e79fd8  CALL 0x246e7a144  CALL 0x246e7a37c  \n            ; XREFS: CALL 0x246e7a4ec  CALL 0x246e7a670  CALL 0x246e7a774  \n            ; XREFS: CALL 0x246e7a880  CALL 0x246e7a9c0  CALL 0x246e809a8  \n            ; XREFS: CALL 0x246e86290  \n\u250c 4: sym.__swift_stdlib_malloc_size ();\n\u2514       \u250c\u2500< 0x246e7aa9c      61d40714       b 0x24706fc20\n"
+    },
+    {
+      "name": "sym.___swift_memcpy64_8",
+      "addr": "0x246e7c290",
+      "size": 20,
+      "signature": "sym.___swift_memcpy64_8 (int64_t arg1, int64_t arg2);",
+      "disasm": "\u250c 20: sym.___swift_memcpy64_8 (int64_t arg1, int64_t arg2);\n\u2502 `- args(x0, x1)\n\u2502           0x246e7c290      200440ad       ldp q0, q1, [x1]           ; arg2\n\u2502           0x246e7c294      220c41ad       ldp q2, q3, [x1, 0x20]     ; arg2\n\u2502           0x246e7c298      020c01ad       stp q2, q3, [x0, 0x20]     ; arg1\n\u2502           0x246e7c29c      000400ad       stp q0, q1, [x0]           ; arg1\n\u2514           0x246e7c2a0      c0035fd6       ret\n"
+    },
+    {
+      "name": "sym.___swift_instantiateGenericMetadata",
+      "addr": "0x246e87434",
+      "size": 48,
+      "signature": "sym.___swift_instantiateGenericMetadata (int64_t arg1, int64_t arg2, int64_t arg3, int64_t arg4, int64_t arg_30h);",
+      "disasm": "            ; CODE XREFS from fcn.246e86300 @ +0x4cc(x), +0x950(x)\n\u250c 48: sym.___swift_instantiateGenericMetadata (int64_t arg1, int64_t arg2, int64_t arg3, int64_t arg4, int64_t arg_30h);\n\u2502 `- args(x1, x2, x3, x4, sp[0x30..0x30]) vars(5:sp[0x8..0x28])\n\u2502           0x246e87434      7f2303d5       pacibsp\n\u2502           0x246e87438      ffc300d1       sub sp, sp, 0x30\n\u2502           0x246e8743c      fd7b02a9       stp x29, x30, [var_20h]\n\u2502           0x246e87440      fd830091       add x29, sp, 0x20\n\u2502           0x246e87444      e18b00a9       stp x1, x2, [var_8h]       ; arg3\n\u2502           0x246e87448      e30f00f9       str x3, [arg_30hx18]       ; arg4\n\u2502           0x246e8744c      e1230091       add x1, sp, 8\n\u2502           0x246e87450      e20304aa       mov x2, x4                 ; arg5\n\u2502           0x246e87454      93a20794       bl 0x24706fea0\n\u2502           0x246e87458      fd7b42a9       ldp x29, x30, [var_20h]\n\u2502           0x246e8745c      ffc30091       add sp, sp, 0x30           ; 0x178000\n\u2514           0x246e87460      ff0f5fd6       retab\n"
+    },
+    {
+      "name": "sym.symbolic_bnns_graph_context_t",
+      "addr": "0x246e8a998",
+      "size": 4,
+      "signature": "sym.symbolic_bnns_graph_context_t ();",
+      "disasm": "            ;-- section.5.__TEXT.__swift5_typeref:\n            ; NULL XREF from segment.__TEXT @ +0x218(r)\n\u250c 4: sym.symbolic_bnns_graph_context_t ();\n\u2514           0x246e8a998      01f3f8ff       invalid                    ; [05] -r-x section size 1200 named 5.__TEXT.__swift5_typeref\n"
+    },
+    {
+      "name": "sym.Int._symbolic_Si",
+      "addr": "0x246e8a9a4",
+      "size": 4,
+      "signature": "sym.Int._symbolic_Si ();",
+      "disasm": "            ;-- symbolic Swift.Int:\n\u250c 4: sym.Int._symbolic_Si ();\n\u2514           0x246e8a9a4      53690000       invalid                    ; symbolic Swift.Int\n"
+    },
+    {
+      "name": "sym.symbolic_BNNSTargetSystem",
+      "addr": "0x246e8a9a8",
+      "size": 4,
+      "signature": "sym.symbolic_BNNSTargetSystem ();",
+      "disasm": "\u250c 4: sym.symbolic_BNNSTargetSystem ();\n\u2514           0x246e8a9a8      01c3f8ff       invalid                    ; symbolic BNNSTargetSystem\n"
+    },
+    {
+      "name": "sym.symbolic_e5rt_error_code_t",
+      "addr": "0x246e8a9b4",
+      "size": 4,
+      "signature": "sym.symbolic_e5rt_error_code_t ();",
+      "disasm": "\u250c 4: sym.symbolic_e5rt_error_code_t ();\n\u2514           0x246e8a9b4      011ff9ff       invalid                    ; symbolic e5rt_error_code_t\n"
+    },
+    {
+      "name": "sym.String._symbolic_SS",
+      "addr": "0x246e8a9c8",
+      "size": 4,
+      "signature": "sym.String._symbolic_SS ();",
+      "disasm": "            ;-- symbolic Swift.String:\n\u250c 4: sym.String._symbolic_SS ();\n\u2514           0x246e8a9c8      53530000       invalid                    ; symbolic Swift.String\n"
+    },
+    {
+      "name": "sym.symbolic_...SY",
+      "addr": "0x246e8a9cc",
+      "size": 6,
+      "signature": "sym.symbolic_...SY ();",
+      "disasm": "\u250c 6: sym.symbolic_...SY ();\n\u2502           0x246e8a9cc      24735359       ldapurh w4, [x25, -0xc9]   ; symbolic ...SY\n\u2502           0x246e8a9d0  ~   0000024d       invalid\n"
+    },
+    {
+      "name": "sym.symbolic_Array",
+      "addr": "0x246e8aa20",
+      "size": 4,
+      "signature": "sym.symbolic_Array ();",
+      "disasm": "\u250c 4: sym.symbolic_Array ();\n\u2514           0x246e8aa20      53617953       invalid                    ; symbolic Array\n"
+    },
+    {
+      "name": "sym.CoreMLOdie.BNNSDelegate.ODIE.allocator_...DelegateAaD14SymbolResolver_",
+      "addr": "0x246e8aa68",
+      "size": 4,
+      "signature": "sym.CoreMLOdie.BNNSDelegate.ODIE.allocator_...DelegateAaD14SymbolResolver_ ();",
+      "disasm": "\u250c 4: sym.CoreMLOdie.BNNSDelegate.ODIE.allocator_...DelegateAaD14SymbolResolver_ ();\n; CoreMLOdie.BNNSDelegate.ODIE.allocator(...DelegateAaD14SymbolResolve\n; r)\n\u2514       \u250c\u2500< 0x246e8aa68      ff071214       b 0x24730ca64\n"
+    },
+    {
+      "name": "sym.symbolic_Error.",
+      "addr": "0x246e8aac4",
+      "size": 8,
+      "signature": "sym.symbolic_Error. (int64_t arg1);",
+      "disasm": "\u250c 8: sym.symbolic_Error. (int64_t arg1);\n\u2502 `- args(x2)\n\u2502           0x246e8aac4      024b3378       strh w2, [x24, w19, uxtw]  ; arg3 ; symbolic Error.\n\u2514           0x246e8aac8      3b5f7000       invalid\n"
+    },
+    {
+      "name": "sym.Operand._symbolic_Si6offset______7elementtSg_4ODIE7OperandO",
+      "addr": "0x246e8aacc",
+      "size": 4,
+      "signature": "sym.Operand._symbolic_Si6offset______7elementtSg_4ODIE7OperandO ();",
+      "disasm": "            ;-- symbolic ODIE.Operand.bool:\n\u250c 4: sym.Operand._symbolic_Si6offset______7elementtSg_4ODIE7OperandO ();\n\u2514           0x246e8aacc      5369366f       invalid                    ; symbolic ODIE.Operand.bool\n"
+    },
+    {
+      "name": "sym.Operand._symbolic_Si6offset______7elementt_4ODIE7OperandO",
+      "addr": "0x246e8aae8",
+      "size": 4,
+      "signature": "sym.Operand._symbolic_Si6offset______7elementt_4ODIE7OperandO ();",
+      "disasm": "            ;-- symbolic ODIE.Operand.bool:\n\u250c 4: sym.Operand._symbolic_Si6offset______7elementt_4ODIE7OperandO ();\n\u2514           0x246e8aae8      5369366f       invalid                    ; symbolic ODIE.Operand.bool\n"
+    },
+    {
+      "name": "sym.OperandType._symbolic_Si6offset______7elementtSg_4ODIE11OperandTypeO",
+      "addr": "0x246e8ab1c",
+      "size": 4,
+      "signature": "sym.OperandType._symbolic_Si6offset______7elementtSg_4ODIE11OperandTypeO ();",
+      "disasm": "            ;-- symbolic ODIE.OperandType.bool:\n\u250c 4: sym.OperandType._symbolic_Si6offset______7elementtSg_4ODIE11OperandTypeO ();\n\u2514           0x246e8ab1c      5369366f       invalid                    ; symbolic ODIE.OperandType.bool\n"
+    },
+    {
+      "name": "sym.E5RTBufferObject._symbolic_______10CoreMLOdie16E5RTBufferObjectC",
+      "addr": "0x246e8ab38",
+      "size": 4,
+      "signature": "sym.E5RTBufferObject._symbolic_______10CoreMLOdie16E5RTBufferObjectC ();",
+      "disasm": "            ;-- symbolic CoreMLOdie.E5RTBufferObject.allocator:\n\u250c 4: sym.E5RTBufferObject._symbolic_______10CoreMLOdie16E5RTBufferObjectC ();\n\u2514           0x246e8ab38      01cbf8ff       invalid                    ; symbolic CoreMLOdie.E5RTBufferObject.allocator\n"
+    },
+    {
+      "name": "sym.E5CreateOptions._symbolic_______10CoreMLOdie15E5CreateOptionsC",
+      "addr": "0x246e8ab44",
+      "size": 4,
+      "signature": "sym.E5CreateOptions._symbolic_______10CoreMLOdie15E5CreateOptionsC ();",
+      "disasm": "            ;-- symbolic CoreMLOdie.E5CreateOptions.allocator:\n\u250c 4: sym.E5CreateOptions._symbolic_______10CoreMLOdie15E5CreateOptionsC ();\n\u2514           0x246e8ab44      0113f9ff       invalid                    ; symbolic CoreMLOdie.E5CreateOptions.allocator\n"
+    },
+    {
+      "name": "sym.symbolic_OpaquePointer...V__1",
+      "addr": "0x246e8ab50",
+      "size": 4,
+      "signature": "sym.symbolic_OpaquePointer...V__1 ();",
+      "disasm": "\u250c 4: sym.symbolic_OpaquePointer...V__1 ();\n\u2514           0x246e8ab50      024f2678       invalid                    ; symbolic OpaquePointer...V\n"
+    },
+    {
+      "name": "sym.E5RTExecutionStreamOperation._symbolic_______10CoreMLOdie28E5RTExecutionStreamOperationC",
+      "addr": "0x246e8ab58",
+      "size": 4,
+      "signature": "sym.E5RTExecutionStreamOperation._symbolic_______10CoreMLOdie28E5RTExecutionStreamOperationC ();",
+      "disasm": "            ;-- symbolic CoreMLOdie.E5RTExecutionStreamOperation.allocator:\n\u250c 4: sym.E5RTExecutionStreamOperation._symbolic_______10CoreMLOdie28E5RTExecutionStreamOperationC ();\n\u2514           0x246e8ab58      0177f9ff       invalid                    ; symbolic CoreMLOdie.E5RTExecutionStreamOperation.allocator\n"
+    },
+    {
+      "name": "sym.CoreMLOdie.E5IOPort.allocator:_allocator__S_...AASQ_",
+      "addr": "0x246e8ab64",
+      "size": 4,
+      "signature": "sym.CoreMLOdie.E5IOPort.allocator:_allocator__S_...AASQ_ ();",
+      "disasm": "\u250c 4: sym.CoreMLOdie.E5IOPort.allocator:_allocator__S_...AASQ_ ();\n\u2514           0x246e8ab64      ff07aa81       invalid                    ; CoreMLOdie.E5IOPort.allocator: allocator, S(...AASQ)\n"
+    },
+    {
+      "name": "sym.E5RTOperandDescriptor._symbolic_______10CoreMLOdie21E5RTOperandDescriptorC",
+      "addr": "0x246e8ab6c",
+      "size": 4,
+      "signature": "sym.E5RTOperandDescriptor._symbolic_______10CoreMLOdie21E5RTOperandDescriptorC ();",
+      "disasm": "            ;-- symbolic CoreMLOdie.E5RTOperandDescriptor.allocator:\n\u250c 4: sym.E5RTOperandDescriptor._symbolic_______10CoreMLOdie21E5RTOperandDescriptorC ();\n\u2514           0x246e8ab6c      01dbf9ff       invalid                    ; symbolic CoreMLOdie.E5RTOperandDescriptor.allocator\n"
+    },
+    {
+      "name": "sym.E5RTProgramLibrary._symbolic_______10CoreMLOdie18E5RTProgramLibraryC",
+      "addr": "0x246e8ab78",
+      "size": 4,
+      "signature": "sym.E5RTProgramLibrary._symbolic_______10CoreMLOdie18E5RTProgramLibraryC ();",
+      "disasm": "            ;-- symbolic CoreMLOdie.E5RTProgramLibrary.allocator:\n\u250c 4: sym.E5RTProgramLibrary._symbolic_______10CoreMLOdie18E5RTProgramLibraryC ();\n\u2514           0x246e8ab78      0147faff       invalid                    ; symbolic CoreMLOdie.E5RTProgramLibrary.allocator\n"
+    },
+    {
+      "name": "sym.TargetArchitecture._symbolic_______10CoreMLOdie18TargetArchitectureO",
+      "addr": "0x246e8ab8c",
+      "size": 4,
+      "signature": "sym.TargetArchitecture._symbolic_______10CoreMLOdie18TargetArchitectureO ();",
+      "disasm": "            ;-- symbolic CoreMLOdie.TargetArchitecture.bool:\n\u250c 4: sym.TargetArchitecture._symbolic_______10CoreMLOdie18TargetArchitectureO ();\n\u2514           0x246e8ab8c      02fbe4e7       invalid                    ; symbolic CoreMLOdie.TargetArchitecture.bool\n"
+    },
+    {
+      "name": "sym.AllowedDelegates._symbolic_______10CoreMLOdie16AllowedDelegatesV15MPSGraphOptionsV",
+      "addr": "0x246e8aba8",
+      "size": 4,
+      "signature": "sym.AllowedDelegates._symbolic_______10CoreMLOdie16AllowedDelegatesV15MPSGraphOptionsV ();",
+      "disasm": "            ;-- symbolic CoreMLOdie.AllowedDelegates.MPSGraphOptions...V:\n\u250c 4: sym.AllowedDelegates._symbolic_______10CoreMLOdie16AllowedDelegatesV15MPSGraphOptionsV ();\n\u2514           0x246e8aba8      0197faff       invalid                    ; symbolic CoreMLOdie.AllowedDelegates.MPSGraphOptions...V\n"
+    },
+    {
+      "name": "sym.AllowedDelegates._symbolic_______10CoreMLOdie16AllowedDelegatesV11E5MLOptionsV",
+      "addr": "0x246e8abb4",
+      "size": 4,
+      "signature": "sym.AllowedDelegates._symbolic_______10CoreMLOdie16AllowedDelegatesV11E5MLOptionsV ();",
+      "disasm": "            ;-- symbolic CoreMLOdie.AllowedDelegates.E5MLOptions...V:\n\u250c 4: sym.AllowedDelegates._symbolic_______10CoreMLOdie16AllowedDelegatesV11E5MLOptionsV ();\n\u2514           0x246e8abb4      01b3faff       invalid                    ; symbolic CoreMLOdie.AllowedDelegates.E5MLOptions...V\n"
+    },
+    {
+      "name": "sym.CoreMLOdie.BNNSSegmenterError.conformsto.Hashable_...HAASQ_",
+      "addr": "0x246e8abe0",
+      "size": 8,
+      "signature": "sym.CoreMLOdie.BNNSSegmenterError.conformsto.Hashable_...HAASQ_ ();",
+      "disasm": "\u250c 8: sym.CoreMLOdie.BNNSSegmenterError.conformsto.Hashable_...HAASQ_ ();\n\u2502           0x246e8abe0      ff0762a8       ldnp xzr, x1, [sp, -0x1e0] ; CoreMLOdie.BNNSSegmenterError.conformsto.Hashable(...HAASQ)\n\u2514           0x246e8abe4      feff0000       invalid\n"
+    },
+    {
+      "name": "sym.Compiler._symbolic______Sg_4ODIE8CompilerC19TargetSpecificationV",
+      "addr": "0x246e8abe8",
+      "size": 4,
+      "signature": "sym.Compiler._symbolic______Sg_4ODIE8CompilerC19TargetSpecificationV ();",
+      "disasm": "            ;-- symbolic ODIE.Compiler.TargetSpecification.allocator...V:\n\u250c 4: sym.Compiler._symbolic______Sg_4ODIE8CompilerC19TargetSpecificationV ();\n\u2514           0x246e8abe8      02b7d276       invalid                    ; symbolic ODIE.Compiler.TargetSpecification.allocator...V\n"
+    },
+    {
+      "name": "sym.symbolic_E5MLCompilerInput...V",
+      "addr": "0x246e8abf0",
+      "size": 4,
+      "signature": "sym.symbolic_E5MLCompilerInput...V ();",
+      "disasm": "\u250c 4: sym.symbolic_E5MLCompilerInput...V ();\n\u2514           0x246e8abf0      02ffe4e7       invalid                    ; symbolic E5MLCompilerInput...V\n"
+    },
+    {
+      "name": "sym.CoreMLOdie.TargetArchitecture.CaseIterable.AllCases_...l_",
+      "addr": "0x246e8ac24",
+      "size": 4,
+      "signature": "sym.CoreMLOdie.TargetArchitecture.CaseIterable.AllCases_...l_ ();",
+      "disasm": "\u250c 4: sym.CoreMLOdie.TargetArchitecture.CaseIterable.AllCases_...l_ ();\n\u2514           0x246e8ac24      ff07dade       invalid                    ; CoreMLOdie.TargetArchitecture.CaseIterable.AllCases(...l)\n"
+    },
+    {
+      "name": "sym.symbolic_CaseIterable.",
+      "addr": "0x246e8ac2c",
+      "size": 8,
+      "signature": "sym.symbolic_CaseIterable. ();",
+      "disasm": "\u250c 8: sym.symbolic_CaseIterable. ();\n\u2502           0x246e8ac2c      24737331       adds w4, w25, 0xcdc, lsl 12 ; symbolic CaseIterable.\n\u2514           0x246e8ac30      32436173       invalid\n"
+    },
+    {
+      "name": "sym.E5RTTensorDescriptor._symbolic_______10CoreMLOdie20E5RTTensorDescriptorC",
+      "addr": "0x246e8ac40",
+      "size": 4,
+      "signature": "sym.E5RTTensorDescriptor._symbolic_______10CoreMLOdie20E5RTTensorDescriptorC ();",
+      "disasm": "            ;-- symbolic CoreMLOdie.E5RTTensorDescriptor.allocator:\n\u250c 4: sym.E5RTTensorDescriptor._symbolic_______10CoreMLOdie20E5RTTensorDescriptorC ();\n\u2514           0x246e8ac40      0137fbff       invalid                    ; symbolic CoreMLOdie.E5RTTensorDescriptor.allocator\n"
+    },
+    {
+      "name": "sym.symbolic__ContiguousArrayStorage.allocator__1",
+      "addr": "0x246e8ac50",
+      "size": 4,
+      "signature": "sym.symbolic__ContiguousArrayStorage.allocator__1 ();",
+      "disasm": "\u250c 4: sym.symbolic__ContiguousArrayStorage.allocator__1 ();\n\u2514           0x246e8ac50      022f2978       invalid                    ; symbolic _ContiguousArrayStorage.allocator\n"
+    },
+    {
+      "name": "sym.Operand._symbolic______y_____SgG_s23_ContiguousArrayStorageC_4ODIE7OperandO",
+      "addr": "0x246e8aca8",
+      "size": 4,
+      "signature": "sym.Operand._symbolic______y_____SgG_s23_ContiguousArrayStorageC_4ODIE7OperandO ();",
+      "disasm": "            ;-- symbolic ODIE.Operand.bool:\n\u250c 4: sym.Operand._symbolic______y_____SgG_s23_ContiguousArrayStorageC_4ODIE7OperandO ();\n\u2514           0x246e8aca8      02d72878       invalid                    ; symbolic ODIE.Operand.bool\n"
+    },
+    {
+      "name": "sym.symbolic__ContiguousArrayStorage.allocator__2",
+      "addr": "0x246e8acb8",
+      "size": 4,
+      "signature": "sym.symbolic__ContiguousArrayStorage.allocator__2 ();",
+      "disasm": "\u250c 4: sym.symbolic__ContiguousArrayStorage.allocator__2 ();\n\u2514           0x246e8acb8      02c72878       invalid                    ; symbolic _ContiguousArrayStorage.allocator\n"
+    },
+    {
+      "name": "sym.symbolic_OpaquePointer...V__4",
+      "addr": "0x246e8ad18",
+      "size": 4,
+      "signature": "sym.symbolic_OpaquePointer...V__4 ();",
+      "disasm": "\u250c 4: sym.symbolic_OpaquePointer...V__4 ();\n\u2514           0x246e8ad18      53535f02       invalid                    ; symbolic OpaquePointer...V\n"
+    },
+    {
+      "name": "sym.String._symbolic_SS7message_t",
+      "addr": "0x246e8ad50",
+      "size": 8,
+      "signature": "sym.String._symbolic_SS7message_t ();",
+      "disasm": "            ;-- symbolic Swift.String:\n\u250c 8: sym.String._symbolic_SS7message_t ();\n\u2502           0x246e8ad50      5353376d       stp d19, d20, [x26, -0x90] ; symbolic Swift.String\n\u2514           0x246e8ad54      65737361       invalid\n"
+    },
+    {
+      "name": "sym.symbolic__DictionaryStorage.allocator",
+      "addr": "0x246e8ad9c",
+      "size": 4,
+      "signature": "sym.symbolic__DictionaryStorage.allocator ();",
+      "disasm": "\u250c 4: sym.symbolic__DictionaryStorage.allocator ();\n\u2514           0x246e8ad9c      02bb2678       invalid                    ; symbolic _DictionaryStorage.allocator\n"
+    },
+    {
+      "name": "sym.E5RTExecutionStreamOperation._symbolic______ySS_____G_s18_DictionaryStorageC_10CoreMLOdie28E5RTExecutionStreamOperationC",
+      "addr": "0x246e8ada8",
+      "size": 4,
+      "signature": "sym.E5RTExecutionStreamOperation._symbolic______ySS_____G_s18_DictionaryStorageC_10CoreMLOdie28E5RTExecutionStreamOperationC ();",
+      "disasm": "            ;-- symbolic CoreMLOdie.E5RTExecutionStreamOperation.allocator:\n\u250c 4: sym.E5RTExecutionStreamOperation._symbolic______ySS_____G_s18_DictionaryStorageC_10CoreMLOdie28E5RTExecutionStreamOperationC ();\n\u2514           0x246e8ada8      02af2678       invalid                    ; symbolic CoreMLOdie.E5RTExecutionStreamOperation.allocator\n"
+    },
+    {
+      "name": "sym.symbolic_UInt32...V__2",
+      "addr": "0x246e8adc8",
+      "size": 4,
+      "signature": "sym.symbolic_UInt32...V__2 ();",
+      "disasm": "\u250c 4: sym.symbolic_UInt32...V__2 ();\n\u2514           0x246e8adc8      53447902       invalid                    ; symbolic UInt32...V\n"
+    },
+    {
+      "name": "sym.FunctionDescriptor._symbolic______Sg_4ODIE18FunctionDescriptorV",
+      "addr": "0x246e8add4",
+      "size": 4,
+      "signature": "sym.FunctionDescriptor._symbolic______Sg_4ODIE18FunctionDescriptorV ();",
+      "disasm": "            ;-- symbolic ODIE.FunctionDescriptor...V:\n\u250c 4: sym.FunctionDescriptor._symbolic______Sg_4ODIE18FunctionDescriptorV ();\n\u2514           0x246e8add4      024bd076       invalid                    ; symbolic ODIE.FunctionDescriptor...V\n"
+    },
+    {
+      "name": "sym.DelegateFunctionArguments._symbolic______Sg_4ODIE25DelegateFunctionArgumentsV",
+      "addr": "0x246e8addc",
+      "size": 4,
+      "signature": "sym.DelegateFunctionArguments._symbolic______Sg_4ODIE25DelegateFunctionArgumentsV ();",
+      "disasm": "            ;-- symbolic ODIE.DelegateFunctionArguments...V:\n\u250c 4: sym.DelegateFunctionArguments._symbolic______Sg_4ODIE25DelegateFunctionArgumentsV ();\n\u2514           0x246e8addc      0253d076       invalid                    ; symbolic ODIE.DelegateFunctionArguments...V\n"
+    },
+    {
+      "name": "sym.DelegateProgramArguments._symbolic______Sg_4ODIE24DelegateProgramArgumentsV",
+      "addr": "0x246e8ade4",
+      "size": 4,
+      "signature": "sym.DelegateProgramArguments._symbolic______Sg_4ODIE24DelegateProgramArgumentsV ();",
+      "disasm": "            ;-- symbolic ODIE.DelegateProgramArguments...V:\n\u250c 4: sym.DelegateProgramArguments._symbolic______Sg_4ODIE24DelegateProgramArgumentsV ();\n\u2514           0x246e8ade4      0243d076       invalid                    ; symbolic ODIE.DelegateProgramArguments...V\n"
+    },
+    {
+      "name": "sym.XPCSegmenterInput._symbolic__s10CoreMLOdie17XPCSegmenterInputP",
+      "addr": "0x246e8adec",
+      "size": 20,
+      "signature": "sym.XPCSegmenterInput._symbolic__s10CoreMLOdie17XPCSegmenterInputP ();",
+      "disasm": "            ;-- symbolic CoreMLOdie.XPCSegmenterInput.:\n\u250c 20: sym.XPCSegmenterInput._symbolic__s10CoreMLOdie17XPCSegmenterInputP ();\n\u2502           0x246e8adec      24733130       adr x4, 0x246eedc51        ; symbolic CoreMLOdie.XPCSegmenterInput.\n\u2502           0x246e8adf0      436f7265       fnmls z3.h, p3/m, z26.h, z18.h\n\u2502           0x246e8adf4      4d4c4f64       fcmla z13.h, p3/m, z2.h, z15.h, 0xb4\n\u2502       \u250c\u2500< 0x246e8adf8      69653137       tbnz w9, 6, 0x246e8daa4\n\u2514       \u2502   0x246e8adfc      58504353       invalid\n"
+    },
+    {
+      "name": "sym._symbolic_x",
+      "addr": "0x246e8ae10",
+      "size": 2,
+      "signature": "sym._symbolic_x ();",
+      "disasm": "\u250c 2: sym._symbolic_x ();\n\u2502           0x246e8ae10  ~   78002473       invalid\n"
+    },
+    {
+      "name": "sym.XPCDelegateCompilerInput._symbolic__s10CoreMLOdie24XPCDelegateCompilerInputP",
+      "addr": "0x246e8ae12",
+      "size": 2,
+      "signature": "sym.XPCDelegateCompilerInput._symbolic__s10CoreMLOdie24XPCDelegateCompilerInputP ();",
+      "disasm": "            ;-- symbolic CoreMLOdie.XPCDelegateCompilerInput.:\n\u250c 2: sym.XPCDelegateCompilerInput._symbolic__s10CoreMLOdie24XPCDelegateCompilerInputP ();\n\u2514           0x246e8ae12      2473           unaligned                  ; symbolic CoreMLOdie.XPCDelegateCompilerInput.\n"
+    },
+    {
+      "name": "sym.XPCDelegateCompiler._symbolic_______10CoreMLOdie19XPCDelegateCompilerV",
+      "addr": "0x246e8ae3c",
+      "size": 4,
+      "signature": "sym.XPCDelegateCompiler._symbolic_______10CoreMLOdie19XPCDelegateCompilerV ();",
+      "disasm": "            ;-- symbolic CoreMLOdie.XPCDelegateCompiler...V:\n\u250c 4: sym.XPCDelegateCompiler._symbolic_______10CoreMLOdie19XPCDelegateCompilerV ();\n\u2514           0x246e8ae3c      011ffbff       invalid                    ; symbolic CoreMLOdie.XPCDelegateCompiler...V\n"
+    },
+    {
+      "name": "sym.___swift_async_entry_functlets",
+      "addr": "0x246e8bac0",
+      "size": 4,
+      "signature": "sym.___swift_async_entry_functlets ();",
+      "disasm": "            ;-- section.12.__TEXT.__swift_as_entry:\n            ; NULL XREF from segment.__TEXT @ +0x448(r)\n\u250c 4: sym.___swift_async_entry_functlets ();\n\u2514           0x246e8bac0      38fbfdff       invalid                    ; [12] -r-x section size 36 named 12.__TEXT.__swift_as_entry\n"
+    },
+    {
+      "name": "sym.___swift_async_entry_functlets_1",
+      "addr": "0x246e8bac8",
+      "size": 4,
+      "signature": "sym.___swift_async_entry_functlets_1 ();",
+      "disasm": "\u250c 4: sym.___swift_async_entry_functlets_1 ();\n\u2514           0x246e8bac8      089afeff       invalid\n"
+    },
+    {
+      "name": "sym.___swift_async_entry_functlets_2",
+      "addr": "0x246e8bad0",
+      "size": 4,
+      "signature": "sym.___swift_async_entry_functlets_2 ();",
+      "disasm": "\u250c 4: sym.___swift_async_entry_functlets_2 ();\n\u2514           0x246e8bad0      9cb8feff       invalid\n"
+    },
+    {
+      "name": "sym.___swift_async_entry_functlets_3",
+      "addr": "0x246e8bad4",
+      "size": 4,
+      "signature": "sym.___swift_async_entry_functlets_3 ();",
+      "disasm": "\u250c 4: sym.___swift_async_entry_functlets_3 ();\n\u2514           0x246e8bad4      cceffeff       invalid\n"
+    },
+    {
+      "name": "sym.___swift_async_entry_functlets_4",
+      "addr": "0x246e8badc",
+      "size": 4,
+      "signature": "sym.___swift_async_entry_functlets_4 ();",
+      "disasm": "\u250c 4: sym.___swift_async_entry_functlets_4 ();\n\u2514           0x246e8badc      cc79ffff       invalid\n"
+    },
+    {
+      "name": "sym.___swift_async_ret_functlets",
+      "addr": "0x246e8bae4",
+      "size": 4,
+      "signature": "sym.___swift_async_ret_functlets ();",
+      "disasm": "            ;-- section.13.__TEXT.__swift_as_ret:\n            ; NULL XREF from segment.__TEXT @ +0x498(r)\n\u250c 4: sym.___swift_async_ret_functlets ();\n\u2514           0x246e8bae4      2001feff       invalid                    ; [13] -r-x section size 36 named 13.__TEXT.__swift_as_ret\n"
+    },
+    {
+      "name": "sym.___swift_async_ret_functlets_1",
+      "addr": "0x246e8bae8",
+      "size": 4,
+      "signature": "sym.___swift_async_ret_functlets_1 ();",
+      "disasm": "\u250c 4: sym.___swift_async_ret_functlets_1 ();\n\u2514           0x246e8bae8      a09dfeff       invalid\n"
+    },
+    {
+      "name": "sym.___swift_async_ret_functlets_2",
+      "addr": "0x246e8baf0",
+      "size": 4,
+      "signature": "sym.___swift_async_ret_functlets_2 ();",
+      "disasm": "\u250c 4: sym.___swift_async_ret_functlets_2 ();\n\u2514           0x246e8baf0      44b9feff       invalid\n"
+    },
+    {
+      "name": "sym.___swift_async_ret_functlets_3",
+      "addr": "0x246e8baf4",
+      "size": 4,
+      "signature": "sym.___swift_async_ret_functlets_3 ();",
+      "disasm": "\u250c 4: sym.___swift_async_ret_functlets_3 ();\n\u2514           0x246e8baf4      1001feff       invalid\n"
+    },
+    {
+      "name": "sym.___swift_async_ret_functlets_4",
+      "addr": "0x246e8baf8",
+      "size": 4,
+      "signature": "sym.___swift_async_ret_functlets_4 ();",
+      "disasm": "\u250c 4: sym.___swift_async_ret_functlets_4 ();\n\u2514           0x246e8baf8      b07cffff       invalid\n"
+    }
+  ]
+}

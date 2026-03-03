@@ -1,0 +1,9 @@
+uv.lock
+package-lock.json
+
+# HonKit
+book/_book
+book/node_modules
+book/README.md
+book/SUMMARY.md
+book/reports

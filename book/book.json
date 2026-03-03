@@ -1,0 +1,17 @@
+{
+  "title": "CoreML Disassembler",
+  "description": "Apple CoreML / Espresso / Accelerate 框架反汇编逆向分析",
+  "language": "zh-hans",
+  "plugins": [
+    "-search",
+    "-lunr",
+    "-sharing",
+    "expandable-chapters",
+    "search-pro"
+  ],
+  "pluginsConfig": {},
+  "structure": {
+    "readme": "README.md",
+    "summary": "SUMMARY.md"
+  }
+}

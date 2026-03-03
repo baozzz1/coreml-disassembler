@@ -1,0 +1,32 @@
+{
+  "name": "vecLib (stub)",
+  "path": "iPhone17,2_26.2_23C55/Frameworks/Accelerate.framework/Frameworks/vecLib.framework/vecLib",
+  "file_size": 4096,
+  "arch": "arm",
+  "bits": 64,
+  "machine": "arm64e",
+  "os": "ios",
+  "bintype": "mach0",
+  "lang": "c",
+  "stripped": false,
+  "canary": false,
+  "pic": false,
+  "total_functions": 0,
+  "function_categories": {},
+  "total_imports": 0,
+  "import_libraries": {},
+  "total_exports": 0,
+  "export_prefixes": {},
+  "export_samples": {},
+  "total_strings": 0,
+  "interesting_strings": [],
+  "sections": [
+    {
+      "name": "0.__TEXT.__text",
+      "size": 0,
+      "perm": "----"
+    }
+  ],
+  "top_functions": [],
+  "detailed_functions": []
+}

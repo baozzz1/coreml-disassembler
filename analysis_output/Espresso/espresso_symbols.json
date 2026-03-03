@@ -1,0 +1,5032 @@
+[
+  {
+    "name": "-[ETLayerInitializationParameters .cxx_destruct]",
+    "vaddr": "0x1941fac04",
+    "size": 0
+  },
+  {
+    "name": "-[ETLayerInitializationParameters parameters]",
+    "vaddr": "0x1941fac10",
+    "size": 0
+  },
+  {
+    "name": "-[ETLayerInitializationParameters initWithMode:parameters:error:]",
+    "vaddr": "0x1941fac1c",
+    "size": 0
+  },
+  {
+    "name": "-[EspressoPass_compress_segments runOnNetwork:]",
+    "vaddr": "0x1941fac90",
+    "size": 0
+  },
+  {
+    "name": "-[EspressoPass_squeeze_devop runOnNetwork:]",
+    "vaddr": "0x1941fcfe4",
+    "size": 0
+  },
+  {
+    "name": "-[EspressoDataFrameMappedFile .cxx_destruct]",
+    "vaddr": "0x1941fcfec",
+    "size": 0
+  },
+  {
+    "name": "-[EspressoDataFrameMappedFile setBasePtr:]",
+    "vaddr": "0x1941fcff8",
+    "size": 0
+  },
+  {
+    "name": "-[EspressoDataFrameMappedFile basePtr]",
+    "vaddr": "0x1941fd000",
+    "size": 0
+  },
+  {
+    "name": "-[EspressoDataFrameMappedFile setPath:]",
+    "vaddr": "0x1941fd008",
+    "size": 0
+  },
+  {
+    "name": "-[EspressoDataFrameMappedFile path]",
+    "vaddr": "0x1941fd010",
+    "size": 0
+  },
+  {
+    "name": "-[EspressoDataFrameMappedFile dealloc]",
+    "vaddr": "0x1941fd01c",
+    "size": 0
+  },
+  {
+    "name": "-[EspressoDataFrameMappedFile initWithPath:]",
+    "vaddr": "0x1941fd0b4",
+    "size": 0
+  },
+  {
+    "name": "-[EspressoDataFrameImageAttachment setNChannels:]",
+    "vaddr": "0x1941fd254",
+    "size": 0
+  },
+  {
+    "name": "-[EspressoDataFrameImageAttachment nChannels]",
+    "vaddr": "0x1941fd264",
+    "size": 0
+  },
+  {
+    "name": "-[EspressoDataFrameImageAttachment loadFromDict:frameStorage:]",
+    "vaddr": "0x1941fd274",
+    "size": 0
+  },
+  {
+    "name": "-[EspressoDataFrameImageAttachment copyAsImageGrayscaleOrBGRA]",
+    "vaddr": "0x1941fd3f0",
+    "size": 0
+  },
+  {
+    "name": "-[EspressoDataFrameAttachment .cxx_destruct]",
+    "vaddr": "0x1941fd560",
+    "size": 0
+  },
+  {
+    "name": "-[EspressoDataFrameAttachment setSize:]",
+    "vaddr": "0x1941fd56c",
+    "size": 0
+  },
+  {
+    "name": "-[EspressoDataFrameAttachment size]",
+    "vaddr": "0x1941fd574",
+    "size": 0
+  },
+  {
+    "name": "-[EspressoDataFrameAttachment setOffset:]",
+    "vaddr": "0x1941fd57c",
+    "size": 0
+  },
+  {
+    "name": "-[EspressoDataFrameAttachment offset]",
+    "vaddr": "0x1941fd584",
+    "size": 0
+  },
+  {
+    "name": "-[EspressoDataFrameAttachment setRawPointer:]",
+    "vaddr": "0x1941fd58c",
+    "size": 0
+  },
+  {
+    "name": "-[EspressoDataFrameAttachment rawPointer]",
+    "vaddr": "0x1941fd594",
+    "size": 0
+  },
+  {
+    "name": "-[EspressoDataFrameAttachment setFilePath:]",
+    "vaddr": "0x1941fd59c",
+    "size": 0
+  },
+  {
+    "name": "-[EspressoDataFrameAttachment filePath]",
+    "vaddr": "0x1941fd5a4",
+    "size": 0
+  },
+  {
+    "name": "-[EspressoDataFrameAttachment setDisabled:]",
+    "vaddr": "0x1941fd5b0",
+    "size": 0
+  },
+  {
+    "name": "-[EspressoDataFrameAttachment disabled]",
+    "vaddr": "0x1941fd5b8",
+    "size": 0
+  },
+  {
+    "name": "-[EspressoDataFrameAttachment loadFromDict:frameStorage:]",
+    "vaddr": "0x1941fd5c4",
+    "size": 0
+  },
+  {
+    "name": "+[EspressoDataFrameAttachment fromDict:frameStorage:]",
+    "vaddr": "0x1941fd89c",
+    "size": 0
+  },
+  {
+    "name": "-[EspressoDataFrameTensorAttachment copyAsEspressoBuffer]",
+    "vaddr": "0x1941fda04",
+    "size": 0
+  },
+  {
+    "name": "-[EspressoDataFrameTensorAttachment loadFromDict:frameStorage:]",
+    "vaddr": "0x1941fdac0",
+    "size": 0
+  },
+  {
+    "name": "+[EspressoDataFrameTensorAttachment copyFromCVPixelBuffer:]",
+    "vaddr": "0x1941fdec4",
+    "size": 0
+  },
+  {
+    "name": "+[EspressoDataFrameImageAttachment createCVPixelBufferFromvImage:withPixelFormat:]",
+    "vaddr": "0x1941fe004",
+    "size": 0
+  },
+  {
+    "name": "-[EspressoDataFrame .cxx_destruct]",
+    "vaddr": "0x1941fe18c",
+    "size": 0
+  },
+  {
+    "name": "-[EspressoDataFrame setFunction_name:]",
+    "vaddr": "0x1941fe1e8",
+    "size": 0
+  },
+  {
+    "name": "-[EspressoDataFrame function_name]",
+    "vaddr": "0x1941fe1f0",
+    "size": 0
+  },
+  {
+    "name": "-[EspressoDataFrame setGroundTruthAttachments:]",
+    "vaddr": "0x1941fe1fc",
+    "size": 0
+  },
+  {
+    "name": "-[EspressoDataFrame groundTruthAttachments]",
+    "vaddr": "0x1941fe204",
+    "size": 0
+  },
+  {
+    "name": "-[EspressoDataFrame setOutputAttachments:]",
+    "vaddr": "0x1941fe210",
+    "size": 0
+  },
+  {
+    "name": "-[EspressoDataFrame outputAttachments]",
+    "vaddr": "0x1941fe218",
+    "size": 0
+  },
+  {
+    "name": "-[EspressoDataFrame setInputAttachments:]",
+    "vaddr": "0x1941fe224",
+    "size": 0
+  },
+  {
+    "name": "-[EspressoDataFrame inputAttachments]",
+    "vaddr": "0x1941fe22c",
+    "size": 0
+  },
+  {
+    "name": "-[EspressoDataFrame loadFromDict:frameStorage:]",
+    "vaddr": "0x1941fe238",
+    "size": 0
+  },
+  {
+    "name": "-[EspressoDataFrame outputAttachmentNames]",
+    "vaddr": "0x1941fe6c4",
+    "size": 0
+  },
+  {
+    "name": "-[EspressoDataFrame groundTruthAttachmentNames]",
+    "vaddr": "0x1941fe6cc",
+    "size": 0
+  },
+  {
+    "name": "-[EspressoDataFrame inputAttachmentNames]",
+    "vaddr": "0x1941fe6d4",
+    "size": 0
+  },
+  {
+    "name": "-[EspressoDataFrame getFunctionName]",
+    "vaddr": "0x1941fe6dc",
+    "size": 0
+  },
+  {
+    "name": "-[EspressoDataFrame getGroundTruthAttachment:]",
+    "vaddr": "0x1941fe6e4",
+    "size": 0
+  },
+  {
+    "name": "-[EspressoDataFrame getOutputAttachment:]",
+    "vaddr": "0x1941fe714",
+    "size": 0
+  },
+  {
+    "name": "-[EspressoDataFrame getInputAttachment:]",
+    "vaddr": "0x1941fe744",
+    "size": 0
+  },
+  {
+    "name": "-[EspressoDataFrame init]",
+    "vaddr": "0x1941fe774",
+    "size": 0
+  },
+  {
+    "name": "-[EspressoDataFrameStorage .cxx_destruct]",
+    "vaddr": "0x1941fe84c",
+    "size": 0
+  },
+  {
+    "name": "-[EspressoDataFrameStorage setBaseFilename:]",
+    "vaddr": "0x1941fe89c",
+    "size": 0
+  },
+  {
+    "name": "-[EspressoDataFrameStorage baseFilename]",
+    "vaddr": "0x1941fe8a4",
+    "size": 0
+  },
+  {
+    "name": "-[EspressoDataFrameStorage setMappedFiles:]",
+    "vaddr": "0x1941fe8b0",
+    "size": 0
+  },
+  {
+    "name": "-[EspressoDataFrameStorage mappedFiles]",
+    "vaddr": "0x1941fe8b8",
+    "size": 0
+  },
+  {
+    "name": "-[EspressoDataFrameStorage setDataFrames:]",
+    "vaddr": "0x1941fe8c4",
+    "size": 0
+  },
+  {
+    "name": "-[EspressoDataFrameStorage dataFrames]",
+    "vaddr": "0x1941fe8cc",
+    "size": 0
+  },
+  {
+    "name": "-[EspressoDataFrameStorage dataFrameAtIndex:]",
+    "vaddr": "0x1941fe8d8",
+    "size": 0
+  },
+  {
+    "name": "-[EspressoDataFrameStorage numberOfDataFrames]",
+    "vaddr": "0x1941fe8e0",
+    "size": 0
+  },
+  {
+    "name": "+[EspressoDataFrameStorage dataFrameStorageFromPath:error:]",
+    "vaddr": "0x1941fe8e8",
+    "size": 0
+  },
+  {
+    "name": "-[EspressoDataFrameStorageExecutorMatchingBufferSet .cxx_destruct]",
+    "vaddr": "0x1941feeac",
+    "size": 0
+  },
+  {
+    "name": "-[EspressoDataFrameStorageExecutorMatchingBufferSet setGroundtruth_buffer:]",
+    "vaddr": "0x1941feeb8",
+    "size": 0
+  },
+  {
+    "name": "-[EspressoDataFrameStorageExecutorMatchingBufferSet groundtruth_buffer]",
+    "vaddr": "0x1941feed0",
+    "size": 0
+  },
+  {
+    "name": "-[EspressoDataFrameStorageExecutorMatchingBufferSet setComputed_pb:]",
+    "vaddr": "0x1941feee8",
+    "size": 0
+  },
+  {
+    "name": "-[EspressoDataFrameStorageExecutorMatchingBufferSet computed_pb]",
+    "vaddr": "0x1941feef0",
+    "size": 0
+  },
+  {
+    "name": "-[EspressoDataFrameStorageExecutorMatchingBufferSet setComputed_buffer:]",
+    "vaddr": "0x1941feef8",
+    "size": 0
+  },
+  {
+    "name": "-[EspressoDataFrameStorageExecutorMatchingBufferSet computed_buffer]",
+    "vaddr": "0x1941fef10",
+    "size": 0
+  },
+  {
+    "name": "-[EspressoDataFrameStorageExecutorMatchingBufferSet setReference_buffer:]",
+    "vaddr": "0x1941fef28",
+    "size": 0
+  },
+  {
+    "name": "-[EspressoDataFrameStorageExecutorMatchingBufferSet reference_buffer]",
+    "vaddr": "0x1941fef40",
+    "size": 0
+  },
+  {
+    "name": "-[EspressoDataFrameStorageExecutorMatchingBufferSet setName:]",
+    "vaddr": "0x1941fef58",
+    "size": 0
+  },
+  {
+    "name": "-[EspressoDataFrameStorageExecutorMatchingBufferSet name]",
+    "vaddr": "0x1941fef60",
+    "size": 0
+  },
+  {
+    "name": "-[EspressoDataFrameStorageExecutorMatchingBufferSet setIndex:]",
+    "vaddr": "0x1941fef6c",
+    "size": 0
+  },
+  {
+    "name": "-[EspressoDataFrameStorageExecutorMatchingBufferSet index]",
+    "vaddr": "0x1941fef74",
+    "size": 0
+  },
+  {
+    "name": "-[EspressoDataFrameExecutor .cxx_construct]",
+    "vaddr": "0x1941fef7c",
+    "size": 0
+  },
+  {
+    "name": "-[EspressoDataFrameExecutor .cxx_destruct]",
+    "vaddr": "0x1941fef90",
+    "size": 0
+  },
+  {
+    "name": "-[EspressoDataFrameExecutor setUse_cvpixelbuffer:]",
+    "vaddr": "0x1941feff4",
+    "size": 0
+  },
+  {
+    "name": "-[EspressoDataFrameExecutor use_cvpixelbuffer]",
+    "vaddr": "0x1941feffc",
+    "size": 0
+  },
+  {
+    "name": "-[EspressoDataFrameExecutor setOutputMatchingBuffers:]",
+    "vaddr": "0x1941ff004",
+    "size": 0
+  },
+  {
+    "name": "-[EspressoDataFrameExecutor outputMatchingBuffers]",
+    "vaddr": "0x1941ff00c",
+    "size": 0
+  },
+  {
+    "name": "-[EspressoDataFrameExecutor dealloc]",
+    "vaddr": "0x1941ff018",
+    "size": 0
+  },
+  {
+    "name": "-[EspressoDataFrameExecutor freeTemporaryResources]",
+    "vaddr": "0x1941ff090",
+    "size": 0
+  },
+  {
+    "name": "-[EspressoDataFrameExecutor bindOutputsFromFrame:toNetwork:executionStatus:]",
+    "vaddr": "0x1941ff11c",
+    "size": 0
+  },
+  {
+    "name": "-[EspressoDataFrameExecutor bindOutputsFromFrame:toNetwork:]",
+    "vaddr": "0x1941ffb24",
+    "size": 0
+  },
+  {
+    "name": "-[EspressoDataFrameExecutor bindOutputsFromFrame:toNetwork:referenceNetwork:]",
+    "vaddr": "0x1941ffb2c",
+    "size": 0
+  },
+  {
+    "name": "-[EspressoDataFrameExecutor bindInputsFromFrame:toNetwork:]",
+    "vaddr": "0x1941fffdc",
+    "size": 0
+  },
+  {
+    "name": "-[EspressoDataFrameExecutor bindInput:fromTensorAttachment:toNetwork:]",
+    "vaddr": "0x194200f90",
+    "size": 0
+  },
+  {
+    "name": "-[EspressoDataFrameExecutor bindInput:fromImageAttachment:toNetwork:]",
+    "vaddr": "0x1942012dc",
+    "size": 0
+  },
+  {
+    "name": "-[EspressoDataFrameExecutor useCVPixelBuffers]",
+    "vaddr": "0x1942016ac",
+    "size": 0
+  },
+  {
+    "name": "-[EspressoDataFrameExecutor useCVPixelBuffersForOutputs:]",
+    "vaddr": "0x1942016b4",
+    "size": 0
+  },
+  {
+    "name": "-[EspressoDataFrameStorageExecutor executeDataFrameStorage:withNetwork:block:]",
+    "vaddr": "0x194201764",
+    "size": 0
+  },
+  {
+    "name": "-[EspressoDataFrameStorageExecutor executeDataFrameStorage:withNetwork:referenceNetwork:block:blockPrepareForIndex:]",
+    "vaddr": "0x19420176c",
+    "size": 0
+  },
+  {
+    "name": "-[EspressoDataFrameStorageExecutor executeDataFrameStorage:withNetwork:block:blockPrepareForIndex:]",
+    "vaddr": "0x194201b6c",
+    "size": 0
+  },
+  {
+    "name": "-[ETImagePreprocessParams width]",
+    "vaddr": "0x19421ea84",
+    "size": 0
+  },
+  {
+    "name": "-[ETImagePreprocessParams height]",
+    "vaddr": "0x19421ea8c",
+    "size": 0
+  },
+  {
+    "name": "-[ETImagePreprocessParams channels]",
+    "vaddr": "0x19421ea94",
+    "size": 0
+  },
+  {
+    "name": "-[ETImagePreprocessParams scale]",
+    "vaddr": "0x19421ea9c",
+    "size": 0
+  },
+  {
+    "name": "-[ETImagePreprocessParams bias_b]",
+    "vaddr": "0x19421eaa4",
+    "size": 0
+  },
+  {
+    "name": "-[ETImagePreprocessParams bias_g]",
+    "vaddr": "0x19421eaac",
+    "size": 0
+  },
+  {
+    "name": "-[ETImagePreprocessParams bias_r]",
+    "vaddr": "0x19421eab4",
+    "size": 0
+  },
+  {
+    "name": "-[ETImagePreprocessParams network_wants_bgr]",
+    "vaddr": "0x19421eabc",
+    "size": 0
+  },
+  {
+    "name": "-[ETImagePreprocessParams initWithHeight:Width:NumChannels:Scale:BiasR:BiasG:BiasB:NetworkWantBGR:]",
+    "vaddr": "0x19421eac4",
+    "size": 0
+  },
+  {
+    "name": "-[ETImagePreprocessor .cxx_construct]",
+    "vaddr": "0x19421eba8",
+    "size": 0
+  },
+  {
+    "name": "-[ETImagePreprocessor .cxx_destruct]",
+    "vaddr": "0x19421ebec",
+    "size": 0
+  },
+  {
+    "name": "-[ETImagePreprocessor loadSrcBufferWithCGImage:]",
+    "vaddr": "0x19421ec48",
+    "size": 0
+  },
+  {
+    "name": "-[ETImagePreprocessor preprocess]",
+    "vaddr": "0x19421ed88",
+    "size": 0
+  },
+  {
+    "name": "-[ETImagePreprocessor dealloc]",
+    "vaddr": "0x19421edf0",
+    "size": 0
+  },
+  {
+    "name": "-[ETImagePreprocessor tensorWithPath:]",
+    "vaddr": "0x19421ee78",
+    "size": 0
+  },
+  {
+    "name": "-[ETImagePreprocessor tensorWithCGImage:]",
+    "vaddr": "0x19421efd0",
+    "size": 0
+  },
+  {
+    "name": "-[ETImagePreprocessor initWithImagePreprocessParams:]",
+    "vaddr": "0x19421f2a0",
+    "size": 0
+  },
+  {
+    "name": "-[ETImageFolderDataProvider .cxx_construct]",
+    "vaddr": "0x19421f710",
+    "size": 0
+  },
+  {
+    "name": "-[ETImageFolderDataProvider .cxx_destruct]",
+    "vaddr": "0x19421f730",
+    "size": 0
+  },
+  {
+    "name": "-[ETImageFolderDataProvider prepareForEpoch]",
+    "vaddr": "0x19421f818",
+    "size": 0
+  },
+  {
+    "name": "-[ETImageFolderDataProvider numberOfDataPoints]",
+    "vaddr": "0x19421fbac",
+    "size": 0
+  },
+  {
+    "name": "-[ETImageFolderDataProvider dataPointAtIndex:error:]",
+    "vaddr": "0x19421fbbc",
+    "size": 0
+  },
+  {
+    "name": "-[ETImageFolderDataProvider initWithFolder:forImageTensor:andLabelTensor:shuffleBeforeEachEpoch:shuffleRandomSeed:withImagePreprocessParams:]",
+    "vaddr": "0x19421fd10",
+    "size": 0
+  },
+  {
+    "name": "-[EspressoPass_wavernn_ane runOnNetwork:]",
+    "vaddr": "0x1942221a0",
+    "size": 0
+  },
+  {
+    "name": "-[ETTaskDefinition .cxx_construct]",
+    "vaddr": "0x19422e240",
+    "size": 0
+  },
+  {
+    "name": "-[ETTaskDefinition .cxx_destruct]",
+    "vaddr": "0x19422e294",
+    "size": 0
+  },
+  {
+    "name": "-[ETTaskDefinition setTrainingGraphNetPtr:]",
+    "vaddr": "0x19422e390",
+    "size": 0
+  },
+  {
+    "name": "-[ETTaskDefinition trainingGraphNetPtr]",
+    "vaddr": "0x19422e3d8",
+    "size": 0
+  },
+  {
+    "name": "-[ETTaskDefinition setInferenceGraphNetPtr:]",
+    "vaddr": "0x19422e410",
+    "size": 0
+  },
+  {
+    "name": "-[ETTaskDefinition inferenceGraphNetPtr]",
+    "vaddr": "0x19422e42c",
+    "size": 0
+  },
+  {
+    "name": "-[ETTaskDefinition setTaskState:]",
+    "vaddr": "0x19422e448",
+    "size": 0
+  },
+  {
+    "name": "-[ETTaskDefinition setPlatform:]",
+    "vaddr": "0x19422e454",
+    "size": 0
+  },
+  {
+    "name": "-[ETTaskDefinition platform]",
+    "vaddr": "0x19422e45c",
+    "size": 0
+  },
+  {
+    "name": "-[ETTaskDefinition setOptimizer:]",
+    "vaddr": "0x19422e464",
+    "size": 0
+  },
+  {
+    "name": "-[ETTaskDefinition optimizer]",
+    "vaddr": "0x19422e470",
+    "size": 0
+  },
+  {
+    "name": "-[ETTaskDefinition setInferenceModel:]",
+    "vaddr": "0x19422e478",
+    "size": 0
+  },
+  {
+    "name": "-[ETTaskDefinition inferenceModel]",
+    "vaddr": "0x19422e484",
+    "size": 0
+  },
+  {
+    "name": "-[ETTaskDefinition platformForLayerNamed:error:]",
+    "vaddr": "0x19422e48c",
+    "size": 0
+  },
+  {
+    "name": "-[ETTaskDefinition getTensorNamed:]",
+    "vaddr": "0x19422e844",
+    "size": 0
+  },
+  {
+    "name": "-[ETTaskDefinition getTensorNamed:directBind:]",
+    "vaddr": "0x19422e874",
+    "size": 0
+  },
+  {
+    "name": "-[ETTaskDefinition setTensorNamed:withValue:error:]",
+    "vaddr": "0x19422ead4",
+    "size": 0
+  },
+  {
+    "name": "-[ETTaskDefinition setParameterOfType:forLayerNamed:withValue:error:]",
+    "vaddr": "0x19422f418",
+    "size": 0
+  },
+  {
+    "name": "-[ETTaskDefinition getParameterOfType:forLayerNamed:error:]",
+    "vaddr": "0x19422fce0",
+    "size": 0
+  },
+  {
+    "name": "-[ETTaskDefinition dataTypeForParameterOfType:fromLayerNamed:]",
+    "vaddr": "0x194230258",
+    "size": 0
+  },
+  {
+    "name": "-[ETTaskDefinition taskState]",
+    "vaddr": "0x194230260",
+    "size": 0
+  },
+  {
+    "name": "-[ETTaskDefinition setWeightsOfInferenceNetworkLoadedFrom:AndSaveTo:error:]",
+    "vaddr": "0x1942302ec",
+    "size": 0
+  },
+  {
+    "name": "-[ETTaskDefinition setInferenceNetworkWeights:error:]",
+    "vaddr": "0x194230a30",
+    "size": 0
+  },
+  {
+    "name": "-[ETTaskDefinition saveTrainingNetwork:checkpoint:error:]",
+    "vaddr": "0x194232374",
+    "size": 0
+  },
+  {
+    "name": "-[ETTaskDefinition saveNetwork:inplace:error:]",
+    "vaddr": "0x194232da0",
+    "size": 0
+  },
+  {
+    "name": "-[ETTaskDefinition doTrainingOnData:forNumberOfEpochs:withCallback:error:]",
+    "vaddr": "0x194233858",
+    "size": 0
+  },
+  {
+    "name": "-[ETTaskDefinition privateDoTrainingOnData:forNumberOfEpochs:withCallback:error:]",
+    "vaddr": "0x1942338c4",
+    "size": 0
+  },
+  {
+    "name": "-[ETTaskDefinition doInferenceOnData:error:]",
+    "vaddr": "0x194234fe8",
+    "size": 0
+  },
+  {
+    "name": "-[ETTaskDefinition namesVectorToFoundationArray:]",
+    "vaddr": "0x194235c9c",
+    "size": 0
+  },
+  {
+    "name": "-[ETTaskDefinition initWithTrainingModelDefinition:forPlatform:error:]",
+    "vaddr": "0x194235d98",
+    "size": 0
+  },
+  {
+    "name": "-[ETTaskDefinition initWithModelDefinition:lossDefinition:variablesDefinition:optimizerDefinition:forPlatform:error:]",
+    "vaddr": "0x194236860",
+    "size": 0
+  },
+  {
+    "name": "-[ETTaskDefinition description]",
+    "vaddr": "0x19423acb4",
+    "size": 0
+  },
+  {
+    "name": "-[ETTaskDefinition checkShapes:withSample:withError:]",
+    "vaddr": "0x19423b394",
+    "size": 0
+  },
+  {
+    "name": "-[ETTaskDefinition setupInputOutputShapes:]",
+    "vaddr": "0x19423b904",
+    "size": 0
+  },
+  {
+    "name": "-[ETTaskDefinition setupShapes:forBlobs:withError:]",
+    "vaddr": "0x19423b9cc",
+    "size": 0
+  },
+  {
+    "name": "-[ETTaskDefinition shareWeights]",
+    "vaddr": "0x19423bcc0",
+    "size": 0
+  },
+  {
+    "name": "-[ETTaskDefinition reloadOnRuntimePlatform:]",
+    "vaddr": "0x19423be74",
+    "size": 0
+  },
+  {
+    "name": "-[ETTaskDefinition context_for_runtime_platform:]",
+    "vaddr": "0x19423bfc8",
+    "size": 0
+  },
+  {
+    "name": "-[EspressoImage2Image .cxx_construct]",
+    "vaddr": "0x194246f14",
+    "size": 0
+  },
+  {
+    "name": "-[EspressoImage2Image .cxx_destruct]",
+    "vaddr": "0x194246fc0",
+    "size": 0
+  },
+  {
+    "name": "-[EspressoImage2Image setFlip_y:]",
+    "vaddr": "0x19424709c",
+    "size": 0
+  },
+  {
+    "name": "-[EspressoImage2Image flip_y]",
+    "vaddr": "0x1942470a4",
+    "size": 0
+  },
+  {
+    "name": "-[EspressoImage2Image setRotation_degrees:]",
+    "vaddr": "0x1942470ac",
+    "size": 0
+  },
+  {
+    "name": "-[EspressoImage2Image rotation_degrees]",
+    "vaddr": "0x1942470b4",
+    "size": 0
+  },
+  {
+    "name": "-[EspressoImage2Image benchmark]",
+    "vaddr": "0x1942470bc",
+    "size": 0
+  },
+  {
+    "name": "-[EspressoImage2Image aggregateWisdom:]",
+    "vaddr": "0x194247270",
+    "size": 0
+  },
+  {
+    "name": "-[EspressoImage2Image _tune]",
+    "vaddr": "0x1942475c8",
+    "size": 0
+  },
+  {
+    "name": "-[EspressoImage2Image tune]",
+    "vaddr": "0x1942476f0",
+    "size": 0
+  },
+  {
+    "name": "-[EspressoImage2Image newOutputTexture]",
+    "vaddr": "0x19424792c",
+    "size": 0
+  },
+  {
+    "name": "-[EspressoImage2Image postProcess:cameraSourceTexture:inputTexture:destinationTexture:]",
+    "vaddr": "0x1942479d4",
+    "size": 0
+  },
+  {
+    "name": "-[EspressoImage2Image simpleLinearResize:sourceTexture:destinationTexture:]",
+    "vaddr": "0x194248180",
+    "size": 0
+  },
+  {
+    "name": "-[EspressoImage2Image encodeToCommandBuffer:sourceTexture:destinationTexture:cropRect:]",
+    "vaddr": "0x1942485f0",
+    "size": 0
+  },
+  {
+    "name": "-[EspressoImage2Image submitToQueueWithSourceTexture:destinationTexture:cropRect:]",
+    "vaddr": "0x1942489d0",
+    "size": 0
+  },
+  {
+    "name": "-[EspressoImage2Image tweak:value:]",
+    "vaddr": "0x194248a14",
+    "size": 0
+  },
+  {
+    "name": "-[EspressoImage2Image submitToQueueWithSourceTexture:destinationTexture:]",
+    "vaddr": "0x194248d44",
+    "size": 0
+  },
+  {
+    "name": "-[EspressoImage2Image encodeToCommandBuffer:sourceTexture:destinationTexture:cropRect:destinationRect:]",
+    "vaddr": "0x194248d78",
+    "size": 0
+  },
+  {
+    "name": "-[EspressoImage2Image _reshapeToWidth:andHeight:]",
+    "vaddr": "0x19424901c",
+    "size": 0
+  },
+  {
+    "name": "-[EspressoImage2Image reshapeToWidth:andHeight:]",
+    "vaddr": "0x19424960c",
+    "size": 0
+  },
+  {
+    "name": "-[EspressoImage2Image _reshapeToResolutionPreset:]",
+    "vaddr": "0x194249684",
+    "size": 0
+  },
+  {
+    "name": "-[EspressoImage2Image reshapeToResolutionPreset:aspectRatio:]",
+    "vaddr": "0x1942496d8",
+    "size": 0
+  },
+  {
+    "name": "-[EspressoImage2Image resolutionForPreset:]",
+    "vaddr": "0x1942497ac",
+    "size": 0
+  },
+  {
+    "name": "-[EspressoImage2Image reshapeToResolutionPreset:]",
+    "vaddr": "0x1942497e4",
+    "size": 0
+  },
+  {
+    "name": "-[EspressoImage2Image load:resolutionPreset:]",
+    "vaddr": "0x19424984c",
+    "size": 0
+  },
+  {
+    "name": "-[EspressoImage2Image reload]",
+    "vaddr": "0x194249de8",
+    "size": 0
+  },
+  {
+    "name": "-[EspressoImage2Image load:]",
+    "vaddr": "0x194249df0",
+    "size": 0
+  },
+  {
+    "name": "-[EspressoImage2Image resetTemporalState]",
+    "vaddr": "0x194249df8",
+    "size": 0
+  },
+  {
+    "name": "-[EspressoImage2Image _resetTemporalState]",
+    "vaddr": "0x194249e4c",
+    "size": 0
+  },
+  {
+    "name": "-[EspressoImage2Image wasReshaped]",
+    "vaddr": "0x194249f18",
+    "size": 0
+  },
+  {
+    "name": "-[EspressoImage2Image addNoiseLayer]",
+    "vaddr": "0x194249fd8",
+    "size": 0
+  },
+  {
+    "name": "-[EspressoImage2Image height]",
+    "vaddr": "0x19424b848",
+    "size": 0
+  },
+  {
+    "name": "-[EspressoImage2Image width]",
+    "vaddr": "0x19424b850",
+    "size": 0
+  },
+  {
+    "name": "-[EspressoImage2Image dealloc]",
+    "vaddr": "0x19424b858",
+    "size": 0
+  },
+  {
+    "name": "-[EspressoImage2Image init]",
+    "vaddr": "0x19424b8fc",
+    "size": 0
+  },
+  {
+    "name": "-[EspressoImage2Image initWithQueue:]",
+    "vaddr": "0x19424b988",
+    "size": 0
+  },
+  {
+    "name": "-[EspressoImage2Image setupWithQueue:]",
+    "vaddr": "0x19424ba28",
+    "size": 0
+  },
+  {
+    "name": "-[EspressoImage2Image styleName]",
+    "vaddr": "0x19424bfe8",
+    "size": 0
+  },
+  {
+    "name": "-[EspressoImage2Image getInternalDataForKey:]",
+    "vaddr": "0x19424c030",
+    "size": 0
+  },
+  {
+    "name": "-[EspressoImage2Image getEspressoNetwork]",
+    "vaddr": "0x19424c188",
+    "size": 0
+  },
+  {
+    "name": "+[EspressoImage2Image tuneNetworksWGWindowSize:]",
+    "vaddr": "0x19424c194",
+    "size": 0
+  },
+  {
+    "name": "+[EspressoImage2Image tuneNetworks:]",
+    "vaddr": "0x19424d050",
+    "size": 0
+  },
+  {
+    "name": "+[EspressoImage2Image gpuSync:tex:]",
+    "vaddr": "0x19424d350",
+    "size": 0
+  },
+  {
+    "name": "+[EspressoImage2Image featureVersion]",
+    "vaddr": "0x19424d3b0",
+    "size": 0
+  },
+  {
+    "name": "+[EspressoImage2Image getStylesKeys]",
+    "vaddr": "0x19424d3b8",
+    "size": 0
+  },
+  {
+    "name": "+[EspressoImage2Image loadStylesConfigAtDefaultsKey:]",
+    "vaddr": "0x19424d660",
+    "size": 0
+  },
+  {
+    "name": "+[EspressoImage2Image loadStylesConfigAtPath:]",
+    "vaddr": "0x19424d718",
+    "size": 0
+  },
+  {
+    "name": "+[EspressoImage2Image setDefaultOption:toValue:]",
+    "vaddr": "0x19424d868",
+    "size": 0
+  },
+  {
+    "name": "-[TwoNetsStyleTransfer .cxx_construct]",
+    "vaddr": "0x19424d9dc",
+    "size": 0
+  },
+  {
+    "name": "-[TwoNetsStyleTransfer .cxx_destruct]",
+    "vaddr": "0x19424da7c",
+    "size": 0
+  },
+  {
+    "name": "-[TwoNetsStyleTransfer executeSyncWithImage:smallImage:]",
+    "vaddr": "0x19424daf0",
+    "size": 0
+  },
+  {
+    "name": "-[TwoNetsStyleTransfer dealloc]",
+    "vaddr": "0x19424dde4",
+    "size": 0
+  },
+  {
+    "name": "-[TwoNetsStyleTransfer heightBig]",
+    "vaddr": "0x19424de88",
+    "size": 0
+  },
+  {
+    "name": "-[TwoNetsStyleTransfer heightSmall]",
+    "vaddr": "0x19424de90",
+    "size": 0
+  },
+  {
+    "name": "-[TwoNetsStyleTransfer widthBig]",
+    "vaddr": "0x19424de98",
+    "size": 0
+  },
+  {
+    "name": "-[TwoNetsStyleTransfer widthSmall]",
+    "vaddr": "0x19424dea0",
+    "size": 0
+  },
+  {
+    "name": "-[TwoNetsStyleTransfer load:outputName:]",
+    "vaddr": "0x19424dea8",
+    "size": 0
+  },
+  {
+    "name": "-[TwoNetsStyleTransfer init]",
+    "vaddr": "0x19424e100",
+    "size": 0
+  },
+  {
+    "name": "+[TwoNetsStyleTransfer supportsANE]",
+    "vaddr": "0x19424e1cc",
+    "size": 0
+  },
+  {
+    "name": "-[EspressoFaceDetectedObject setConfidence:]",
+    "vaddr": "0x194252998",
+    "size": 0
+  },
+  {
+    "name": "-[EspressoFaceDetectedObject confidence]",
+    "vaddr": "0x1942529a0",
+    "size": 0
+  },
+  {
+    "name": "-[EspressoFaceDetectedObject setCenter:]",
+    "vaddr": "0x1942529a8",
+    "size": 0
+  },
+  {
+    "name": "-[EspressoFaceDetectedObject center]",
+    "vaddr": "0x1942529e0",
+    "size": 0
+  },
+  {
+    "name": "-[EspressoFaceDetectedObject setBounds:]",
+    "vaddr": "0x194252a1c",
+    "size": 0
+  },
+  {
+    "name": "-[EspressoFaceDetectedObject bounds]",
+    "vaddr": "0x194252a58",
+    "size": 0
+  },
+  {
+    "name": "-[EspressoFaceDetectedObject setObjectType:]",
+    "vaddr": "0x194252a98",
+    "size": 0
+  },
+  {
+    "name": "-[EspressoFaceDetectedObject objectType]",
+    "vaddr": "0x194252aa0",
+    "size": 0
+  },
+  {
+    "name": "-[EspressoFaceDetectedObject initWithOptionsXloc:yloc:size:confidence:]",
+    "vaddr": "0x194252aa8",
+    "size": 0
+  },
+  {
+    "name": "-[EspressoPass_fuse_add_and_relu runOnNetwork:]",
+    "vaddr": "0x1942ac9b8",
+    "size": 0
+  },
+  {
+    "name": "-[EspressoPass_quantize_gathers runOnNetwork:]",
+    "vaddr": "0x1942ad3b4",
+    "size": 0
+  },
+  {
+    "name": "-[EspressoContext .cxx_construct]",
+    "vaddr": "0x1942e7ca8",
+    "size": 0
+  },
+  {
+    "name": "-[EspressoContext .cxx_destruct]",
+    "vaddr": "0x1942e7cb0",
+    "size": 0
+  },
+  {
+    "name": "-[EspressoContext ctx]",
+    "vaddr": "0x1942e7cc0",
+    "size": 0
+  },
+  {
+    "name": "-[EspressoContext set_priority:low_priority_max_ms_per_command_buffer:gpu_priority:]",
+    "vaddr": "0x1942e7cf8",
+    "size": 0
+  },
+  {
+    "name": "-[EspressoContext platform]",
+    "vaddr": "0x1942e7d28",
+    "size": 0
+  },
+  {
+    "name": "-[EspressoContext initWithNetworkContext:]",
+    "vaddr": "0x1942e7d54",
+    "size": 0
+  },
+  {
+    "name": "-[EspressoContext initWithDevice:andWisdomParams:]",
+    "vaddr": "0x1942e7dac",
+    "size": 0
+  },
+  {
+    "name": "-[EspressoContext initWithPlatform:]",
+    "vaddr": "0x1942e7e0c",
+    "size": 0
+  },
+  {
+    "name": "-[EspressoContext initWithContext:]",
+    "vaddr": "0x1942e7e7c",
+    "size": 0
+  },
+  {
+    "name": "-[EspressoNetwork .cxx_construct]",
+    "vaddr": "0x1942e7ec4",
+    "size": 0
+  },
+  {
+    "name": "-[EspressoNetwork .cxx_destruct]",
+    "vaddr": "0x1942e7ecc",
+    "size": 0
+  },
+  {
+    "name": "-[EspressoNetwork net]",
+    "vaddr": "0x1942e7edc",
+    "size": 0
+  },
+  {
+    "name": "-[EspressoNetwork wipe_layers_blobs]",
+    "vaddr": "0x1942e7f14",
+    "size": 0
+  },
+  {
+    "name": "-[EspressoNetwork layers_size]",
+    "vaddr": "0x1942e7f1c",
+    "size": 0
+  },
+  {
+    "name": "-[EspressoNetwork initWithJSFile:binSerializerId:context:computePath:]",
+    "vaddr": "0x1942e7f30",
+    "size": 0
+  },
+  {
+    "name": "-[EspressoNetwork initWithJSFile:context:computePath:]",
+    "vaddr": "0x1942e8068",
+    "size": 0
+  },
+  {
+    "name": "-[EspressoNetwork ctx]",
+    "vaddr": "0x1942e815c",
+    "size": 0
+  },
+  {
+    "name": "-[EspressoPass_lstm_atomizer runOnNetwork:]",
+    "vaddr": "0x1942f4784",
+    "size": 0
+  },
+  {
+    "name": "-[EspressoPass_make_fully_conv runOnNetwork:]",
+    "vaddr": "0x194303ab0",
+    "size": 0
+  },
+  {
+    "name": "-[EspressoProfilingLayerRuntime setEnd_t:]",
+    "vaddr": "0x19430fa44",
+    "size": 0
+  },
+  {
+    "name": "-[EspressoProfilingLayerRuntime end_t]",
+    "vaddr": "0x19430fa4c",
+    "size": 0
+  },
+  {
+    "name": "-[EspressoProfilingLayerRuntime setStart_t:]",
+    "vaddr": "0x19430fa54",
+    "size": 0
+  },
+  {
+    "name": "-[EspressoProfilingLayerRuntime start_t]",
+    "vaddr": "0x19430fa5c",
+    "size": 0
+  },
+  {
+    "name": "-[EspressoProfilingLayerSupportInfo .cxx_destruct]",
+    "vaddr": "0x19430fa64",
+    "size": 0
+  },
+  {
+    "name": "-[EspressoProfilingLayerSupportInfo setType:]",
+    "vaddr": "0x19430fab4",
+    "size": 0
+  },
+  {
+    "name": "-[EspressoProfilingLayerSupportInfo type]",
+    "vaddr": "0x19430fabc",
+    "size": 0
+  },
+  {
+    "name": "-[EspressoProfilingLayerSupportInfo setInternal_layer:]",
+    "vaddr": "0x19430fac8",
+    "size": 0
+  },
+  {
+    "name": "-[EspressoProfilingLayerSupportInfo internal_layer]",
+    "vaddr": "0x19430fad0",
+    "size": 0
+  },
+  {
+    "name": "-[EspressoProfilingLayerSupportInfo setHas_perf_warning:]",
+    "vaddr": "0x19430fadc",
+    "size": 0
+  },
+  {
+    "name": "-[EspressoProfilingLayerSupportInfo has_perf_warning]",
+    "vaddr": "0x19430fae4",
+    "size": 0
+  },
+  {
+    "name": "-[EspressoProfilingLayerSupportInfo setExists:]",
+    "vaddr": "0x19430faf0",
+    "size": 0
+  },
+  {
+    "name": "-[EspressoProfilingLayerSupportInfo exists]",
+    "vaddr": "0x19430faf8",
+    "size": 0
+  },
+  {
+    "name": "-[EspressoProfilingLayerSupportInfo setSupported:]",
+    "vaddr": "0x19430fb04",
+    "size": 0
+  },
+  {
+    "name": "-[EspressoProfilingLayerSupportInfo supported]",
+    "vaddr": "0x19430fb0c",
+    "size": 0
+  },
+  {
+    "name": "-[EspressoProfilingLayerSupportInfo setError_private:]",
+    "vaddr": "0x19430fb18",
+    "size": 0
+  },
+  {
+    "name": "-[EspressoProfilingLayerSupportInfo error_private]",
+    "vaddr": "0x19430fb20",
+    "size": 0
+  },
+  {
+    "name": "-[EspressoProfilingLayerSupportInfo setError_public:]",
+    "vaddr": "0x19430fb2c",
+    "size": 0
+  },
+  {
+    "name": "-[EspressoProfilingLayerSupportInfo error_public]",
+    "vaddr": "0x19430fb34",
+    "size": 0
+  },
+  {
+    "name": "-[EspressoProfilingLayerInfo .cxx_destruct]",
+    "vaddr": "0x19430fb40",
+    "size": 0
+  },
+  {
+    "name": "-[EspressoProfilingLayerInfo setAverage_runtime:]",
+    "vaddr": "0x19430fba8",
+    "size": 0
+  },
+  {
+    "name": "-[EspressoProfilingLayerInfo average_runtime]",
+    "vaddr": "0x19430fbb0",
+    "size": 0
+  },
+  {
+    "name": "-[EspressoProfilingLayerInfo setRuntimes:]",
+    "vaddr": "0x19430fbb8",
+    "size": 0
+  },
+  {
+    "name": "-[EspressoProfilingLayerInfo runtimes]",
+    "vaddr": "0x19430fbc0",
+    "size": 0
+  },
+  {
+    "name": "-[EspressoProfilingLayerInfo setPer_platform_support:]",
+    "vaddr": "0x19430fbcc",
+    "size": 0
+  },
+  {
+    "name": "-[EspressoProfilingLayerInfo per_platform_support]",
+    "vaddr": "0x19430fbd4",
+    "size": 0
+  },
+  {
+    "name": "-[EspressoProfilingLayerInfo setMain_engine_support:]",
+    "vaddr": "0x19430fbe0",
+    "size": 0
+  },
+  {
+    "name": "-[EspressoProfilingLayerInfo main_engine_support]",
+    "vaddr": "0x19430fbe8",
+    "size": 0
+  },
+  {
+    "name": "-[EspressoProfilingLayerInfo setSelected_runtime_engine:]",
+    "vaddr": "0x19430fbf4",
+    "size": 0
+  },
+  {
+    "name": "-[EspressoProfilingLayerInfo selected_runtime_engine]",
+    "vaddr": "0x19430fbfc",
+    "size": 0
+  },
+  {
+    "name": "-[EspressoProfilingLayerInfo setDebug_name:]",
+    "vaddr": "0x19430fc04",
+    "size": 0
+  },
+  {
+    "name": "-[EspressoProfilingLayerInfo debug_name]",
+    "vaddr": "0x19430fc0c",
+    "size": 0
+  },
+  {
+    "name": "-[EspressoProfilingLayerInfo setName:]",
+    "vaddr": "0x19430fc18",
+    "size": 0
+  },
+  {
+    "name": "-[EspressoProfilingLayerInfo name]",
+    "vaddr": "0x19430fc20",
+    "size": 0
+  },
+  {
+    "name": "-[EspressoProfilingNetworkInfo .cxx_destruct]",
+    "vaddr": "0x19430fc2c",
+    "size": 0
+  },
+  {
+    "name": "-[EspressoProfilingNetworkInfo setAne_compiler_analytics:]",
+    "vaddr": "0x19430fc88",
+    "size": 0
+  },
+  {
+    "name": "-[EspressoProfilingNetworkInfo ane_compiler_analytics]",
+    "vaddr": "0x19430fc90",
+    "size": 0
+  },
+  {
+    "name": "-[EspressoProfilingNetworkInfo setAne_performance_info:]",
+    "vaddr": "0x19430fc9c",
+    "size": 0
+  },
+  {
+    "name": "-[EspressoProfilingNetworkInfo ane_performance_info]",
+    "vaddr": "0x19430fca4",
+    "size": 0
+  },
+  {
+    "name": "-[EspressoProfilingNetworkInfo setNetwork_at_path:]",
+    "vaddr": "0x19430fcb0",
+    "size": 0
+  },
+  {
+    "name": "-[EspressoProfilingNetworkInfo network_at_path]",
+    "vaddr": "0x19430fcb8",
+    "size": 0
+  },
+  {
+    "name": "-[EspressoProfilingNetworkInfo setLayers:]",
+    "vaddr": "0x19430fcc4",
+    "size": 0
+  },
+  {
+    "name": "-[EspressoProfilingNetworkInfo layers]",
+    "vaddr": "0x19430fccc",
+    "size": 0
+  },
+  {
+    "name": "-[EspressoProfilingNetworkANEInfo setAne_time_per_eval_ns:]",
+    "vaddr": "0x19430fcd8",
+    "size": 0
+  },
+  {
+    "name": "-[EspressoProfilingNetworkANEInfo ane_time_per_eval_ns]",
+    "vaddr": "0x19430fce0",
+    "size": 0
+  },
+  {
+    "name": "-[EspressoProfilingNetworkANEInfo setTotal_ane_time_ns:]",
+    "vaddr": "0x19430fce8",
+    "size": 0
+  },
+  {
+    "name": "-[EspressoProfilingNetworkANEInfo total_ane_time_ns]",
+    "vaddr": "0x19430fcf0",
+    "size": 0
+  },
+  {
+    "name": "-[EspressoProfilingANEcompilerAnalytics .cxx_destruct]",
+    "vaddr": "0x19430fcf8",
+    "size": 0
+  },
+  {
+    "name": "-[EspressoProfilingANEcompilerAnalytics setCompiler_analytics_file_names:]",
+    "vaddr": "0x19430fd04",
+    "size": 0
+  },
+  {
+    "name": "-[EspressoProfilingANEcompilerAnalytics compiler_analytics_file_names]",
+    "vaddr": "0x19430fd0c",
+    "size": 0
+  },
+  {
+    "name": "-[EspressoPass_multi_head_prune_undeclared runOnNetwork:]",
+    "vaddr": "0x1943112d0",
+    "size": 0
+  },
+  {
+    "name": "-[ETTaskState .cxx_construct]",
+    "vaddr": "0x19432b514",
+    "size": 0
+  },
+  {
+    "name": "-[ETTaskState .cxx_destruct]",
+    "vaddr": "0x19432b530",
+    "size": 0
+  },
+  {
+    "name": "-[ETTaskState setNetworkPointer:]",
+    "vaddr": "0x19432b57c",
+    "size": 0
+  },
+  {
+    "name": "-[ETTaskState networkPointer]",
+    "vaddr": "0x19432b5c4",
+    "size": 0
+  },
+  {
+    "name": "-[ETTaskState setBlobs:]",
+    "vaddr": "0x19432b5fc",
+    "size": 0
+  },
+  {
+    "name": "-[ETTaskState blobs]",
+    "vaddr": "0x19432b7b4",
+    "size": 0
+  },
+  {
+    "name": "-[ETTaskState initWithNetwork:]",
+    "vaddr": "0x19432b7d4",
+    "size": 0
+  },
+  {
+    "name": "-[ETTaskState initWithBlobMap:]",
+    "vaddr": "0x19432b848",
+    "size": 0
+  },
+  {
+    "name": "-[EspressoPass_merge_tf_normalization runOnNetwork:]",
+    "vaddr": "0x194366b34",
+    "size": 0
+  },
+  {
+    "name": "-[EspressoPass_merge_tf_layernorm runOnNetwork:]",
+    "vaddr": "0x194368b8c",
+    "size": 0
+  },
+  {
+    "name": "-[EspressoPass_fuse_fast_gelu_1 runOnNetwork:]",
+    "vaddr": "0x19436a130",
+    "size": 0
+  },
+  {
+    "name": "-[EspressoPass_fuse_gelu_with_erf runOnNetwork:]",
+    "vaddr": "0x19436ac04",
+    "size": 0
+  },
+  {
+    "name": "-[EspressoPass_l2_normalize_5d_to_instancenorm runOnNetwork:]",
+    "vaddr": "0x19436ba4c",
+    "size": 0
+  },
+  {
+    "name": "-[EspressoPass_merge_channel_norm runOnNetwork:]",
+    "vaddr": "0x19436d2dc",
+    "size": 0
+  },
+  {
+    "name": "-[EspressoPass_merge_pytorch_layernorm runOnNetwork:]",
+    "vaddr": "0x1943721bc",
+    "size": 0
+  },
+  {
+    "name": "-[EspressoPass_optimize_coreml_conv1d_lrelu runOnNetwork:]",
+    "vaddr": "0x194373800",
+    "size": 0
+  },
+  {
+    "name": "-[EspressoPass_fix_input_underflow runOnNetwork:]",
+    "vaddr": "0x194378df0",
+    "size": 0
+  },
+  {
+    "name": "-[EspressoPass_concat_fuse_fix runOnNetwork:]",
+    "vaddr": "0x194378e6c",
+    "size": 0
+  },
+  {
+    "name": "-[EspressoFaceLandmarkDetector .cxx_construct]",
+    "vaddr": "0x19438ff80",
+    "size": 0
+  },
+  {
+    "name": "-[EspressoFaceLandmarkDetector .cxx_destruct]",
+    "vaddr": "0x19438ff98",
+    "size": 0
+  },
+  {
+    "name": "-[EspressoFaceLandmarkDetector setNewface:]",
+    "vaddr": "0x194390004",
+    "size": 0
+  },
+  {
+    "name": "-[EspressoFaceLandmarkDetector newface]",
+    "vaddr": "0x194390040",
+    "size": 0
+  },
+  {
+    "name": "-[EspressoFaceLandmarkDetector dealloc]",
+    "vaddr": "0x194390080",
+    "size": 0
+  },
+  {
+    "name": "-[EspressoFaceLandmarkDetector commonInit:context:platform:computePath:]",
+    "vaddr": "0x1943900d4",
+    "size": 0
+  },
+  {
+    "name": "-[EspressoFaceLandmarkDetector init]",
+    "vaddr": "0x1943907d8",
+    "size": 0
+  },
+  {
+    "name": "-[EspressoFaceLandmarkDetector initWithNetworkAtPath:contextObjC:platform:computePath:]",
+    "vaddr": "0x194390878",
+    "size": 0
+  },
+  {
+    "name": "-[EspressoFaceLandmarkDetector initWithNetworkAtPath:context:platform:computePath:]",
+    "vaddr": "0x19439096c",
+    "size": 0
+  },
+  {
+    "name": "-[EspressoFaceLandmarkDetector detectInImageRect:face:sublandmark:]",
+    "vaddr": "0x194390a48",
+    "size": 0
+  },
+  {
+    "name": "-[EspressoFaceLandmarkDetector detect:face:sublandmark:doFaceRectFix:]",
+    "vaddr": "0x194391238",
+    "size": 0
+  },
+  {
+    "name": "-[EspressoFaceLandmarkDetector extractSubLandmarksFromCrop192:centers192:]",
+    "vaddr": "0x1943913d0",
+    "size": 0
+  },
+  {
+    "name": "-[EspressoCustomPass runOnNetwork:]",
+    "vaddr": "0x1943d7f30",
+    "size": 0
+  },
+  {
+    "name": "-[EspressoPass_remove_squeeze runOnNetwork:]",
+    "vaddr": "0x1943d9574",
+    "size": 0
+  },
+  {
+    "name": "-[EspressoPass_transpose_inner_product_weights runOnNetwork:]",
+    "vaddr": "0x1943db6a0",
+    "size": 0
+  },
+  {
+    "name": "-[EspressoDCNEspressoOverfeatDetector .cxx_destruct]",
+    "vaddr": "0x1943dc744",
+    "size": 0
+  },
+  {
+    "name": "-[EspressoDCNEspressoOverfeatDetector setMinBoundingBoxThreshold:]",
+    "vaddr": "0x1943dc750",
+    "size": 0
+  },
+  {
+    "name": "-[EspressoDCNEspressoOverfeatDetector minBoundingBoxThreshold]",
+    "vaddr": "0x1943dc758",
+    "size": 0
+  },
+  {
+    "name": "-[EspressoDCNEspressoOverfeatDetector setConfidenceThreshold:]",
+    "vaddr": "0x1943dc760",
+    "size": 0
+  },
+  {
+    "name": "-[EspressoDCNEspressoOverfeatDetector confidenceThreshold]",
+    "vaddr": "0x1943dc768",
+    "size": 0
+  },
+  {
+    "name": "-[EspressoDCNEspressoOverfeatDetector setEnet:]",
+    "vaddr": "0x1943dc770",
+    "size": 0
+  },
+  {
+    "name": "-[EspressoDCNEspressoOverfeatDetector enet]",
+    "vaddr": "0x1943dc77c",
+    "size": 0
+  },
+  {
+    "name": "-[EspressoDCNEspressoOverfeatDetector dealloc]",
+    "vaddr": "0x1943dc784",
+    "size": 0
+  },
+  {
+    "name": "-[EspressoDCNEspressoOverfeatDetector getDescription]",
+    "vaddr": "0x1943dc7f4",
+    "size": 0
+  },
+  {
+    "name": "-[EspressoDCNEspressoOverfeatDetector compareObject:withObject:error:]",
+    "vaddr": "0x1943dc800",
+    "size": 0
+  },
+  {
+    "name": "-[EspressoDCNEspressoOverfeatDetector commonInit]",
+    "vaddr": "0x1943dc818",
+    "size": 0
+  },
+  {
+    "name": "-[EspressoDCNEspressoOverfeatDetector initWithNetwork:]",
+    "vaddr": "0x1943dc87c",
+    "size": 0
+  },
+  {
+    "name": "-[EspressoDCNEspressoOverfeatDetector initWithOptions:]",
+    "vaddr": "0x1943dc91c",
+    "size": 0
+  },
+  {
+    "name": "-[EspressoDCNEspressoOverfeatDetector init]",
+    "vaddr": "0x1943dca78",
+    "size": 0
+  },
+  {
+    "name": "-[EspressoDCNEspressoOverfeatDetector mergeFaceList]",
+    "vaddr": "0x1943dcaec",
+    "size": 0
+  },
+  {
+    "name": "-[EspressoDCNEspressoOverfeatDetector computeBBoxUsingProb:box:andScalefactor:padX:padY:]",
+    "vaddr": "0x1943dcd04",
+    "size": 0
+  },
+  {
+    "name": "-[EspressoDCNEspressoOverfeatDetector getFacesFromNetworkResultOriginalWidth:originalHeight:]",
+    "vaddr": "0x1943dd1f4",
+    "size": 0
+  },
+  {
+    "name": "-[EspressoDCNEspressoOverfeatDetector fillFaceList]",
+    "vaddr": "0x1943dd404",
+    "size": 0
+  },
+  {
+    "name": "-[ETOptimizerDefinition .cxx_destruct]",
+    "vaddr": "0x1943de5a4",
+    "size": 0
+  },
+  {
+    "name": "-[ETOptimizerDefinition optimizationParameters]",
+    "vaddr": "0x1943de5b0",
+    "size": 0
+  },
+  {
+    "name": "-[ETOptimizerDefinition type]",
+    "vaddr": "0x1943de5b8",
+    "size": 0
+  },
+  {
+    "name": "-[ETOptimizerDefinition initWithOptimizationAlgorithm:parameters:error:]",
+    "vaddr": "0x1943de5c0",
+    "size": 0
+  },
+  {
+    "name": "-[EspressoConvolutionWeightsForMPS .cxx_construct]",
+    "vaddr": "0x1943fc688",
+    "size": 0
+  },
+  {
+    "name": "-[EspressoConvolutionWeightsForMPS .cxx_destruct]",
+    "vaddr": "0x1943fc6c8",
+    "size": 0
+  },
+  {
+    "name": "-[EspressoConvolutionWeightsForMPS copyWithZone:]",
+    "vaddr": "0x1943fc754",
+    "size": 0
+  },
+  {
+    "name": "-[EspressoConvolutionWeightsForMPS label]",
+    "vaddr": "0x1943fc8e0",
+    "size": 0
+  },
+  {
+    "name": "-[EspressoConvolutionWeightsForMPS ready]",
+    "vaddr": "0x1943fc8ec",
+    "size": 0
+  },
+  {
+    "name": "-[EspressoConvolutionWeightsForMPS lookupTableForUInt8Kernel]",
+    "vaddr": "0x1943fc974",
+    "size": 0
+  },
+  {
+    "name": "-[EspressoConvolutionWeightsForMPS rangesForUInt8Kernel]",
+    "vaddr": "0x1943fc98c",
+    "size": 0
+  },
+  {
+    "name": "-[EspressoConvolutionWeightsForMPS purge]",
+    "vaddr": "0x1943fc998",
+    "size": 0
+  },
+  {
+    "name": "-[EspressoConvolutionWeightsForMPS biasTerms]",
+    "vaddr": "0x1943fca40",
+    "size": 0
+  },
+  {
+    "name": "-[EspressoConvolutionWeightsForMPS weights]",
+    "vaddr": "0x1943fca4c",
+    "size": 0
+  },
+  {
+    "name": "-[EspressoConvolutionWeightsForMPS load]",
+    "vaddr": "0x1943fcad0",
+    "size": 0
+  },
+  {
+    "name": "-[EspressoConvolutionWeightsForMPS descriptor]",
+    "vaddr": "0x1943fcad8",
+    "size": 0
+  },
+  {
+    "name": "-[EspressoConvolutionWeightsForMPS dataType]",
+    "vaddr": "0x1943fcc68",
+    "size": 0
+  },
+  {
+    "name": "-[EspressoConvolutionWeightsForMPS initWithParams:]",
+    "vaddr": "0x1943fcc70",
+    "size": 0
+  },
+  {
+    "name": "-[EspressoTrainingConvolutionWeightsForMPS .cxx_destruct]",
+    "vaddr": "0x1943fcd44",
+    "size": 0
+  },
+  {
+    "name": "-[EspressoTrainingConvolutionWeightsForMPS setBiasesBuffer:]",
+    "vaddr": "0x1943fcd98",
+    "size": 0
+  },
+  {
+    "name": "-[EspressoTrainingConvolutionWeightsForMPS biasesBuffer]",
+    "vaddr": "0x1943fcda4",
+    "size": 0
+  },
+  {
+    "name": "-[EspressoTrainingConvolutionWeightsForMPS setWeightsBuffer:]",
+    "vaddr": "0x1943fcdb4",
+    "size": 0
+  },
+  {
+    "name": "-[EspressoTrainingConvolutionWeightsForMPS weightsBuffer]",
+    "vaddr": "0x1943fcdc0",
+    "size": 0
+  },
+  {
+    "name": "-[EspressoTrainingConvolutionWeightsForMPS weightsLayout]",
+    "vaddr": "0x1943fcdd0",
+    "size": 0
+  },
+  {
+    "name": "-[EspressoTrainingConvolutionWeightsForMPS ready]",
+    "vaddr": "0x1943fcde4",
+    "size": 0
+  },
+  {
+    "name": "-[EspressoTrainingConvolutionWeightsForMPS biasTerms]",
+    "vaddr": "0x1943fcdec",
+    "size": 0
+  },
+  {
+    "name": "-[EspressoTrainingConvolutionWeightsForMPS weights]",
+    "vaddr": "0x1943fcdfc",
+    "size": 0
+  },
+  {
+    "name": "-[EspressoTrainingConvolutionWeightsForMPS initWithParams:forMode:]",
+    "vaddr": "0x1943fce0c",
+    "size": 0
+  },
+  {
+    "name": "-[EspressoTrainingInnerProductWeightsForMPS .cxx_destruct]",
+    "vaddr": "0x1943fce90",
+    "size": 0
+  },
+  {
+    "name": "-[EspressoTrainingInnerProductWeightsForMPS setBiasesBuffer:]",
+    "vaddr": "0x1943fcee4",
+    "size": 0
+  },
+  {
+    "name": "-[EspressoTrainingInnerProductWeightsForMPS biasesBuffer]",
+    "vaddr": "0x1943fcef0",
+    "size": 0
+  },
+  {
+    "name": "-[EspressoTrainingInnerProductWeightsForMPS setWeightsBuffer:]",
+    "vaddr": "0x1943fcf00",
+    "size": 0
+  },
+  {
+    "name": "-[EspressoTrainingInnerProductWeightsForMPS weightsBuffer]",
+    "vaddr": "0x1943fcf0c",
+    "size": 0
+  },
+  {
+    "name": "-[EspressoTrainingInnerProductWeightsForMPS ready]",
+    "vaddr": "0x1943fcf1c",
+    "size": 0
+  },
+  {
+    "name": "-[EspressoTrainingInnerProductWeightsForMPS biasTerms]",
+    "vaddr": "0x1943fcf24",
+    "size": 0
+  },
+  {
+    "name": "-[EspressoTrainingInnerProductWeightsForMPS weights]",
+    "vaddr": "0x1943fcf34",
+    "size": 0
+  },
+  {
+    "name": "-[EspressoTrainingInnerProductWeightsForMPS initWithParams:forMode:]",
+    "vaddr": "0x1943fcf44",
+    "size": 0
+  },
+  {
+    "name": "-[EspressoInnerProductWeightsForMPS .cxx_construct]",
+    "vaddr": "0x1943fcfa8",
+    "size": 0
+  },
+  {
+    "name": "-[EspressoInnerProductWeightsForMPS .cxx_destruct]",
+    "vaddr": "0x1943fd004",
+    "size": 0
+  },
+  {
+    "name": "-[EspressoInnerProductWeightsForMPS copyWithZone:]",
+    "vaddr": "0x1943fd084",
+    "size": 0
+  },
+  {
+    "name": "-[EspressoInnerProductWeightsForMPS ready]",
+    "vaddr": "0x1943fd1e0",
+    "size": 0
+  },
+  {
+    "name": "-[EspressoInnerProductWeightsForMPS purge]",
+    "vaddr": "0x1943fd268",
+    "size": 0
+  },
+  {
+    "name": "-[EspressoInnerProductWeightsForMPS biasTerms]",
+    "vaddr": "0x1943fd300",
+    "size": 0
+  },
+  {
+    "name": "-[EspressoInnerProductWeightsForMPS lookupTableForUInt8Kernel]",
+    "vaddr": "0x1943fd30c",
+    "size": 0
+  },
+  {
+    "name": "-[EspressoInnerProductWeightsForMPS rangesForUInt8Kernel]",
+    "vaddr": "0x1943fd324",
+    "size": 0
+  },
+  {
+    "name": "-[EspressoInnerProductWeightsForMPS weights]",
+    "vaddr": "0x1943fd330",
+    "size": 0
+  },
+  {
+    "name": "-[EspressoInnerProductWeightsForMPS load]",
+    "vaddr": "0x1943fd3b4",
+    "size": 0
+  },
+  {
+    "name": "-[EspressoInnerProductWeightsForMPS descriptor]",
+    "vaddr": "0x1943fd3bc",
+    "size": 0
+  },
+  {
+    "name": "-[EspressoInnerProductWeightsForMPS dataType]",
+    "vaddr": "0x1943fd464",
+    "size": 0
+  },
+  {
+    "name": "-[EspressoInnerProductWeightsForMPS initWithParams:]",
+    "vaddr": "0x1943fd46c",
+    "size": 0
+  },
+  {
+    "name": "-[EspressoInnerProductWeightsForMPS label]",
+    "vaddr": "0x1943fd524",
+    "size": 0
+  },
+  {
+    "name": "-[EspressoMetalSingleton setIs_memory_tight:]",
+    "vaddr": "0x1944ba9d0",
+    "size": 0
+  },
+  {
+    "name": "-[EspressoMetalSingleton is_memory_tight]",
+    "vaddr": "0x1944ba9d8",
+    "size": 0
+  },
+  {
+    "name": "+[EspressoMetalSingleton shared]",
+    "vaddr": "0x1944ba9e0",
+    "size": 0
+  },
+  {
+    "name": "-[ETDataTensor .cxx_construct]",
+    "vaddr": "0x1944bbaf4",
+    "size": 0
+  },
+  {
+    "name": "-[ETDataTensor .cxx_destruct]",
+    "vaddr": "0x1944bbb08",
+    "size": 0
+  },
+  {
+    "name": "-[ETDataTensor setBlob:]",
+    "vaddr": "0x1944bbb88",
+    "size": 0
+  },
+  {
+    "name": "-[ETDataTensor blob]",
+    "vaddr": "0x1944bbbd0",
+    "size": 0
+  },
+  {
+    "name": "-[ETDataTensor setFloat_buffer:]",
+    "vaddr": "0x1944bbc08",
+    "size": 0
+  },
+  {
+    "name": "-[ETDataTensor float_buffer]",
+    "vaddr": "0x1944bbc20",
+    "size": 0
+  },
+  {
+    "name": "-[ETDataTensor setAllocatedImageData:]",
+    "vaddr": "0x1944bbc38",
+    "size": 0
+  },
+  {
+    "name": "-[ETDataTensor allocatedImageData]",
+    "vaddr": "0x1944bbe0c",
+    "size": 0
+  },
+  {
+    "name": "-[ETDataTensor setImageBuffer:]",
+    "vaddr": "0x1944bbea8",
+    "size": 0
+  },
+  {
+    "name": "-[ETDataTensor imageBuffer]",
+    "vaddr": "0x1944bbec0",
+    "size": 0
+  },
+  {
+    "name": "-[ETDataTensor maxNumberOfElements]",
+    "vaddr": "0x1944bbed8",
+    "size": 0
+  },
+  {
+    "name": "-[ETDataTensor setStrides:]",
+    "vaddr": "0x1944bbee0",
+    "size": 0
+  },
+  {
+    "name": "-[ETDataTensor strides]",
+    "vaddr": "0x1944bbeec",
+    "size": 0
+  },
+  {
+    "name": "-[ETDataTensor setShape:]",
+    "vaddr": "0x1944bbef4",
+    "size": 0
+  },
+  {
+    "name": "-[ETDataTensor shape]",
+    "vaddr": "0x1944bbf00",
+    "size": 0
+  },
+  {
+    "name": "-[ETDataTensor setType:]",
+    "vaddr": "0x1944bbf08",
+    "size": 0
+  },
+  {
+    "name": "-[ETDataTensor type]",
+    "vaddr": "0x1944bbf10",
+    "size": 0
+  },
+  {
+    "name": "-[ETDataTensor setDataArray:]",
+    "vaddr": "0x1944bbf18",
+    "size": 0
+  },
+  {
+    "name": "-[ETDataTensor setDataPointer:]",
+    "vaddr": "0x1944bbf24",
+    "size": 0
+  },
+  {
+    "name": "-[ETDataTensor dataArray]",
+    "vaddr": "0x1944bbf2c",
+    "size": 0
+  },
+  {
+    "name": "-[ETDataTensor dataPointer]",
+    "vaddr": "0x1944bc104",
+    "size": 0
+  },
+  {
+    "name": "-[ETDataTensor description]",
+    "vaddr": "0x1944bc188",
+    "size": 0
+  },
+  {
+    "name": "-[ETDataTensor setMaxNumberOfElements:]",
+    "vaddr": "0x1944bc41c",
+    "size": 0
+  },
+  {
+    "name": "-[ETDataTensor initWithBlobContainer:]",
+    "vaddr": "0x1944bc448",
+    "size": 0
+  },
+  {
+    "name": "-[ETDataTensor initWithBlobContainer:directBind:]",
+    "vaddr": "0x1944bc4e0",
+    "size": 0
+  },
+  {
+    "name": "-[ETDataTensor initWithCVPixelBuffer:imageParameters:error:]",
+    "vaddr": "0x1944bc8c8",
+    "size": 0
+  },
+  {
+    "name": "-[ETDataTensor initWithData:type:shape:strides:]",
+    "vaddr": "0x1944bd438",
+    "size": 0
+  },
+  {
+    "name": "-[ETDataPoint .cxx_construct]",
+    "vaddr": "0x19452fd34",
+    "size": 0
+  },
+  {
+    "name": "-[ETDataPoint .cxx_destruct]",
+    "vaddr": "0x19452fd54",
+    "size": 0
+  },
+  {
+    "name": "-[ETDataPoint getSampleData]",
+    "vaddr": "0x19452fd90",
+    "size": 0
+  },
+  {
+    "name": "-[ETDataPoint dealloc]",
+    "vaddr": "0x19452fda4",
+    "size": 0
+  },
+  {
+    "name": "-[ETDataPoint bufferWithKey:]",
+    "vaddr": "0x19452ff88",
+    "size": 0
+  },
+  {
+    "name": "-[ETDataPoint imageWithKey:]",
+    "vaddr": "0x19453013c",
+    "size": 0
+  },
+  {
+    "name": "-[ETDataPoint setData:size:forKey:freeWhenDone:]",
+    "vaddr": "0x194530294",
+    "size": 0
+  },
+  {
+    "name": "-[ETDataPoint setImage:forKey:]",
+    "vaddr": "0x194530350",
+    "size": 0
+  },
+  {
+    "name": "-[ETDataPoint iterateBuffersByKey:]",
+    "vaddr": "0x194530400",
+    "size": 0
+  },
+  {
+    "name": "-[ETOptimizerDef setBatch_size:]",
+    "vaddr": "0x1945304f4",
+    "size": 0
+  },
+  {
+    "name": "-[ETOptimizerDef batch_size]",
+    "vaddr": "0x1945304fc",
+    "size": 0
+  },
+  {
+    "name": "-[ETOptimizerDef init]",
+    "vaddr": "0x194530504",
+    "size": 0
+  },
+  {
+    "name": "-[ETOptimizerDefSGD setWeight_decay:]",
+    "vaddr": "0x19453056c",
+    "size": 0
+  },
+  {
+    "name": "-[ETOptimizerDefSGD weight_decay]",
+    "vaddr": "0x19453057c",
+    "size": 0
+  },
+  {
+    "name": "-[ETOptimizerDefSGD setMomentum:]",
+    "vaddr": "0x19453058c",
+    "size": 0
+  },
+  {
+    "name": "-[ETOptimizerDefSGD momentum]",
+    "vaddr": "0x19453059c",
+    "size": 0
+  },
+  {
+    "name": "-[ETOptimizerDefSGD setLr_decay_epoch:]",
+    "vaddr": "0x1945305ac",
+    "size": 0
+  },
+  {
+    "name": "-[ETOptimizerDefSGD lr_decay_epoch]",
+    "vaddr": "0x1945305bc",
+    "size": 0
+  },
+  {
+    "name": "-[ETOptimizerDefSGD setLr:]",
+    "vaddr": "0x1945305cc",
+    "size": 0
+  },
+  {
+    "name": "-[ETOptimizerDefSGD lr]",
+    "vaddr": "0x1945305dc",
+    "size": 0
+  },
+  {
+    "name": "-[ETOptimizerDefSGD init]",
+    "vaddr": "0x1945305ec",
+    "size": 0
+  },
+  {
+    "name": "-[ETVariable .cxx_destruct]",
+    "vaddr": "0x194530694",
+    "size": 0
+  },
+  {
+    "name": "-[ETVariable setModel:]",
+    "vaddr": "0x1945306e0",
+    "size": 0
+  },
+  {
+    "name": "-[ETVariable model]",
+    "vaddr": "0x1945306ec",
+    "size": 0
+  },
+  {
+    "name": "-[ETVariable setInitializationBeta:]",
+    "vaddr": "0x194530718",
+    "size": 0
+  },
+  {
+    "name": "-[ETVariable initializationBeta]",
+    "vaddr": "0x194530720",
+    "size": 0
+  },
+  {
+    "name": "-[ETVariable setInitializationAlpha:]",
+    "vaddr": "0x194530728",
+    "size": 0
+  },
+  {
+    "name": "-[ETVariable initializationAlpha]",
+    "vaddr": "0x194530730",
+    "size": 0
+  },
+  {
+    "name": "-[ETVariable setInitializationMode:]",
+    "vaddr": "0x194530738",
+    "size": 0
+  },
+  {
+    "name": "-[ETVariable initializationMode]",
+    "vaddr": "0x194530740",
+    "size": 0
+  },
+  {
+    "name": "-[ETVariable setLayerName:]",
+    "vaddr": "0x194530748",
+    "size": 0
+  },
+  {
+    "name": "-[ETVariable layerName]",
+    "vaddr": "0x194530754",
+    "size": 0
+  },
+  {
+    "name": "-[ETVariable setName:]",
+    "vaddr": "0x19453075c",
+    "size": 0
+  },
+  {
+    "name": "-[ETVariable name]",
+    "vaddr": "0x194530768",
+    "size": 0
+  },
+  {
+    "name": "-[ETVariable setKind:]",
+    "vaddr": "0x194530770",
+    "size": 0
+  },
+  {
+    "name": "-[ETVariable kind]",
+    "vaddr": "0x194530778",
+    "size": 0
+  },
+  {
+    "name": "-[ETVariable swapWithOpaqueCopy:]",
+    "vaddr": "0x194530780",
+    "size": 0
+  },
+  {
+    "name": "-[ETOpaqueCopy .cxx_construct]",
+    "vaddr": "0x19453090c",
+    "size": 0
+  },
+  {
+    "name": "-[ETOpaqueCopy .cxx_destruct]",
+    "vaddr": "0x194530914",
+    "size": 0
+  },
+  {
+    "name": "-[ETOpaqueCopy getBlob]",
+    "vaddr": "0x194530924",
+    "size": 0
+  },
+  {
+    "name": "-[ETOpaqueCopy initWithAbstractBlobContainer:]",
+    "vaddr": "0x19453092c",
+    "size": 0
+  },
+  {
+    "name": "-[ETVariable getOpaqueCopy]",
+    "vaddr": "0x1945309ac",
+    "size": 0
+  },
+  {
+    "name": "-[ETVariable copyData]",
+    "vaddr": "0x194530af4",
+    "size": 0
+  },
+  {
+    "name": "-[ETVariable updateWithData:]",
+    "vaddr": "0x194530cb4",
+    "size": 0
+  },
+  {
+    "name": "-[ETVariable initWithModelDef:]",
+    "vaddr": "0x194530fc8",
+    "size": 0
+  },
+  {
+    "name": "-[ETModelDef .cxx_construct]",
+    "vaddr": "0x19453105c",
+    "size": 0
+  },
+  {
+    "name": "-[ETModelDef .cxx_destruct]",
+    "vaddr": "0x19453107c",
+    "size": 0
+  },
+  {
+    "name": "-[ETModelDef setGb:]",
+    "vaddr": "0x1945310d8",
+    "size": 0
+  },
+  {
+    "name": "-[ETModelDef gb]",
+    "vaddr": "0x194531120",
+    "size": 0
+  },
+  {
+    "name": "-[ETModelDef setAll_variables:]",
+    "vaddr": "0x194531158",
+    "size": 0
+  },
+  {
+    "name": "-[ETModelDef all_variables]",
+    "vaddr": "0x194531160",
+    "size": 0
+  },
+  {
+    "name": "-[ETModelDef setNetwork:]",
+    "vaddr": "0x19453116c",
+    "size": 0
+  },
+  {
+    "name": "-[ETModelDef network]",
+    "vaddr": "0x1945311b4",
+    "size": 0
+  },
+  {
+    "name": "-[ETModelDef layerNames]",
+    "vaddr": "0x1945311ec",
+    "size": 0
+  },
+  {
+    "name": "-[ETModelDef variableForLayer:kind:]",
+    "vaddr": "0x194531300",
+    "size": 0
+  },
+  {
+    "name": "-[ETModelDef variables]",
+    "vaddr": "0x1945314a8",
+    "size": 0
+  },
+  {
+    "name": "-[ETModelDef configureLayersToTrain:reinitializeVariables:]",
+    "vaddr": "0x1945314b0",
+    "size": 0
+  },
+  {
+    "name": "-[ETModelDef variableNameForLayer:kind:]",
+    "vaddr": "0x19453163c",
+    "size": 0
+  },
+  {
+    "name": "-[ETModelDef setupVariablesDef]",
+    "vaddr": "0x1945316a8",
+    "size": 0
+  },
+  {
+    "name": "-[ETModelDef randomizeWeightsForLayer:withSeed:]",
+    "vaddr": "0x1945316ac",
+    "size": 0
+  },
+  {
+    "name": "-[ETModelDef updateLayer:withBiases:length:]",
+    "vaddr": "0x194531d48",
+    "size": 0
+  },
+  {
+    "name": "-[ETModelDef updateLayer:withWeights:length:]",
+    "vaddr": "0x194531de4",
+    "size": 0
+  },
+  {
+    "name": "-[ETModelDef biasesForLayer:]",
+    "vaddr": "0x194531e80",
+    "size": 0
+  },
+  {
+    "name": "-[ETModelDef weightsForLayer:]",
+    "vaddr": "0x19453222c",
+    "size": 0
+  },
+  {
+    "name": "-[ETModelDef layerForName:]",
+    "vaddr": "0x1945325d8",
+    "size": 0
+  },
+  {
+    "name": "-[ETModelDef topNamesForLayerIndex:]",
+    "vaddr": "0x1945326a0",
+    "size": 0
+  },
+  {
+    "name": "-[ETModelDef initWithNetwork:]",
+    "vaddr": "0x1945328c8",
+    "size": 0
+  },
+  {
+    "name": "-[ETModelDef transformForTraining:]",
+    "vaddr": "0x194532dec",
+    "size": 0
+  },
+  {
+    "name": "-[ETModelDefMLP setOutput_size:]",
+    "vaddr": "0x1945333c4",
+    "size": 0
+  },
+  {
+    "name": "-[ETModelDefMLP output_size]",
+    "vaddr": "0x1945333d4",
+    "size": 0
+  },
+  {
+    "name": "-[ETModelDefMLP setHidden_size:]",
+    "vaddr": "0x1945333e4",
+    "size": 0
+  },
+  {
+    "name": "-[ETModelDefMLP hidden_size]",
+    "vaddr": "0x1945333f4",
+    "size": 0
+  },
+  {
+    "name": "-[ETModelDefMLP setInput_size:]",
+    "vaddr": "0x194533404",
+    "size": 0
+  },
+  {
+    "name": "-[ETModelDefMLP input_size]",
+    "vaddr": "0x194533414",
+    "size": 0
+  },
+  {
+    "name": "-[ETModelDefMLP buildNetwork]",
+    "vaddr": "0x194533424",
+    "size": 0
+  },
+  {
+    "name": "-[ETModelDefLeNet setOutput_size:]",
+    "vaddr": "0x194534020",
+    "size": 0
+  },
+  {
+    "name": "-[ETModelDefLeNet output_size]",
+    "vaddr": "0x194534030",
+    "size": 0
+  },
+  {
+    "name": "-[ETImageDescriptorExtractor .cxx_construct]",
+    "vaddr": "0x194534040",
+    "size": 0
+  },
+  {
+    "name": "-[ETImageDescriptorExtractor .cxx_destruct]",
+    "vaddr": "0x19453404c",
+    "size": 0
+  },
+  {
+    "name": "-[ETImageDescriptorExtractor setDescriptors_file_cache_size:]",
+    "vaddr": "0x194534060",
+    "size": 0
+  },
+  {
+    "name": "-[ETImageDescriptorExtractor descriptors_file_cache_size]",
+    "vaddr": "0x194534068",
+    "size": 0
+  },
+  {
+    "name": "-[ETImageDescriptorExtractor setDescriptors_mem_cache_size:]",
+    "vaddr": "0x194534070",
+    "size": 0
+  },
+  {
+    "name": "-[ETImageDescriptorExtractor descriptors_mem_cache_size]",
+    "vaddr": "0x194534078",
+    "size": 0
+  },
+  {
+    "name": "-[ETImageDescriptorExtractor setDoBatchnormTuning:]",
+    "vaddr": "0x194534080",
+    "size": 0
+  },
+  {
+    "name": "-[ETImageDescriptorExtractor doBatchnormTuning]",
+    "vaddr": "0x194534088",
+    "size": 0
+  },
+  {
+    "name": "-[ETImageDescriptorExtractor setNAugmentations:]",
+    "vaddr": "0x194534090",
+    "size": 0
+  },
+  {
+    "name": "-[ETImageDescriptorExtractor nAugmentations]",
+    "vaddr": "0x194534098",
+    "size": 0
+  },
+  {
+    "name": "-[ETImageDescriptorExtractor setBrightness_range:]",
+    "vaddr": "0x1945340a0",
+    "size": 0
+  },
+  {
+    "name": "-[ETImageDescriptorExtractor brightness_range]",
+    "vaddr": "0x1945340a8",
+    "size": 0
+  },
+  {
+    "name": "-[ETImageDescriptorExtractor setContrast_range:]",
+    "vaddr": "0x1945340b0",
+    "size": 0
+  },
+  {
+    "name": "-[ETImageDescriptorExtractor contrast_range]",
+    "vaddr": "0x1945340b8",
+    "size": 0
+  },
+  {
+    "name": "-[ETImageDescriptorExtractor setShear_range:]",
+    "vaddr": "0x1945340c0",
+    "size": 0
+  },
+  {
+    "name": "-[ETImageDescriptorExtractor shear_range]",
+    "vaddr": "0x1945340c8",
+    "size": 0
+  },
+  {
+    "name": "-[ETImageDescriptorExtractor setZoom_range:]",
+    "vaddr": "0x1945340d0",
+    "size": 0
+  },
+  {
+    "name": "-[ETImageDescriptorExtractor zoom_range]",
+    "vaddr": "0x1945340d8",
+    "size": 0
+  },
+  {
+    "name": "-[ETImageDescriptorExtractor setHorizontal_flip:]",
+    "vaddr": "0x1945340e0",
+    "size": 0
+  },
+  {
+    "name": "-[ETImageDescriptorExtractor horizontal_flip]",
+    "vaddr": "0x1945340e8",
+    "size": 0
+  },
+  {
+    "name": "-[ETImageDescriptorExtractor setRotation_range:]",
+    "vaddr": "0x1945340f0",
+    "size": 0
+  },
+  {
+    "name": "-[ETImageDescriptorExtractor rotation_range]",
+    "vaddr": "0x1945340f8",
+    "size": 0
+  },
+  {
+    "name": "-[ETImageDescriptorExtractor numberOfChannels]",
+    "vaddr": "0x194534100",
+    "size": 0
+  },
+  {
+    "name": "-[ETImageDescriptorExtractor extractDescriptorForDataPoint:freeWhenDone:]",
+    "vaddr": "0x194534108",
+    "size": 0
+  },
+  {
+    "name": "-[ETImageDescriptorExtractor cropResizeInputImage:]",
+    "vaddr": "0x194534244",
+    "size": 0
+  },
+  {
+    "name": "-[ETImageDescriptorExtractor extractForDataPoint:]",
+    "vaddr": "0x194534248",
+    "size": 0
+  },
+  {
+    "name": "-[ETImageDescriptorExtractor initWithNetwork:]",
+    "vaddr": "0x194534384",
+    "size": 0
+  },
+  {
+    "name": "+[ETImageDescriptorExtractor VisionSmartCamNet_iOS11_Extractor]",
+    "vaddr": "0x194534944",
+    "size": 0
+  },
+  {
+    "name": "+[ETImageDescriptorExtractor passthroughExtractor]",
+    "vaddr": "0x19453494c",
+    "size": 0
+  },
+  {
+    "name": "+[ETImageDescriptorExtractor inception_v3_Extractor]",
+    "vaddr": "0x194534954",
+    "size": 0
+  },
+  {
+    "name": "+[ETImageDescriptorExtractor VisionSceneNet_iOS10_Extractor]",
+    "vaddr": "0x194534a3c",
+    "size": 0
+  },
+  {
+    "name": "-[ETDataSourceFromFolderData .cxx_destruct]",
+    "vaddr": "0x194534a78",
+    "size": 0
+  },
+  {
+    "name": "-[ETDataSourceFromFolderData setPathToClassIndex:]",
+    "vaddr": "0x194534ae0",
+    "size": 0
+  },
+  {
+    "name": "-[ETDataSourceFromFolderData pathToClassIndex]",
+    "vaddr": "0x194534aec",
+    "size": 0
+  },
+  {
+    "name": "-[ETDataSourceFromFolderData setClassNames:]",
+    "vaddr": "0x194534af4",
+    "size": 0
+  },
+  {
+    "name": "-[ETDataSourceFromFolderData classNames]",
+    "vaddr": "0x194534b00",
+    "size": 0
+  },
+  {
+    "name": "-[ETDataSourceFromFolderData setImageFileNames:]",
+    "vaddr": "0x194534b08",
+    "size": 0
+  },
+  {
+    "name": "-[ETDataSourceFromFolderData imageFileNames]",
+    "vaddr": "0x194534b14",
+    "size": 0
+  },
+  {
+    "name": "-[ETDataSourceFromFolderData setFolderToImages:]",
+    "vaddr": "0x194534b1c",
+    "size": 0
+  },
+  {
+    "name": "-[ETDataSourceFromFolderData folderToImages]",
+    "vaddr": "0x194534b28",
+    "size": 0
+  },
+  {
+    "name": "-[ETDataSourceFromFolderData setImagesDir:]",
+    "vaddr": "0x194534b30",
+    "size": 0
+  },
+  {
+    "name": "-[ETDataSourceFromFolderData imagesDir]",
+    "vaddr": "0x194534b3c",
+    "size": 0
+  },
+  {
+    "name": "-[ETDataSourceFromFolderData setBalanceClassesForTraining:]",
+    "vaddr": "0x194534b44",
+    "size": 0
+  },
+  {
+    "name": "-[ETDataSourceFromFolderData balanceClassesForTraining]",
+    "vaddr": "0x194534b4c",
+    "size": 0
+  },
+  {
+    "name": "-[ETDataSourceFromFolderData setNumberOfClasses:]",
+    "vaddr": "0x194534b58",
+    "size": 0
+  },
+  {
+    "name": "-[ETDataSourceFromFolderData numberOfClasses]",
+    "vaddr": "0x194534b60",
+    "size": 0
+  },
+  {
+    "name": "-[ETDataSourceFromFolderData numberOfDataPoints]",
+    "vaddr": "0x194534b68",
+    "size": 0
+  },
+  {
+    "name": "-[ETDataSourceFromFolderData dataPointAtIndex:]",
+    "vaddr": "0x194534bb0",
+    "size": 0
+  },
+  {
+    "name": "-[ETDataSourceFromFolderData bufferWithPath:]",
+    "vaddr": "0x194534df8",
+    "size": 0
+  },
+  {
+    "name": "-[ETDataSourceFromFolderData initWithFolder:balanceClassesForTraining:]",
+    "vaddr": "0x194534ec8",
+    "size": 0
+  },
+  {
+    "name": "-[ETDataSourceBlobF4 .cxx_construct]",
+    "vaddr": "0x194535504",
+    "size": 0
+  },
+  {
+    "name": "-[ETDataSourceBlobF4 .cxx_destruct]",
+    "vaddr": "0x194535518",
+    "size": 0
+  },
+  {
+    "name": "-[ETDataSourceBlobF4 numberOfDataPoints]",
+    "vaddr": "0x194535520",
+    "size": 0
+  },
+  {
+    "name": "-[ETDataSourceBlobF4 dataPointAtIndex:]",
+    "vaddr": "0x194535530",
+    "size": 0
+  },
+  {
+    "name": "-[ETDataSourceBlobF4 addBlob:forKey:]",
+    "vaddr": "0x1945356c4",
+    "size": 0
+  },
+  {
+    "name": "-[ETDataSourceBuf .cxx_construct]",
+    "vaddr": "0x1945359c8",
+    "size": 0
+  },
+  {
+    "name": "-[ETDataSourceBuf .cxx_destruct]",
+    "vaddr": "0x1945359dc",
+    "size": 0
+  },
+  {
+    "name": "-[ETDataSourceBuf dataAtIndex:key:]",
+    "vaddr": "0x1945359e4",
+    "size": 0
+  },
+  {
+    "name": "-[ETDataSourceBuf setBlobs:numberOfDataPoints:nonBatches:]",
+    "vaddr": "0x194535c4c",
+    "size": 0
+  },
+  {
+    "name": "-[ETDataSourceBuf dataPointAtIndex:]",
+    "vaddr": "0x194535f18",
+    "size": 0
+  },
+  {
+    "name": "-[ETDataSourceBuf numberOfDataPoints]",
+    "vaddr": "0x1945360f4",
+    "size": 0
+  },
+  {
+    "name": "-[ETDataSourceWithExtractor .cxx_destruct]",
+    "vaddr": "0x1945360fc",
+    "size": 0
+  },
+  {
+    "name": "-[ETDataSourceWithExtractor numberOfDataPoints]",
+    "vaddr": "0x194536140",
+    "size": 0
+  },
+  {
+    "name": "-[ETDataSourceWithExtractor dataPointAtIndex:]",
+    "vaddr": "0x194536148",
+    "size": 0
+  },
+  {
+    "name": "-[ETDataSourceWithExtractor initWithDataSource:extractor:]",
+    "vaddr": "0x1945361a8",
+    "size": 0
+  },
+  {
+    "name": "-[ETDataSourceWithCache .cxx_construct]",
+    "vaddr": "0x194536254",
+    "size": 0
+  },
+  {
+    "name": "-[ETDataSourceWithCache .cxx_destruct]",
+    "vaddr": "0x19453626c",
+    "size": 0
+  },
+  {
+    "name": "-[ETDataSourceWithCache numberOfDataPoints]",
+    "vaddr": "0x194536310",
+    "size": 0
+  },
+  {
+    "name": "-[ETDataSourceWithCache dataPointAtIndex:]",
+    "vaddr": "0x194536318",
+    "size": 0
+  },
+  {
+    "name": "-[ETDataSourceWithCache initWithDataSource:dumpPath:]",
+    "vaddr": "0x194536510",
+    "size": 0
+  },
+  {
+    "name": "-[ETDataSourceWithCache initWithDataSource:]",
+    "vaddr": "0x1945365b4",
+    "size": 0
+  },
+  {
+    "name": "-[ETTask .cxx_construct]",
+    "vaddr": "0x194536a94",
+    "size": 0
+  },
+  {
+    "name": "-[ETTask .cxx_destruct]",
+    "vaddr": "0x194536a9c",
+    "size": 0
+  },
+  {
+    "name": "-[ETTask setDumpData:]",
+    "vaddr": "0x194536b04",
+    "size": 0
+  },
+  {
+    "name": "-[ETTask dumpData]",
+    "vaddr": "0x194536b0c",
+    "size": 0
+  },
+  {
+    "name": "-[ETTask setExtractor:]",
+    "vaddr": "0x194536b14",
+    "size": 0
+  },
+  {
+    "name": "-[ETTask extractor]",
+    "vaddr": "0x194536b20",
+    "size": 0
+  },
+  {
+    "name": "-[ETTask setOptimizer:]",
+    "vaddr": "0x194536b28",
+    "size": 0
+  },
+  {
+    "name": "-[ETTask optimizer]",
+    "vaddr": "0x194536b34",
+    "size": 0
+  },
+  {
+    "name": "-[ETTask setModel:]",
+    "vaddr": "0x194536b3c",
+    "size": 0
+  },
+  {
+    "name": "-[ETTask model]",
+    "vaddr": "0x194536b48",
+    "size": 0
+  },
+  {
+    "name": "-[ETTask moveToGPU:error:]",
+    "vaddr": "0x194536b50",
+    "size": 0
+  },
+  {
+    "name": "-[ETTask saveNetwork:revertToInferenceMode:]",
+    "vaddr": "0x19453744c",
+    "size": 0
+  },
+  {
+    "name": "-[ETTask saveNetwork:]",
+    "vaddr": "0x1945375a4",
+    "size": 0
+  },
+  {
+    "name": "-[ETTask runInference:outputNames:batchCallback:]",
+    "vaddr": "0x1945375ac",
+    "size": 0
+  },
+  {
+    "name": "-[ETTask fit:numberOfEpochs:outputNames:batchCallback:]",
+    "vaddr": "0x194537700",
+    "size": 0
+  },
+  {
+    "name": "-[ETTask fit:numberOfBatches:outputNames:batchCallback:]",
+    "vaddr": "0x194537860",
+    "size": 0
+  },
+  {
+    "name": "-[ETTask runBatches:numberOfBatches:outputNames:batchCallback:]",
+    "vaddr": "0x19453797c",
+    "size": 0
+  },
+  {
+    "name": "-[ETTask evaluate:]",
+    "vaddr": "0x194538608",
+    "size": 0
+  },
+  {
+    "name": "-[ETTask fit:numberOfBatches:withProgress:]",
+    "vaddr": "0x1945391c4",
+    "size": 0
+  },
+  {
+    "name": "-[ETTask fit:numberOfEpochs:withProgress:]",
+    "vaddr": "0x194539874",
+    "size": 0
+  },
+  {
+    "name": "-[ETTask initWithModelDef:optimizerDef:lossConfig:extractor:]",
+    "vaddr": "0x194539a08",
+    "size": 0
+  },
+  {
+    "name": "-[ETTask initWithModelDef:optimizerDef:lossConfig:]",
+    "vaddr": "0x19453ae78",
+    "size": 0
+  },
+  {
+    "name": "-[ETTask reinitializeVariables]",
+    "vaddr": "0x19453ae80",
+    "size": 0
+  },
+  {
+    "name": "-[ETTask initWithModelDef:optimizerDef:extractor:needWeightsInitialization:]",
+    "vaddr": "0x19453b7f4",
+    "size": 0
+  },
+  {
+    "name": "-[ETTask initWithModelDef:optimizerDef:extractor:]",
+    "vaddr": "0x19453b9fc",
+    "size": 0
+  },
+  {
+    "name": "-[ETTask init]",
+    "vaddr": "0x19453ba04",
+    "size": 0
+  },
+  {
+    "name": "-[ETLossConfig .cxx_destruct]",
+    "vaddr": "0x19453ba6c",
+    "size": 0
+  },
+  {
+    "name": "-[ETLossConfig setCustom_network_path:]",
+    "vaddr": "0x19453bad4",
+    "size": 0
+  },
+  {
+    "name": "-[ETLossConfig custom_network_path]",
+    "vaddr": "0x19453badc",
+    "size": 0
+  },
+  {
+    "name": "-[ETLossConfig setLabel_shape:]",
+    "vaddr": "0x19453bae8",
+    "size": 0
+  },
+  {
+    "name": "-[ETLossConfig label_shape]",
+    "vaddr": "0x19453baf0",
+    "size": 0
+  },
+  {
+    "name": "-[ETLossConfig setLabel_name:]",
+    "vaddr": "0x19453bafc",
+    "size": 0
+  },
+  {
+    "name": "-[ETLossConfig label_name]",
+    "vaddr": "0x19453bb04",
+    "size": 0
+  },
+  {
+    "name": "-[ETLossConfig setOutput_name:]",
+    "vaddr": "0x19453bb10",
+    "size": 0
+  },
+  {
+    "name": "-[ETLossConfig output_name]",
+    "vaddr": "0x19453bb18",
+    "size": 0
+  },
+  {
+    "name": "-[ETLossConfig setLoss_name:]",
+    "vaddr": "0x19453bb24",
+    "size": 0
+  },
+  {
+    "name": "-[ETLossConfig loss_name]",
+    "vaddr": "0x19453bb2c",
+    "size": 0
+  },
+  {
+    "name": "-[ETLossConfig setMode:]",
+    "vaddr": "0x19453bb38",
+    "size": 0
+  },
+  {
+    "name": "-[ETLossConfig mode]",
+    "vaddr": "0x19453bb40",
+    "size": 0
+  },
+  {
+    "name": "+[ETLossConfig L2Loss]",
+    "vaddr": "0x19453bb48",
+    "size": 0
+  },
+  {
+    "name": "+[ETLossConfig softmaxCrossEntropyLoss]",
+    "vaddr": "0x19453bba0",
+    "size": 0
+  },
+  {
+    "name": "-[ETTaskClassifier setClass_names:]",
+    "vaddr": "0x19453bbf8",
+    "size": 0
+  },
+  {
+    "name": "-[ETTaskClassifier class_names]",
+    "vaddr": "0x19453bc08",
+    "size": 0
+  },
+  {
+    "name": "-[ETTaskClassifier initWithModelDef:optimizerDef:extractor:needWeightsInitialization:]",
+    "vaddr": "0x19453bc18",
+    "size": 0
+  },
+  {
+    "name": "-[ETTaskClassifier initWithModelDef:optimizerDef:extractor:]",
+    "vaddr": "0x19453be88",
+    "size": 0
+  },
+  {
+    "name": "-[EspressoPass_find_shared_weights runOnNetwork:]",
+    "vaddr": "0x1945499a8",
+    "size": 0
+  },
+  {
+    "name": "-[EspressoSharedKernelCacheEntry .cxx_destruct]",
+    "vaddr": "0x1945868fc",
+    "size": 0
+  },
+  {
+    "name": "-[EspressoSharedKernelCacheEntry setCached:]",
+    "vaddr": "0x194586904",
+    "size": 0
+  },
+  {
+    "name": "-[EspressoSharedKernelCacheEntry cached]",
+    "vaddr": "0x194586910",
+    "size": 0
+  },
+  {
+    "name": "-[EspressoPass_transform_quantize_kernel runOnNetwork:]",
+    "vaddr": "0x19458caa8",
+    "size": 0
+  },
+  {
+    "name": "-[EspressoPass_remove_nhwc_nchw_transposes runOnNetwork:]",
+    "vaddr": "0x1945a58e0",
+    "size": 0
+  },
+  {
+    "name": "-[EspressoPass_remove_seqw_wseq_transposes runOnNetwork:]",
+    "vaddr": "0x1945a9094",
+    "size": 0
+  },
+  {
+    "name": "-[EspressoPass_remove_squeeze_expanddims_1d_ops runOnNetwork:]",
+    "vaddr": "0x1945a9ac0",
+    "size": 0
+  },
+  {
+    "name": "-[EspressoPass_multi_head_program_gen runOnNetwork:]",
+    "vaddr": "0x1945aa444",
+    "size": 0
+  },
+  {
+    "name": "-[ETVariablesDefinition .cxx_destruct]",
+    "vaddr": "0x1945e9804",
+    "size": 0
+  },
+  {
+    "name": "-[ETVariablesDefinition setLayerNames:]",
+    "vaddr": "0x1945e9810",
+    "size": 0
+  },
+  {
+    "name": "-[ETVariablesDefinition layerNames]",
+    "vaddr": "0x1945e9818",
+    "size": 0
+  },
+  {
+    "name": "-[ETVariablesDefinition initForLayers:error:]",
+    "vaddr": "0x1945e9824",
+    "size": 0
+  },
+  {
+    "name": "-[EspressoPass_fastspeech runOnNetwork:]",
+    "vaddr": "0x1945ee3ac",
+    "size": 0
+  },
+  {
+    "name": "-[EspressoPass_rpn_tracker_merge_convs runOnNetwork:]",
+    "vaddr": "0x1945f5118",
+    "size": 0
+  },
+  {
+    "name": "-[EspressoPass_fuse_conv_batchnorm runOnNetwork:]",
+    "vaddr": "0x1945f9dfc",
+    "size": 0
+  },
+  {
+    "name": "-[EspressoPass_fuse_affine_scale runOnNetwork:]",
+    "vaddr": "0x1945fc230",
+    "size": 0
+  },
+  {
+    "name": "-[EspressoPass_fuse_pad runOnNetwork:]",
+    "vaddr": "0x1945fed30",
+    "size": 0
+  },
+  {
+    "name": "-[EspressoPass_transform_static_quantize_kernel runOnNetwork:]",
+    "vaddr": "0x194603aa4",
+    "size": 0
+  },
+  {
+    "name": "-[_ANEAnalyticsTask .cxx_destruct]",
+    "vaddr": "0x19464509c",
+    "size": 0
+  },
+  {
+    "name": "-[_ANEAnalyticsTask metrics]",
+    "vaddr": "0x1946450a8",
+    "size": 0
+  },
+  {
+    "name": "-[_ANEAnalyticsTask serialize]",
+    "vaddr": "0x1946450b0",
+    "size": 0
+  },
+  {
+    "name": "-[_ANEAnalyticsTask initWithMetrics:]",
+    "vaddr": "0x1946450b4",
+    "size": 0
+  },
+  {
+    "name": "+[_ANEAnalyticsTask objectWithMetrics:]",
+    "vaddr": "0x194645138",
+    "size": 0
+  },
+  {
+    "name": "-[_ANEAnalyticsLayer .cxx_destruct]",
+    "vaddr": "0x19464519c",
+    "size": 0
+  },
+  {
+    "name": "-[_ANEAnalyticsLayer weight]",
+    "vaddr": "0x1946451e0",
+    "size": 0
+  },
+  {
+    "name": "-[_ANEAnalyticsLayer layerName]",
+    "vaddr": "0x1946451e8",
+    "size": 0
+  },
+  {
+    "name": "-[_ANEAnalyticsLayer serialize]",
+    "vaddr": "0x1946451f0",
+    "size": 0
+  },
+  {
+    "name": "-[_ANEAnalyticsLayer initWithName:weight:]",
+    "vaddr": "0x19464530c",
+    "size": 0
+  },
+  {
+    "name": "+[_ANEAnalyticsLayer objectWithName:weight:]",
+    "vaddr": "0x1946453b8",
+    "size": 0
+  },
+  {
+    "name": "-[_ANEAnalyticsGroup .cxx_destruct]",
+    "vaddr": "0x19464543c",
+    "size": 0
+  },
+  {
+    "name": "-[_ANEAnalyticsGroup taskInfo]",
+    "vaddr": "0x19464548c",
+    "size": 0
+  },
+  {
+    "name": "-[_ANEAnalyticsGroup layerInfo]",
+    "vaddr": "0x194645494",
+    "size": 0
+  },
+  {
+    "name": "-[_ANEAnalyticsGroup groupID]",
+    "vaddr": "0x19464549c",
+    "size": 0
+  },
+  {
+    "name": "-[_ANEAnalyticsGroup serialize]",
+    "vaddr": "0x1946454a4",
+    "size": 0
+  },
+  {
+    "name": "-[_ANEAnalyticsGroup initWithID:layers:tasks:]",
+    "vaddr": "0x1946457cc",
+    "size": 0
+  },
+  {
+    "name": "+[_ANEAnalyticsGroup objectWithID:layers:tasks:]",
+    "vaddr": "0x1946458a0",
+    "size": 0
+  },
+  {
+    "name": "-[_ANEAnalyticsProcedure .cxx_destruct]",
+    "vaddr": "0x19464593c",
+    "size": 0
+  },
+  {
+    "name": "-[_ANEAnalyticsProcedure identifier]",
+    "vaddr": "0x19464598c",
+    "size": 0
+  },
+  {
+    "name": "-[_ANEAnalyticsProcedure procedureMetrics]",
+    "vaddr": "0x194645994",
+    "size": 0
+  },
+  {
+    "name": "-[_ANEAnalyticsProcedure groupInfo]",
+    "vaddr": "0x19464599c",
+    "size": 0
+  },
+  {
+    "name": "-[_ANEAnalyticsProcedure serialize]",
+    "vaddr": "0x1946459a4",
+    "size": 0
+  },
+  {
+    "name": "-[_ANEAnalyticsProcedure initWithGroups:procedureMetrics:indentifier:]",
+    "vaddr": "0x194645c58",
+    "size": 0
+  },
+  {
+    "name": "+[_ANEAnalyticsProcedure objectWithGroups:procedureMetrics:indentifier:]",
+    "vaddr": "0x194645d2c",
+    "size": 0
+  },
+  {
+    "name": "-[EspressoPass_fold_constants runOnNetwork:]",
+    "vaddr": "0x194678f34",
+    "size": 0
+  },
+  {
+    "name": "-[EspressoPass_debug_mode runOnNetwork:]",
+    "vaddr": "0x19467a4a0",
+    "size": 0
+  },
+  {
+    "name": "-[ETLossDefinition .cxx_destruct]",
+    "vaddr": "0x19468338c",
+    "size": 0
+  },
+  {
+    "name": "-[ETLossDefinition setOutputName:]",
+    "vaddr": "0x1946833e8",
+    "size": 0
+  },
+  {
+    "name": "-[ETLossDefinition outputName]",
+    "vaddr": "0x1946833f0",
+    "size": 0
+  },
+  {
+    "name": "-[ETLossDefinition mode]",
+    "vaddr": "0x1946833fc",
+    "size": 0
+  },
+  {
+    "name": "-[ETLossDefinition lossOutputName]",
+    "vaddr": "0x194683404",
+    "size": 0
+  },
+  {
+    "name": "-[ETLossDefinition targetInputName]",
+    "vaddr": "0x194683410",
+    "size": 0
+  },
+  {
+    "name": "-[ETLossDefinition inputName]",
+    "vaddr": "0x19468341c",
+    "size": 0
+  },
+  {
+    "name": "-[ETLossDefinition initWithMode:inputName:targetName:lossOutputName:]",
+    "vaddr": "0x194683428",
+    "size": 0
+  },
+  {
+    "name": "+[ETLossDefinition BuiltInLoss:]",
+    "vaddr": "0x1946834ec",
+    "size": 0
+  },
+  {
+    "name": "+[ETLossDefinition L2LossWithInputName:targetInputName:lossOutputName:]",
+    "vaddr": "0x194683550",
+    "size": 0
+  },
+  {
+    "name": "+[ETLossDefinition crossEntropyLossWithInputName:targetInputName:lossOutputName:]",
+    "vaddr": "0x1946835dc",
+    "size": 0
+  },
+  {
+    "name": "-[ETDataPointDictionary .cxx_construct]",
+    "vaddr": "0x1946cb3b8",
+    "size": 0
+  },
+  {
+    "name": "-[ETDataPointDictionary .cxx_destruct]",
+    "vaddr": "0x1946cb3d8",
+    "size": 0
+  },
+  {
+    "name": "-[ETDataPointDictionary setFloat_buffers:]",
+    "vaddr": "0x1946cb414",
+    "size": 0
+  },
+  {
+    "name": "-[ETDataPointDictionary float_buffers]",
+    "vaddr": "0x1946cb70c",
+    "size": 0
+  },
+  {
+    "name": "-[ETDataPointDictionary setImage_buffers:]",
+    "vaddr": "0x1946cb878",
+    "size": 0
+  },
+  {
+    "name": "-[ETDataPointDictionary image_buffers]",
+    "vaddr": "0x1946cbb70",
+    "size": 0
+  },
+  {
+    "name": "-[ETDataPointDictionary dataArrayForKey:error:]",
+    "vaddr": "0x1946cbcdc",
+    "size": 0
+  },
+  {
+    "name": "-[ETDataPointDictionary dataForKey:error:]",
+    "vaddr": "0x1946cbe0c",
+    "size": 0
+  },
+  {
+    "name": "-[ETDataPointDictionary setData:size:forKey:freeWhenDone:]",
+    "vaddr": "0x1946cbea8",
+    "size": 0
+  },
+  {
+    "name": "-[ETDataPointDictionary setImage:forKey:]",
+    "vaddr": "0x1946cbfbc",
+    "size": 0
+  },
+  {
+    "name": "-[EspressoPass_strength_reduction_loadc_eltwise__eltwisec runOnNetwork:]",
+    "vaddr": "0x1946cc070",
+    "size": 0
+  },
+  {
+    "name": "-[EspressoPass_strength_reduction_gather_to_lookup runOnNetwork:]",
+    "vaddr": "0x1946cc4e4",
+    "size": 0
+  },
+  {
+    "name": "-[EspressoPass_strength_reduction_batch_matmul_to_inner_product runOnNetwork:]",
+    "vaddr": "0x1946cdb60",
+    "size": 0
+  },
+  {
+    "name": "-[EspressoPass_strength_reduction_transpose_reshape_to_flatten_squeeze runOnNetwork:]",
+    "vaddr": "0x1946ced34",
+    "size": 0
+  },
+  {
+    "name": "-[EspressoPass_strength_reduction_remove_identity_transposes runOnNetwork:]",
+    "vaddr": "0x1946d0414",
+    "size": 0
+  },
+  {
+    "name": "-[EspressoPass_remove_reshape_chain runOnNetwork:]",
+    "vaddr": "0x1946d0de4",
+    "size": 0
+  },
+  {
+    "name": "-[EspressoPass_remove_reshape_around_rank3_inner_product runOnNetwork:]",
+    "vaddr": "0x1946d18c0",
+    "size": 0
+  },
+  {
+    "name": "-[EspressoPass_remove_reshape_around_rank2_softmax runOnNetwork:]",
+    "vaddr": "0x1946d3d88",
+    "size": 0
+  },
+  {
+    "name": "-[EspressoPass_strength_reduction_reshape_to_flatten runOnNetwork:]",
+    "vaddr": "0x1946d620c",
+    "size": 0
+  },
+  {
+    "name": "-[EspressoPass_fuse_gru_activation runOnNetwork:]",
+    "vaddr": "0x1946d70ec",
+    "size": 0
+  },
+  {
+    "name": "-[EspressoPass_fuse_broadcastable_transposes runOnNetwork:]",
+    "vaddr": "0x1946d906c",
+    "size": 0
+  },
+  {
+    "name": "-[EspressoPass_strength_reduction_general_slice_to_slice runOnNetwork:]",
+    "vaddr": "0x1946da4c8",
+    "size": 0
+  },
+  {
+    "name": "-[EspressoPass_fuse_blizzard_final_1x1_convolutions runOnNetwork:]",
+    "vaddr": "0x1946db498",
+    "size": 0
+  },
+  {
+    "name": "-[EspressoPass_strength_reduction_gather_to_slice runOnNetwork:]",
+    "vaddr": "0x1946dc70c",
+    "size": 0
+  },
+  {
+    "name": "-[ETModelDefinition .cxx_destruct]",
+    "vaddr": "0x1946eefc8",
+    "size": 0
+  },
+  {
+    "name": "-[ETModelDefinition initializer]",
+    "vaddr": "0x1946ef054",
+    "size": 0
+  },
+  {
+    "name": "-[ETModelDefinition isTrainingGlobalName]",
+    "vaddr": "0x1946ef060",
+    "size": 0
+  },
+  {
+    "name": "-[ETModelDefinition modelURL]",
+    "vaddr": "0x1946ef06c",
+    "size": 0
+  },
+  {
+    "name": "-[ETModelDefinition trainingOutputs]",
+    "vaddr": "0x1946ef078",
+    "size": 0
+  },
+  {
+    "name": "-[ETModelDefinition trainingInputs]",
+    "vaddr": "0x1946ef084",
+    "size": 0
+  },
+  {
+    "name": "-[ETModelDefinition outputs]",
+    "vaddr": "0x1946ef090",
+    "size": 0
+  },
+  {
+    "name": "-[ETModelDefinition inputs]",
+    "vaddr": "0x1946ef09c",
+    "size": 0
+  },
+  {
+    "name": "-[ETModelDefinition layerNames]",
+    "vaddr": "0x1946ef0a8",
+    "size": 0
+  },
+  {
+    "name": "-[ETModelDefinition initWithTrainingNetworkPath:inferenceInputs:inferenceOutputs:trainingInputs:trainingOutputs:trainingControlVariableName:withInitializer:error:]",
+    "vaddr": "0x1946ef0b4",
+    "size": 0
+  },
+  {
+    "name": "-[ETModelDefinition initWithInferenceNetworkPath:inferenceInputs:inferenceOutputs:error:]",
+    "vaddr": "0x1946ef25c",
+    "size": 0
+  },
+  {
+    "name": "-[ETModelDefinition initWithInferenceNetworkPath:error:]",
+    "vaddr": "0x1946ef330",
+    "size": 0
+  },
+  {
+    "name": "-[Espresso_mxnetTools_ImageBinaryRecordReader .cxx_destruct]",
+    "vaddr": "0x194704164",
+    "size": 0
+  },
+  {
+    "name": "-[Espresso_mxnetTools_ImageBinaryRecordReader setLabelsPrivate:]",
+    "vaddr": "0x1947041a8",
+    "size": 0
+  },
+  {
+    "name": "-[Espresso_mxnetTools_ImageBinaryRecordReader labelsPrivate]",
+    "vaddr": "0x1947041b0",
+    "size": 0
+  },
+  {
+    "name": "-[Espresso_mxnetTools_ImageBinaryRecordReader setCurrentOffset:]",
+    "vaddr": "0x1947041bc",
+    "size": 0
+  },
+  {
+    "name": "-[Espresso_mxnetTools_ImageBinaryRecordReader currentOffset]",
+    "vaddr": "0x1947041c4",
+    "size": 0
+  },
+  {
+    "name": "-[Espresso_mxnetTools_ImageBinaryRecordReader setImageHeader:]",
+    "vaddr": "0x1947041cc",
+    "size": 0
+  },
+  {
+    "name": "-[Espresso_mxnetTools_ImageBinaryRecordReader imageHeader]",
+    "vaddr": "0x1947041e4",
+    "size": 0
+  },
+  {
+    "name": "-[Espresso_mxnetTools_ImageBinaryRecordReader setRecordHeader:]",
+    "vaddr": "0x1947041fc",
+    "size": 0
+  },
+  {
+    "name": "-[Espresso_mxnetTools_ImageBinaryRecordReader recordHeader]",
+    "vaddr": "0x194704234",
+    "size": 0
+  },
+  {
+    "name": "-[Espresso_mxnetTools_ImageBinaryRecordReader setRecFileHandle:]",
+    "vaddr": "0x194704270",
+    "size": 0
+  },
+  {
+    "name": "-[Espresso_mxnetTools_ImageBinaryRecordReader recFileHandle]",
+    "vaddr": "0x194704278",
+    "size": 0
+  },
+  {
+    "name": "-[Espresso_mxnetTools_ImageBinaryRecordReader imageID]",
+    "vaddr": "0x194704284",
+    "size": 0
+  },
+  {
+    "name": "-[Espresso_mxnetTools_ImageBinaryRecordReader labels]",
+    "vaddr": "0x1947042cc",
+    "size": 0
+  },
+  {
+    "name": "-[Espresso_mxnetTools_ImageBinaryRecordReader imageData]",
+    "vaddr": "0x1947043ac",
+    "size": 0
+  },
+  {
+    "name": "-[Espresso_mxnetTools_ImageBinaryRecordReader nextRecordAndError:]",
+    "vaddr": "0x1947044b0",
+    "size": 0
+  },
+  {
+    "name": "-[Espresso_mxnetTools_ImageBinaryRecordReader seekRecordWithID:error:]",
+    "vaddr": "0x1947047f0",
+    "size": 0
+  },
+  {
+    "name": "-[Espresso_mxnetTools_ImageBinaryRecordReader initWithRecFile:error:]",
+    "vaddr": "0x1947048c8",
+    "size": 0
+  },
+  {
+    "name": "-[_ETBufferDataSource .cxx_construct]",
+    "vaddr": "0x194776ea4",
+    "size": 0
+  },
+  {
+    "name": "-[_ETBufferDataSource .cxx_destruct]",
+    "vaddr": "0x194776ed0",
+    "size": 0
+  },
+  {
+    "name": "-[_ETBufferDataSource setNonBatchBlobNames:]",
+    "vaddr": "0x194776f18",
+    "size": 0
+  },
+  {
+    "name": "-[_ETBufferDataSource nonBatchBlobNames]",
+    "vaddr": "0x194776f60",
+    "size": 0
+  },
+  {
+    "name": "-[_ETBufferDataSource setBatchSize:]",
+    "vaddr": "0x194776fa4",
+    "size": 0
+  },
+  {
+    "name": "-[_ETBufferDataSource batchSize]",
+    "vaddr": "0x194776fac",
+    "size": 0
+  },
+  {
+    "name": "-[_ETBufferDataSource setNumber_of_data_points:]",
+    "vaddr": "0x194776fb4",
+    "size": 0
+  },
+  {
+    "name": "-[_ETBufferDataSource number_of_data_points]",
+    "vaddr": "0x194776fbc",
+    "size": 0
+  },
+  {
+    "name": "-[_ETBufferDataSource setBlobShapes:]",
+    "vaddr": "0x194776fc4",
+    "size": 0
+  },
+  {
+    "name": "-[_ETBufferDataSource blobShapes]",
+    "vaddr": "0x19477718c",
+    "size": 0
+  },
+  {
+    "name": "-[_ETBufferDataSource setDataStorage:]",
+    "vaddr": "0x1947771ac",
+    "size": 0
+  },
+  {
+    "name": "-[_ETBufferDataSource dataStorage]",
+    "vaddr": "0x194777358",
+    "size": 0
+  },
+  {
+    "name": "-[_ETBufferDataSource dataAtIndex:key:]",
+    "vaddr": "0x19477760c",
+    "size": 0
+  },
+  {
+    "name": "-[_ETBufferDataSource initWithBlobShapes:numberOfDataPoints:batchSize:error:]",
+    "vaddr": "0x194777a00",
+    "size": 0
+  },
+  {
+    "name": "-[_ETBufferDataSource dataPointAtIndex:error:]",
+    "vaddr": "0x194777ba8",
+    "size": 0
+  },
+  {
+    "name": "-[_ETBufferDataSource numberOfDataPoints]",
+    "vaddr": "0x194778124",
+    "size": 0
+  },
+  {
+    "name": "-[EspressoMetalKernelsCache .cxx_construct]",
+    "vaddr": "0x19477836c",
+    "size": 0
+  },
+  {
+    "name": "-[EspressoMetalKernelsCache .cxx_destruct]",
+    "vaddr": "0x194778390",
+    "size": 0
+  },
+  {
+    "name": "-[EspressoMetalKernelsCache setM_kernelCache:]",
+    "vaddr": "0x194778424",
+    "size": 0
+  },
+  {
+    "name": "-[EspressoMetalKernelsCache m_kernelCache]",
+    "vaddr": "0x19477842c",
+    "size": 0
+  },
+  {
+    "name": "-[EspressoMetalKernelsCache setKernelPrefix:]",
+    "vaddr": "0x194778438",
+    "size": 0
+  },
+  {
+    "name": "-[EspressoMetalKernelsCache kernelPrefix]",
+    "vaddr": "0x194778444",
+    "size": 0
+  },
+  {
+    "name": "-[EspressoMetalKernelsCache shouldUseTexArray]",
+    "vaddr": "0x19477844c",
+    "size": 0
+  },
+  {
+    "name": "-[EspressoMetalKernelsCache kernelForFunction:cacheString:withConstants:]",
+    "vaddr": "0x194778454",
+    "size": 0
+  },
+  {
+    "name": "-[EspressoMetalKernelsCache kernelForFunction:]",
+    "vaddr": "0x1947790c0",
+    "size": 0
+  },
+  {
+    "name": "-[EspressoMetalKernelsCache addLibraryAtPath:]",
+    "vaddr": "0x1947790cc",
+    "size": 0
+  },
+  {
+    "name": "-[EspressoMetalKernelsCache loadLibraryNamed:]",
+    "vaddr": "0x194779268",
+    "size": 0
+  },
+  {
+    "name": "-[EspressoMetalKernelsCache wasSetup]",
+    "vaddr": "0x194779440",
+    "size": 0
+  },
+  {
+    "name": "-[EspressoMetalKernelsCache lazySetup]",
+    "vaddr": "0x194779450",
+    "size": 0
+  },
+  {
+    "name": "-[EspressoMetalKernelsCache initWithDevice:]",
+    "vaddr": "0x194779a78",
+    "size": 0
+  },
+  {
+    "name": "-[EspressoPass_style_transfer_two_nets_onlyanepart runOnNetwork:]",
+    "vaddr": "0x194779b88",
+    "size": 0
+  },
+  {
+    "name": "-[EspressoPass_style_transfer_two_nets runOnNetwork:]",
+    "vaddr": "0x19477bf3c",
+    "size": 0
+  },
+  {
+    "name": "-[EspressoPass_style_transfer_parameterize_transplant runOnNetwork:]",
+    "vaddr": "0x19477f328",
+    "size": 0
+  },
+  {
+    "name": "-[MyMPSCNNConvolutionGradientState sourceHeight]",
+    "vaddr": "0x19477f5c8",
+    "size": 0
+  },
+  {
+    "name": "-[MyMPSCNNConvolutionGradientState sourceWidth]",
+    "vaddr": "0x19477f5d8",
+    "size": 0
+  },
+  {
+    "name": "-[EspressoPass_complete_fixpoint_optimization runOnNetwork:]",
+    "vaddr": "0x194792384",
+    "size": 0
+  },
+  {
+    "name": "+[EspressoBrickRegistry registerBrickClass:]",
+    "vaddr": "0x194792ef4",
+    "size": 0
+  },
+  {
+    "name": "-[EspressoBrickTensorShape setRank:]",
+    "vaddr": "0x1947938fc",
+    "size": 0
+  },
+  {
+    "name": "-[EspressoBrickTensorShape rank]",
+    "vaddr": "0x194793904",
+    "size": 0
+  },
+  {
+    "name": "-[EspressoBrickTensorShape setSequence:]",
+    "vaddr": "0x19479390c",
+    "size": 0
+  },
+  {
+    "name": "-[EspressoBrickTensorShape sequence]",
+    "vaddr": "0x194793914",
+    "size": 0
+  },
+  {
+    "name": "-[EspressoBrickTensorShape setBatch:]",
+    "vaddr": "0x19479391c",
+    "size": 0
+  },
+  {
+    "name": "-[EspressoBrickTensorShape batch]",
+    "vaddr": "0x194793924",
+    "size": 0
+  },
+  {
+    "name": "-[EspressoBrickTensorShape setChannels:]",
+    "vaddr": "0x19479392c",
+    "size": 0
+  },
+  {
+    "name": "-[EspressoBrickTensorShape channels]",
+    "vaddr": "0x194793934",
+    "size": 0
+  },
+  {
+    "name": "-[EspressoBrickTensorShape setHeight:]",
+    "vaddr": "0x19479393c",
+    "size": 0
+  },
+  {
+    "name": "-[EspressoBrickTensorShape height]",
+    "vaddr": "0x194793944",
+    "size": 0
+  },
+  {
+    "name": "-[EspressoBrickTensorShape setWidth:]",
+    "vaddr": "0x19479394c",
+    "size": 0
+  },
+  {
+    "name": "-[EspressoBrickTensorShape width]",
+    "vaddr": "0x194793954",
+    "size": 0
+  },
+  {
+    "name": "-[EspressoBrickTensorMetal .cxx_destruct]",
+    "vaddr": "0x19479572c",
+    "size": 0
+  },
+  {
+    "name": "-[EspressoBrickTensorMetal setTexture:]",
+    "vaddr": "0x194795740",
+    "size": 0
+  },
+  {
+    "name": "-[EspressoBrickTensorMetal texture]",
+    "vaddr": "0x19479574c",
+    "size": 0
+  },
+  {
+    "name": "-[EspressoBrickTensor .cxx_destruct]",
+    "vaddr": "0x19479575c",
+    "size": 0
+  },
+  {
+    "name": "-[EspressoBrickTensor setShape:]",
+    "vaddr": "0x194795768",
+    "size": 0
+  },
+  {
+    "name": "-[EspressoBrickTensor shape]",
+    "vaddr": "0x194795770",
+    "size": 0
+  },
+  {
+    "name": "-[EspressoBrickTensor init]",
+    "vaddr": "0x19479577c",
+    "size": 0
+  },
+  {
+    "name": "-[EspressoBrickTensorCPU setRawPointer:]",
+    "vaddr": "0x194795820",
+    "size": 0
+  },
+  {
+    "name": "-[EspressoBrickTensorCPU rawPointer]",
+    "vaddr": "0x194795830",
+    "size": 0
+  },
+  {
+    "name": "-[EspressoFDOverfeatNetwork .cxx_construct]",
+    "vaddr": "0x1947ab798",
+    "size": 0
+  },
+  {
+    "name": "-[EspressoFDOverfeatNetwork .cxx_destruct]",
+    "vaddr": "0x1947ab7f4",
+    "size": 0
+  },
+  {
+    "name": "-[EspressoFDOverfeatNetwork setContext_cpu:]",
+    "vaddr": "0x1947ab93c",
+    "size": 0
+  },
+  {
+    "name": "-[EspressoFDOverfeatNetwork context_cpu]",
+    "vaddr": "0x1947ab968",
+    "size": 0
+  },
+  {
+    "name": "-[EspressoFDOverfeatNetwork setContext_metal:]",
+    "vaddr": "0x1947ab984",
+    "size": 0
+  },
+  {
+    "name": "-[EspressoFDOverfeatNetwork context_metal]",
+    "vaddr": "0x1947ab9b0",
+    "size": 0
+  },
+  {
+    "name": "-[EspressoFDOverfeatNetwork setCpin:]",
+    "vaddr": "0x1947ab9cc",
+    "size": 0
+  },
+  {
+    "name": "-[EspressoFDOverfeatNetwork cpin]",
+    "vaddr": "0x1947ab9d4",
+    "size": 0
+  },
+  {
+    "name": "-[EspressoFDOverfeatNetwork setMode:]",
+    "vaddr": "0x1947ab9dc",
+    "size": 0
+  },
+  {
+    "name": "-[EspressoFDOverfeatNetwork mode]",
+    "vaddr": "0x1947ab9e4",
+    "size": 0
+  },
+  {
+    "name": "-[EspressoFDOverfeatNetwork setScaleConfig:]",
+    "vaddr": "0x1947ab9ec",
+    "size": 0
+  },
+  {
+    "name": "-[EspressoFDOverfeatNetwork scaleConfig]",
+    "vaddr": "0x1947ab9f4",
+    "size": 0
+  },
+  {
+    "name": "-[EspressoFDOverfeatNetwork setWeights:]",
+    "vaddr": "0x1947ab9fc",
+    "size": 0
+  },
+  {
+    "name": "-[EspressoFDOverfeatNetwork weights]",
+    "vaddr": "0x1947aba08",
+    "size": 0
+  },
+  {
+    "name": "-[EspressoFDOverfeatNetwork setBasename:]",
+    "vaddr": "0x1947aba10",
+    "size": 0
+  },
+  {
+    "name": "-[EspressoFDOverfeatNetwork basename]",
+    "vaddr": "0x1947aba1c",
+    "size": 0
+  },
+  {
+    "name": "-[EspressoFDOverfeatNetwork setForceMaxNScales:]",
+    "vaddr": "0x1947aba24",
+    "size": 0
+  },
+  {
+    "name": "-[EspressoFDOverfeatNetwork forceMaxNScales]",
+    "vaddr": "0x1947aba2c",
+    "size": 0
+  },
+  {
+    "name": "-[EspressoFDOverfeatNetwork setMaxScale:]",
+    "vaddr": "0x1947aba34",
+    "size": 0
+  },
+  {
+    "name": "-[EspressoFDOverfeatNetwork maxScale]",
+    "vaddr": "0x1947aba3c",
+    "size": 0
+  },
+  {
+    "name": "-[EspressoFDOverfeatNetwork setScalingMode:]",
+    "vaddr": "0x1947aba44",
+    "size": 0
+  },
+  {
+    "name": "-[EspressoFDOverfeatNetwork scalingMode]",
+    "vaddr": "0x1947aba4c",
+    "size": 0
+  },
+  {
+    "name": "-[EspressoFDOverfeatNetwork setUseGPUScaler:]",
+    "vaddr": "0x1947aba54",
+    "size": 0
+  },
+  {
+    "name": "-[EspressoFDOverfeatNetwork useGPUScaler]",
+    "vaddr": "0x1947aba5c",
+    "size": 0
+  },
+  {
+    "name": "-[EspressoFDOverfeatNetwork setContextCpu:]",
+    "vaddr": "0x1947aba64",
+    "size": 0
+  },
+  {
+    "name": "-[EspressoFDOverfeatNetwork setContextMetal:]",
+    "vaddr": "0x1947abae8",
+    "size": 0
+  },
+  {
+    "name": "-[EspressoFDOverfeatNetwork errorForLayers]",
+    "vaddr": "0x1947abb6c",
+    "size": 0
+  },
+  {
+    "name": "-[EspressoFDOverfeatNetwork needRetiling:]",
+    "vaddr": "0x1947abb74",
+    "size": 0
+  },
+  {
+    "name": "-[EspressoFDOverfeatNetwork storeDataForPruning:prob:]",
+    "vaddr": "0x1947abbb0",
+    "size": 0
+  },
+  {
+    "name": "-[EspressoFDOverfeatNetwork forward_cpu_network_at_index:pyr:]",
+    "vaddr": "0x1947abbb4",
+    "size": 0
+  },
+  {
+    "name": "-[EspressoFDOverfeatNetwork retile_and_forward_espresso_network_at_index:net:pyr:]",
+    "vaddr": "0x1947abf60",
+    "size": 0
+  },
+  {
+    "name": "-[EspressoFDOverfeatNetwork retile_and_forward_espresso_gpu_network_at_index:net:pyr:]",
+    "vaddr": "0x1947abf64",
+    "size": 0
+  },
+  {
+    "name": "-[EspressoFDOverfeatNetwork setup_retile]",
+    "vaddr": "0x1947abfc0",
+    "size": 0
+  },
+  {
+    "name": "-[EspressoFDOverfeatNetwork default_retile_outputs]",
+    "vaddr": "0x1947ac1b8",
+    "size": 0
+  },
+  {
+    "name": "-[EspressoFDOverfeatNetwork processPyramid:gpu_resizer:]",
+    "vaddr": "0x1947ac1e0",
+    "size": 0
+  },
+  {
+    "name": "-[EspressoFDOverfeatNetwork processPyramid:]",
+    "vaddr": "0x1947ad41c",
+    "size": 0
+  },
+  {
+    "name": "-[EspressoFDOverfeatNetwork processBlobNoRotation:tex:doBGRA2RGBA:]",
+    "vaddr": "0x1947ad488",
+    "size": 0
+  },
+  {
+    "name": "-[EspressoFDOverfeatNetwork processVimageNoRotation:tex:doBGRA2RGBA:]",
+    "vaddr": "0x1947ae880",
+    "size": 0
+  },
+  {
+    "name": "-[EspressoFDOverfeatNetwork processBlob:tex:]",
+    "vaddr": "0x1947aeac0",
+    "size": 0
+  },
+  {
+    "name": "-[EspressoFDOverfeatNetwork generatePyramid:tex:]",
+    "vaddr": "0x1947aeb90",
+    "size": 0
+  },
+  {
+    "name": "-[EspressoFDOverfeatNetwork boxBlobForScale:]",
+    "vaddr": "0x1947aec2c",
+    "size": 0
+  },
+  {
+    "name": "-[EspressoFDOverfeatNetwork probBlobForScale:]",
+    "vaddr": "0x1947aec50",
+    "size": 0
+  },
+  {
+    "name": "-[EspressoFDOverfeatNetwork getNumScales]",
+    "vaddr": "0x1947aec74",
+    "size": 0
+  },
+  {
+    "name": "-[EspressoFDOverfeatNetwork retryLoadingCaffeNet:name:weights:context:cp:]",
+    "vaddr": "0x1947aec98",
+    "size": 0
+  },
+  {
+    "name": "-[EspressoFDOverfeatNetwork autoSetupNetBaseName:weights:scaleConfig:setupMode:computePath:autoAspectRatio:forceReset:useLowPriorityMode:gpuPriority:]",
+    "vaddr": "0x1947aec9c",
+    "size": 0
+  },
+  {
+    "name": "-[EspressoFDOverfeatNetwork wipeLayersMemory]",
+    "vaddr": "0x1947b1290",
+    "size": 0
+  },
+  {
+    "name": "-[EspressoFDOverfeatNetwork reset]",
+    "vaddr": "0x1947b135c",
+    "size": 0
+  },
+  {
+    "name": "-[EspressoFDOverfeatNetwork autoResizeForAspectRatio:useLowPriorityMode:gpuPriority:]",
+    "vaddr": "0x1947b1398",
+    "size": 0
+  },
+  {
+    "name": "-[EspressoFDOverfeatNetwork strideConfiguration]",
+    "vaddr": "0x1947b1484",
+    "size": 0
+  },
+  {
+    "name": "-[EspressoFDOverfeatNetwork getScale:]",
+    "vaddr": "0x1947b1548",
+    "size": 0
+  },
+  {
+    "name": "-[EspressoFDOverfeatNetwork dealloc]",
+    "vaddr": "0x1947b1554",
+    "size": 0
+  },
+  {
+    "name": "-[EspressoFDOverfeatNetwork init]",
+    "vaddr": "0x1947b15d0",
+    "size": 0
+  },
+  {
+    "name": "-[EspressoFDOverfeatNetwork cpu_net:]",
+    "vaddr": "0x1947b1674",
+    "size": 0
+  },
+  {
+    "name": "-[EspressoFDOverfeatNetwork gpu_net:]",
+    "vaddr": "0x1947b1698",
+    "size": 0
+  },
+  {
+    "name": "-[EspressoFDOverfeatNetwork resizerCount]",
+    "vaddr": "0x1947b16bc",
+    "size": 0
+  },
+  {
+    "name": "-[EspressoFDOverfeatNetwork resizerAtIndex:]",
+    "vaddr": "0x1947b16cc",
+    "size": 0
+  },
+  {
+    "name": "+[_ANECompilerAnalytics objectWithBuffer:]",
+    "vaddr": "0x1947b16f0",
+    "size": 0
+  },
+  {
+    "name": "+[_ANECompilerAnalytics new]",
+    "vaddr": "0x1947b1754",
+    "size": 0
+  },
+  {
+    "name": "-[_ANECompilerAnalytics .cxx_destruct]",
+    "vaddr": "0x1947b175c",
+    "size": 0
+  },
+  {
+    "name": "-[_ANECompilerAnalytics bufferSizeInBytes]",
+    "vaddr": "0x1947b17ac",
+    "size": 0
+  },
+  {
+    "name": "-[_ANECompilerAnalytics analyticsBuffer]",
+    "vaddr": "0x1947b17b4",
+    "size": 0
+  },
+  {
+    "name": "-[_ANECompilerAnalytics setProcedureAnalytics:]",
+    "vaddr": "0x1947b17bc",
+    "size": 0
+  },
+  {
+    "name": "-[_ANECompilerAnalytics procedureAnalytics]",
+    "vaddr": "0x1947b17c8",
+    "size": 0
+  },
+  {
+    "name": "-[_ANECompilerAnalytics initWithBuffer:]",
+    "vaddr": "0x1947b17d0",
+    "size": 0
+  },
+  {
+    "name": "-[_ANECompilerAnalytics serialize]",
+    "vaddr": "0x1947b1870",
+    "size": 0
+  },
+  {
+    "name": "-[_ANECompilerAnalytics populateAnalytics]",
+    "vaddr": "0x1947b18f0",
+    "size": 0
+  },
+  {
+    "name": "-[_ANECompilerAnalytics init]",
+    "vaddr": "0x1947b2310",
+    "size": 0
+  },
+  {
+    "name": "-[_ANECompilerAnalytics description]",
+    "vaddr": "0x1947b232c",
+    "size": 0
+  },
+  {
+    "name": "-[_ANECompilerAnalytics getBOOLDataValueAt:]",
+    "vaddr": "0x1947b2424",
+    "size": 0
+  },
+  {
+    "name": "-[_ANECompilerAnalytics getDataValueAt:]",
+    "vaddr": "0x1947b2484",
+    "size": 0
+  },
+  {
+    "name": "-[_ANECompilerAnalytics dataInfoAt:]",
+    "vaddr": "0x1947b24e0",
+    "size": 0
+  },
+  {
+    "name": "-[_ANECompilerAnalytics taskInfoAt:]",
+    "vaddr": "0x1947b2578",
+    "size": 0
+  },
+  {
+    "name": "-[_ANECompilerAnalytics layerInfoAt:]",
+    "vaddr": "0x1947b2610",
+    "size": 0
+  },
+  {
+    "name": "-[_ANECompilerAnalytics groupInfoAt:]",
+    "vaddr": "0x1947b26a8",
+    "size": 0
+  },
+  {
+    "name": "-[_ANECompilerAnalytics procedureInfoAt:]",
+    "vaddr": "0x1947b2740",
+    "size": 0
+  },
+  {
+    "name": "-[_ANECompilerAnalytics offsetTableAt:count:]",
+    "vaddr": "0x1947b27d8",
+    "size": 0
+  },
+  {
+    "name": "-[_ANECompilerAnalytics stringForAnalyticsType:]",
+    "vaddr": "0x1947b2874",
+    "size": 0
+  },
+  {
+    "name": "-[EspressoANEIOSurface .cxx_construct]",
+    "vaddr": "0x1947b37a8",
+    "size": 0
+  },
+  {
+    "name": "-[EspressoANEIOSurface .cxx_destruct]",
+    "vaddr": "0x1947b37b8",
+    "size": 0
+  },
+  {
+    "name": "-[EspressoANEIOSurface setExternal_storage_blob_for_aliasing_mem:]",
+    "vaddr": "0x1947b3884",
+    "size": 0
+  },
+  {
+    "name": "-[EspressoANEIOSurface external_storage_blob_for_aliasing_mem]",
+    "vaddr": "0x1947b38b0",
+    "size": 0
+  },
+  {
+    "name": "-[EspressoANEIOSurface pixelFormat]",
+    "vaddr": "0x1947b38cc",
+    "size": 0
+  },
+  {
+    "name": "-[EspressoANEIOSurface nFrames]",
+    "vaddr": "0x1947b38d4",
+    "size": 0
+  },
+  {
+    "name": "-[EspressoANEIOSurface metalBufferWithDevice:multiBufferFrame:]",
+    "vaddr": "0x1947b38f0",
+    "size": 0
+  },
+  {
+    "name": "-[EspressoANEIOSurface restoreInternalStorageForAllMultiBufferFrames]",
+    "vaddr": "0x1947b398c",
+    "size": 0
+  },
+  {
+    "name": "-[EspressoANEIOSurface restoreInternalStorage:]",
+    "vaddr": "0x1947b3a0c",
+    "size": 0
+  },
+  {
+    "name": "-[EspressoANEIOSurface setExternalStorage:ioSurface:]",
+    "vaddr": "0x1947b3a50",
+    "size": 0
+  },
+  {
+    "name": "-[EspressoANEIOSurface cleanup]",
+    "vaddr": "0x1947b3b50",
+    "size": 0
+  },
+  {
+    "name": "-[EspressoANEIOSurface ioSurfaceForMultiBufferFrameNoLazyForTesting:]",
+    "vaddr": "0x1947b3bec",
+    "size": 0
+  },
+  {
+    "name": "-[EspressoANEIOSurface ioSurfaceForMultiBufferFrame:]",
+    "vaddr": "0x1947b3c00",
+    "size": 0
+  },
+  {
+    "name": "-[EspressoANEIOSurface ane_io_surfaceForMultiBufferFrame:]",
+    "vaddr": "0x1947b3c48",
+    "size": 0
+  },
+  {
+    "name": "-[EspressoANEIOSurface lazilyAutoCreateSurfaceForFrame:]",
+    "vaddr": "0x1947b3c90",
+    "size": 0
+  },
+  {
+    "name": "-[EspressoANEIOSurface doNonLazyAllocation:]",
+    "vaddr": "0x1947b3d64",
+    "size": 0
+  },
+  {
+    "name": "-[EspressoANEIOSurface createIOSurfaceWithExtraProperties:]",
+    "vaddr": "0x1947b3e08",
+    "size": 0
+  },
+  {
+    "name": "-[EspressoANEIOSurface checkIfMatchesIOSurface:]",
+    "vaddr": "0x1947b3fc0",
+    "size": 0
+  },
+  {
+    "name": "-[EspressoANEIOSurface checkIfMatches:]",
+    "vaddr": "0x1947b3fc8",
+    "size": 0
+  },
+  {
+    "name": "-[EspressoANEIOSurface initWithIOSurfaceProperties:andPixelFormats:]",
+    "vaddr": "0x1947b4244",
+    "size": 0
+  },
+  {
+    "name": "-[EspressoANEIOSurface resizeForMultipleAsyncBuffers:]",
+    "vaddr": "0x1947b474c",
+    "size": 0
+  },
+  {
+    "name": "_espresso_ane_cache_has_network",
+    "vaddr": "0x1942c4d58",
+    "size": 0
+  },
+  {
+    "name": "_espresso_ane_cache_purge_network",
+    "vaddr": "0x1942c50d8",
+    "size": 0
+  },
+  {
+    "name": "_espresso_autoinitialize_isset",
+    "vaddr": "0x1942bb5f4",
+    "size": 0
+  },
+  {
+    "name": "_espresso_blob_is_dynamic",
+    "vaddr": "0x193cc46a8",
+    "size": 0
+  },
+  {
+    "name": "_espresso_blob_set_int_option",
+    "vaddr": "0x1942c19b8",
+    "size": 0
+  },
+  {
+    "name": "_espresso_buffer_get_count",
+    "vaddr": "0x1942bb47c",
+    "size": 0
+  },
+  {
+    "name": "_espresso_buffer_get_rank",
+    "vaddr": "0x1942bb474",
+    "size": 0
+  },
+  {
+    "name": "_espresso_buffer_get_size",
+    "vaddr": "0x1942bb48c",
+    "size": 0
+  },
+  {
+    "name": "_espresso_buffer_pack_tensor_shape",
+    "vaddr": "0x193d5200c",
+    "size": 0
+  },
+  {
+    "name": "_espresso_buffer_set_rank",
+    "vaddr": "0x1942bb46c",
+    "size": 0
+  },
+  {
+    "name": "_espresso_buffer_unpack_tensor_shape",
+    "vaddr": "0x193cd5da0",
+    "size": 0
+  },
+  {
+    "name": "_espresso_compile_mil_to_eir",
+    "vaddr": "0x1942c87f8",
+    "size": 0
+  },
+  {
+    "name": "_espresso_context_create_for_cpu_test_vectors",
+    "vaddr": "0x1942c15b0",
+    "size": 0
+  },
+  {
+    "name": "_espresso_context_destroy",
+    "vaddr": "0x193cd6abc",
+    "size": 0
+  },
+  {
+    "name": "_espresso_context_report_bench",
+    "vaddr": "0x1942ba238",
+    "size": 0
+  },
+  {
+    "name": "_espresso_context_set_int_option",
+    "vaddr": "0x193cf6acc",
+    "size": 0
+  },
+  {
+    "name": "_espresso_context_set_low_precision_accumulation",
+    "vaddr": "0x1942c42d4",
+    "size": 0
+  },
+  {
+    "name": "_espresso_create_context",
+    "vaddr": "0x193c765f4",
+    "size": 0
+  },
+  {
+    "name": "_espresso_create_context_auto",
+    "vaddr": "0x1942bb7a0",
+    "size": 0
+  },
+  {
+    "name": "_espresso_create_context_with_args",
+    "vaddr": "0x1942b2268",
+    "size": 0
+  },
+  {
+    "name": "_espresso_create_hx_context",
+    "vaddr": "0x1942be078",
+    "size": 0
+  },
+  {
+    "name": "_espresso_create_hx_cva_context",
+    "vaddr": "0x1942be14c",
+    "size": 0
+  },
+  {
+    "name": "_espresso_create_plan",
+    "vaddr": "0x193c76ff0",
+    "size": 0
+  },
+  {
+    "name": "_espresso_create_plan_and_load_network",
+    "vaddr": "0x1942c2948",
+    "size": 0
+  },
+  {
+    "name": "_espresso_deinitialize",
+    "vaddr": "0x1942b2928",
+    "size": 0
+  },
+  {
+    "name": "_espresso_destroy_global_ref",
+    "vaddr": "0x1942c2b60",
+    "size": 0
+  },
+  {
+    "name": "_espresso_device_id_for_metal_device",
+    "vaddr": "0x1942bb5ec",
+    "size": 0
+  },
+  {
+    "name": "_espresso_dump_ir",
+    "vaddr": "0x1942bf7e0",
+    "size": 0
+  },
+  {
+    "name": "_espresso_enable_autoinitialize",
+    "vaddr": "0x1942bb600",
+    "size": 0
+  },
+  {
+    "name": "_espresso_enable_test_vector_mode",
+    "vaddr": "0x1942c1674",
+    "size": 0
+  },
+  {
+    "name": "_espresso_generate_training_program",
+    "vaddr": "0x19430f17c",
+    "size": 0
+  },
+  {
+    "name": "_espresso_get_additional_configuration_names",
+    "vaddr": "0x193caab58",
+    "size": 0
+  },
+  {
+    "name": "_espresso_get_analysis_model_metadata_for_key",
+    "vaddr": "0x1942c57c8",
+    "size": 0
+  },
+  {
+    "name": "_espresso_get_branch",
+    "vaddr": "0x194252b40",
+    "size": 0
+  },
+  {
+    "name": "_espresso_get_default_storage_type",
+    "vaddr": "0x1942c2850",
+    "size": 0
+  },
+  {
+    "name": "_espresso_get_input_blob_name",
+    "vaddr": "0x1942c1bb8",
+    "size": 0
+  },
+  {
+    "name": "_espresso_get_internal_queue",
+    "vaddr": "0x1942bfc50",
+    "size": 0
+  },
+  {
+    "name": "_espresso_get_last_error",
+    "vaddr": "0x1942bb5c0",
+    "size": 0
+  },
+  {
+    "name": "_espresso_get_metadata_for_key",
+    "vaddr": "0x1942c53f8",
+    "size": 0
+  },
+  {
+    "name": "_espresso_get_output_blob_name",
+    "vaddr": "0x1942c1c3c",
+    "size": 0
+  },
+  {
+    "name": "_espresso_get_status_string",
+    "vaddr": "0x1942bb444",
+    "size": 0
+  },
+  {
+    "name": "_espresso_get_version_string",
+    "vaddr": "0x193c882f8",
+    "size": 0
+  },
+  {
+    "name": "_espresso_gpu_prefer_integrated",
+    "vaddr": "0x1942c8e4c",
+    "size": 0
+  },
+  {
+    "name": "_espresso_hx_get_processing_session",
+    "vaddr": "0x1942be220",
+    "size": 0
+  },
+  {
+    "name": "_espresso_initialize",
+    "vaddr": "0x1942bb778",
+    "size": 0
+  },
+  {
+    "name": "_espresso_is_ane_arch_greater_than_or_equal",
+    "vaddr": "0x1942c5284",
+    "size": 0
+  },
+  {
+    "name": "_espresso_network_bind_buffer",
+    "vaddr": "0x193cc4ed8",
+    "size": 0
+  },
+  {
+    "name": "_espresso_network_bind_buffer_to_global",
+    "vaddr": "0x1942c3018",
+    "size": 0
+  },
+  {
+    "name": "_espresso_network_bind_cvpixelbuffer",
+    "vaddr": "0x1942bcaac",
+    "size": 0
+  },
+  {
+    "name": "_espresso_network_bind_cvpixelbuffer_no_channel_swap",
+    "vaddr": "0x1942bcbcc",
+    "size": 0
+  },
+  {
+    "name": "_espresso_network_bind_direct_cvpixelbuffer",
+    "vaddr": "0x1942bc9a0",
+    "size": 0
+  },
+  {
+    "name": "_espresso_network_bind_input_cvpixelbuffer",
+    "vaddr": "0x1942bccec",
+    "size": 0
+  },
+  {
+    "name": "_espresso_network_bind_input_metaltexture",
+    "vaddr": "0x1942bce34",
+    "size": 0
+  },
+  {
+    "name": "_espresso_network_bind_input_vimagebuffer_argb8",
+    "vaddr": "0x1942bcf94",
+    "size": 0
+  },
+  {
+    "name": "_espresso_network_bind_input_vimagebuffer_bgra8",
+    "vaddr": "0x1942bd0bc",
+    "size": 0
+  },
+  {
+    "name": "_espresso_network_bind_input_vimagebuffer_planar8",
+    "vaddr": "0x1942bd314",
+    "size": 0
+  },
+  {
+    "name": "_espresso_network_bind_input_vimagebuffer_rgba8",
+    "vaddr": "0x1942bd1e8",
+    "size": 0
+  },
+  {
+    "name": "_espresso_network_change_blob_shape",
+    "vaddr": "0x1942bd4fc",
+    "size": 0
+  },
+  {
+    "name": "_espresso_network_change_input_blob_shapes",
+    "vaddr": "0x1942bd8d8",
+    "size": 0
+  },
+  {
+    "name": "_espresso_network_change_input_blob_shapes_seq",
+    "vaddr": "0x1942bd830",
+    "size": 0
+  },
+  {
+    "name": "_espresso_network_change_input_blob_shapes_seq_rank",
+    "vaddr": "0x193d77654",
+    "size": 0
+  },
+  {
+    "name": "_espresso_network_compiler_set_metadata_key",
+    "vaddr": "0x1942bfb30",
+    "size": 0
+  },
+  {
+    "name": "_espresso_network_declare_input",
+    "vaddr": "0x193caac28",
+    "size": 0
+  },
+  {
+    "name": "_espresso_network_declare_output",
+    "vaddr": "0x193cab0b0",
+    "size": 0
+  },
+  {
+    "name": "_espresso_network_dump_test_vector",
+    "vaddr": "0x1942c1420",
+    "size": 0
+  },
+  {
+    "name": "_espresso_network_get_version",
+    "vaddr": "0x1942bc5c0",
+    "size": 0
+  },
+  {
+    "name": "_espresso_network_pin_weights_blob_storage",
+    "vaddr": "0x1942c8e54",
+    "size": 0
+  },
+  {
+    "name": "_espresso_network_query_blob_dimensions",
+    "vaddr": "0x193d8b140",
+    "size": 0
+  },
+  {
+    "name": "_espresso_network_query_blob_shape",
+    "vaddr": "0x193cc6ca4",
+    "size": 0
+  },
+  {
+    "name": "_espresso_network_query_quantization_info",
+    "vaddr": "0x1942c61fc",
+    "size": 0
+  },
+  {
+    "name": "_espresso_network_select_configuration",
+    "vaddr": "0x1942c1cc0",
+    "size": 0
+  },
+  {
+    "name": "_espresso_network_set_function_name",
+    "vaddr": "0x1942c25f4",
+    "size": 0
+  },
+  {
+    "name": "_espresso_network_set_inference_weights",
+    "vaddr": "0x1942c3230",
+    "size": 0
+  },
+  {
+    "name": "_espresso_network_set_memory_pool_id",
+    "vaddr": "0x1942c26dc",
+    "size": 0
+  },
+  {
+    "name": "_espresso_network_set_tracing_name",
+    "vaddr": "0x193ca9770",
+    "size": 0
+  },
+  {
+    "name": "_espresso_network_swap_global",
+    "vaddr": "0x1942c2bd0",
+    "size": 0
+  },
+  {
+    "name": "_espresso_network_sync_copy_global",
+    "vaddr": "0x1942c2e3c",
+    "size": 0
+  },
+  {
+    "name": "_espresso_network_temporal_state_reset",
+    "vaddr": "0x1942be658",
+    "size": 0
+  },
+  {
+    "name": "_espresso_network_unbind_buffer",
+    "vaddr": "0x1942bc874",
+    "size": 0
+  },
+  {
+    "name": "_espresso_network_unbind_buffer_to_global",
+    "vaddr": "0x1942c3138",
+    "size": 0
+  },
+  {
+    "name": "_espresso_network_unpin_weights_blob_storage",
+    "vaddr": "0x1942c8fc8",
+    "size": 0
+  },
+  {
+    "name": "_espresso_plan_activate_debug_firehose",
+    "vaddr": "0x1942bc31c",
+    "size": 0
+  },
+  {
+    "name": "_espresso_plan_add_network",
+    "vaddr": "0x193c78c90",
+    "size": 0
+  },
+  {
+    "name": "_espresso_plan_add_network_from_memory",
+    "vaddr": "0x1942bbc90",
+    "size": 0
+  },
+  {
+    "name": "_espresso_plan_auto_profile",
+    "vaddr": "0x1943111f0",
+    "size": 0
+  },
+  {
+    "name": "_espresso_plan_build",
+    "vaddr": "0x193cab448",
+    "size": 0
+  },
+  {
+    "name": "_espresso_plan_build_clean",
+    "vaddr": "0x193d77038",
+    "size": 0
+  },
+  {
+    "name": "_espresso_plan_build_with_options",
+    "vaddr": "0x193cab490",
+    "size": 0
+  },
+  {
+    "name": "_espresso_plan_can_use_submit",
+    "vaddr": "0x1942be3ec",
+    "size": 0
+  },
+  {
+    "name": "_espresso_plan_destroy",
+    "vaddr": "0x193cc2c5c",
+    "size": 0
+  },
+  {
+    "name": "_espresso_plan_execute_sync",
+    "vaddr": "0x193cc6db8",
+    "size": 0
+  },
+  {
+    "name": "_espresso_plan_finish_profiling",
+    "vaddr": "0x19430fd18",
+    "size": 0
+  },
+  {
+    "name": "_espresso_plan_get_error_info",
+    "vaddr": "0x1942bd438",
+    "size": 0
+  },
+  {
+    "name": "_espresso_plan_get_phase",
+    "vaddr": "0x1942bdff4",
+    "size": 0
+  },
+  {
+    "name": "_espresso_plan_perfbench",
+    "vaddr": "0x1942bda80",
+    "size": 0
+  },
+  {
+    "name": "_espresso_plan_perfbench_nocopy",
+    "vaddr": "0x1942bdb74",
+    "size": 0
+  },
+  {
+    "name": "_espresso_plan_set_execution_queue",
+    "vaddr": "0x1942bed00",
+    "size": 0
+  },
+  {
+    "name": "_espresso_plan_set_priority",
+    "vaddr": "0x1942beaa8",
+    "size": 0
+  },
+  {
+    "name": "_espresso_plan_share_intermediate_buffer",
+    "vaddr": "0x1942c4b24",
+    "size": 0
+  },
+  {
+    "name": "_espresso_plan_start_profiling",
+    "vaddr": "0x1942c61f4",
+    "size": 0
+  },
+  {
+    "name": "_espresso_plan_start_profiling_with_options",
+    "vaddr": "0x1942c5db0",
+    "size": 0
+  },
+  {
+    "name": "_espresso_plan_static_profiling_info",
+    "vaddr": "0x1943111a0",
+    "size": 0
+  },
+  {
+    "name": "_espresso_plan_submit",
+    "vaddr": "0x1942be4d8",
+    "size": 0
+  },
+  {
+    "name": "_espresso_plan_submit_camera",
+    "vaddr": "0x1942bef9c",
+    "size": 0
+  },
+  {
+    "name": "_espresso_plan_submit_set_multiple_buffering",
+    "vaddr": "0x1942bee9c",
+    "size": 0
+  },
+  {
+    "name": "_espresso_plan_submit_with_args",
+    "vaddr": "0x1942be4e8",
+    "size": 0
+  },
+  {
+    "name": "_espresso_plan_wipe_tempoary",
+    "vaddr": "0x1942bdf18",
+    "size": 0
+  },
+  {
+    "name": "_espresso_recommended_device_id",
+    "vaddr": "0x1942bfce8",
+    "size": 0
+  },
+  {
+    "name": "_espresso_set_analysis_model_metadata_for_key",
+    "vaddr": "0x1942c5a3c",
+    "size": 0
+  },
+  {
+    "name": "_espresso_set_breakpoint",
+    "vaddr": "0x1942c2720",
+    "size": 0
+  },
+  {
+    "name": "_espresso_set_compilation_platform",
+    "vaddr": "0x1942c8dec",
+    "size": 0
+  },
+  {
+    "name": "_espresso_set_image_preprocessing_params",
+    "vaddr": "0x1942c16e8",
+    "size": 0
+  },
+  {
+    "name": "_espresso_set_mil_const_values",
+    "vaddr": "0x19430e17c",
+    "size": 0
+  },
+  {
+    "name": "_espresso_set_quantization_flags",
+    "vaddr": "0x1942bb88c",
+    "size": 0
+  },
+  {
+    "name": "_espresso_tmp_enable_montreal",
+    "vaddr": "0x193c759c0",
+    "size": 0
+  },
+  {
+    "name": "_espresso_upgrade_eir_to_mil",
+    "vaddr": "0x1942c6454",
+    "size": 0
+  },
+  {
+    "name": "_espresso_upgrade_net_to_mil",
+    "vaddr": "0x1942c809c",
+    "size": 0
+  },
+  {
+    "name": "_espresso_upgrade_net_to_mil_program",
+    "vaddr": "0x1942c866c",
+    "size": 0
+  },
+  {
+    "name": "_espresso_upgrade_to_mil",
+    "vaddr": "0x1942c81a8",
+    "size": 0
+  },
+  {
+    "name": "_espresso_will_share_intermediate_buffer_with_existing_plan",
+    "vaddr": "0x1942c432c",
+    "size": 0
+  }
+]

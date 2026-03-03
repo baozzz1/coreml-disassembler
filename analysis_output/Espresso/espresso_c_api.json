@@ -1,0 +1,652 @@
+{
+  "espresso_ane": [
+    {
+      "name": "_espresso_ane_cache_has_network",
+      "vaddr": 6780898648,
+      "size": 0
+    },
+    {
+      "name": "_espresso_ane_cache_purge_network",
+      "vaddr": 6780899544,
+      "size": 0
+    }
+  ],
+  "espresso_autoinitialize": [
+    {
+      "name": "_espresso_autoinitialize_isset",
+      "vaddr": 6780859892,
+      "size": 0
+    }
+  ],
+  "espresso_blob": [
+    {
+      "name": "_espresso_blob_is_dynamic",
+      "vaddr": 6774605480,
+      "size": 0
+    },
+    {
+      "name": "_espresso_blob_set_int_option",
+      "vaddr": 6780885432,
+      "size": 0
+    }
+  ],
+  "espresso_buffer": [
+    {
+      "name": "_espresso_buffer_get_count",
+      "vaddr": 6780859516,
+      "size": 0
+    },
+    {
+      "name": "_espresso_buffer_get_rank",
+      "vaddr": 6780859508,
+      "size": 0
+    },
+    {
+      "name": "_espresso_buffer_get_size",
+      "vaddr": 6780859532,
+      "size": 0
+    },
+    {
+      "name": "_espresso_buffer_pack_tensor_shape",
+      "vaddr": 6775185420,
+      "size": 0
+    },
+    {
+      "name": "_espresso_buffer_set_rank",
+      "vaddr": 6780859500,
+      "size": 0
+    },
+    {
+      "name": "_espresso_buffer_unpack_tensor_shape",
+      "vaddr": 6774676896,
+      "size": 0
+    }
+  ],
+  "espresso_compile": [
+    {
+      "name": "_espresso_compile_mil_to_eir",
+      "vaddr": 6780913656,
+      "size": 0
+    }
+  ],
+  "espresso_context": [
+    {
+      "name": "_espresso_context_create_for_cpu_test_vectors",
+      "vaddr": 6780884400,
+      "size": 0
+    },
+    {
+      "name": "_espresso_context_destroy",
+      "vaddr": 6774680252,
+      "size": 0
+    },
+    {
+      "name": "_espresso_context_report_bench",
+      "vaddr": 6780854840,
+      "size": 0
+    },
+    {
+      "name": "_espresso_context_set_int_option",
+      "vaddr": 6774811340,
+      "size": 0
+    },
+    {
+      "name": "_espresso_context_set_low_precision_accumulation",
+      "vaddr": 6780895956,
+      "size": 0
+    }
+  ],
+  "espresso_create": [
+    {
+      "name": "_espresso_create_context",
+      "vaddr": 6774285812,
+      "size": 0
+    },
+    {
+      "name": "_espresso_create_context_auto",
+      "vaddr": 6780860320,
+      "size": 0
+    },
+    {
+      "name": "_espresso_create_context_with_args",
+      "vaddr": 6780822120,
+      "size": 0
+    },
+    {
+      "name": "_espresso_create_hx_context",
+      "vaddr": 6780870776,
+      "size": 0
+    },
+    {
+      "name": "_espresso_create_hx_cva_context",
+      "vaddr": 6780870988,
+      "size": 0
+    },
+    {
+      "name": "_espresso_create_plan",
+      "vaddr": 6774288368,
+      "size": 0
+    },
+    {
+      "name": "_espresso_create_plan_and_load_network",
+      "vaddr": 6780889416,
+      "size": 0
+    }
+  ],
+  "espresso_deinitialize": [
+    {
+      "name": "_espresso_deinitialize",
+      "vaddr": 6780823848,
+      "size": 0
+    }
+  ],
+  "espresso_destroy": [
+    {
+      "name": "_espresso_destroy_global_ref",
+      "vaddr": 6780889952,
+      "size": 0
+    }
+  ],
+  "espresso_device": [
+    {
+      "name": "_espresso_device_id_for_metal_device",
+      "vaddr": 6780859884,
+      "size": 0
+    }
+  ],
+  "espresso_dump": [
+    {
+      "name": "_espresso_dump_ir",
+      "vaddr": 6780876768,
+      "size": 0
+    }
+  ],
+  "espresso_enable": [
+    {
+      "name": "_espresso_enable_autoinitialize",
+      "vaddr": 6780859904,
+      "size": 0
+    },
+    {
+      "name": "_espresso_enable_test_vector_mode",
+      "vaddr": 6780884596,
+      "size": 0
+    }
+  ],
+  "espresso_generate": [
+    {
+      "name": "_espresso_generate_training_program",
+      "vaddr": 6781202812,
+      "size": 0
+    }
+  ],
+  "espresso_get": [
+    {
+      "name": "_espresso_get_additional_configuration_names",
+      "vaddr": 6774500184,
+      "size": 0
+    },
+    {
+      "name": "_espresso_get_analysis_model_metadata_for_key",
+      "vaddr": 6780901320,
+      "size": 0
+    },
+    {
+      "name": "_espresso_get_branch",
+      "vaddr": 6780431168,
+      "size": 0
+    },
+    {
+      "name": "_espresso_get_default_storage_type",
+      "vaddr": 6780889168,
+      "size": 0
+    },
+    {
+      "name": "_espresso_get_input_blob_name",
+      "vaddr": 6780885944,
+      "size": 0
+    },
+    {
+      "name": "_espresso_get_internal_queue",
+      "vaddr": 6780877904,
+      "size": 0
+    },
+    {
+      "name": "_espresso_get_last_error",
+      "vaddr": 6780859840,
+      "size": 0
+    },
+    {
+      "name": "_espresso_get_metadata_for_key",
+      "vaddr": 6780900344,
+      "size": 0
+    },
+    {
+      "name": "_espresso_get_output_blob_name",
+      "vaddr": 6780886076,
+      "size": 0
+    },
+    {
+      "name": "_espresso_get_status_string",
+      "vaddr": 6780859460,
+      "size": 0
+    },
+    {
+      "name": "_espresso_get_version_string",
+      "vaddr": 6774358776,
+      "size": 0
+    }
+  ],
+  "espresso_gpu": [
+    {
+      "name": "_espresso_gpu_prefer_integrated",
+      "vaddr": 6780915276,
+      "size": 0
+    }
+  ],
+  "espresso_hx": [
+    {
+      "name": "_espresso_hx_get_processing_session",
+      "vaddr": 6780871200,
+      "size": 0
+    }
+  ],
+  "espresso_initialize": [
+    {
+      "name": "_espresso_initialize",
+      "vaddr": 6780860280,
+      "size": 0
+    }
+  ],
+  "espresso_is": [
+    {
+      "name": "_espresso_is_ane_arch_greater_than_or_equal",
+      "vaddr": 6780899972,
+      "size": 0
+    }
+  ],
+  "espresso_network": [
+    {
+      "name": "_espresso_network_bind_buffer",
+      "vaddr": 6774607576,
+      "size": 0
+    },
+    {
+      "name": "_espresso_network_bind_buffer_to_global",
+      "vaddr": 6780891160,
+      "size": 0
+    },
+    {
+      "name": "_espresso_network_bind_cvpixelbuffer",
+      "vaddr": 6780865196,
+      "size": 0
+    },
+    {
+      "name": "_espresso_network_bind_cvpixelbuffer_no_channel_swap",
+      "vaddr": 6780865484,
+      "size": 0
+    },
+    {
+      "name": "_espresso_network_bind_direct_cvpixelbuffer",
+      "vaddr": 6780864928,
+      "size": 0
+    },
+    {
+      "name": "_espresso_network_bind_input_cvpixelbuffer",
+      "vaddr": 6780865772,
+      "size": 0
+    },
+    {
+      "name": "_espresso_network_bind_input_metaltexture",
+      "vaddr": 6780866100,
+      "size": 0
+    },
+    {
+      "name": "_espresso_network_bind_input_vimagebuffer_argb8",
+      "vaddr": 6780866452,
+      "size": 0
+    },
+    {
+      "name": "_espresso_network_bind_input_vimagebuffer_bgra8",
+      "vaddr": 6780866748,
+      "size": 0
+    },
+    {
+      "name": "_espresso_network_bind_input_vimagebuffer_planar8",
+      "vaddr": 6780867348,
+      "size": 0
+    },
+    {
+      "name": "_espresso_network_bind_input_vimagebuffer_rgba8",
+      "vaddr": 6780867048,
+      "size": 0
+    },
+    {
+      "name": "_espresso_network_change_blob_shape",
+      "vaddr": 6780867836,
+      "size": 0
+    },
+    {
+      "name": "_espresso_network_change_input_blob_shapes",
+      "vaddr": 6780868824,
+      "size": 0
+    },
+    {
+      "name": "_espresso_network_change_input_blob_shapes_seq",
+      "vaddr": 6780868656,
+      "size": 0
+    },
+    {
+      "name": "_espresso_network_change_input_blob_shapes_seq_rank",
+      "vaddr": 6775338580,
+      "size": 0
+    },
+    {
+      "name": "_espresso_network_compiler_set_metadata_key",
+      "vaddr": 6780877616,
+      "size": 0
+    },
+    {
+      "name": "_espresso_network_declare_input",
+      "vaddr": 6774500392,
+      "size": 0
+    },
+    {
+      "name": "_espresso_network_declare_output",
+      "vaddr": 6774501552,
+      "size": 0
+    },
+    {
+      "name": "_espresso_network_dump_test_vector",
+      "vaddr": 6780884000,
+      "size": 0
+    },
+    {
+      "name": "_espresso_network_get_version",
+      "vaddr": 6780863936,
+      "size": 0
+    },
+    {
+      "name": "_espresso_network_pin_weights_blob_storage",
+      "vaddr": 6780915284,
+      "size": 0
+    },
+    {
+      "name": "_espresso_network_query_blob_dimensions",
+      "vaddr": 6775419200,
+      "size": 0
+    },
+    {
+      "name": "_espresso_network_query_blob_shape",
+      "vaddr": 6774615204,
+      "size": 0
+    },
+    {
+      "name": "_espresso_network_query_quantization_info",
+      "vaddr": 6780903932,
+      "size": 0
+    },
+    {
+      "name": "_espresso_network_select_configuration",
+      "vaddr": 6780886208,
+      "size": 0
+    },
+    {
+      "name": "_espresso_network_set_function_name",
+      "vaddr": 6780888564,
+      "size": 0
+    },
+    {
+      "name": "_espresso_network_set_inference_weights",
+      "vaddr": 6780891696,
+      "size": 0
+    },
+    {
+      "name": "_espresso_network_set_memory_pool_id",
+      "vaddr": 6780888796,
+      "size": 0
+    },
+    {
+      "name": "_espresso_network_set_tracing_name",
+      "vaddr": 6774495088,
+      "size": 0
+    },
+    {
+      "name": "_espresso_network_swap_global",
+      "vaddr": 6780890064,
+      "size": 0
+    },
+    {
+      "name": "_espresso_network_sync_copy_global",
+      "vaddr": 6780890684,
+      "size": 0
+    },
+    {
+      "name": "_espresso_network_temporal_state_reset",
+      "vaddr": 6780872280,
+      "size": 0
+    },
+    {
+      "name": "_espresso_network_unbind_buffer",
+      "vaddr": 6780864628,
+      "size": 0
+    },
+    {
+      "name": "_espresso_network_unbind_buffer_to_global",
+      "vaddr": 6780891448,
+      "size": 0
+    },
+    {
+      "name": "_espresso_network_unpin_weights_blob_storage",
+      "vaddr": 6780915656,
+      "size": 0
+    }
+  ],
+  "espresso_plan": [
+    {
+      "name": "_espresso_plan_activate_debug_firehose",
+      "vaddr": 6780863260,
+      "size": 0
+    },
+    {
+      "name": "_espresso_plan_add_network",
+      "vaddr": 6774295696,
+      "size": 0
+    },
+    {
+      "name": "_espresso_plan_add_network_from_memory",
+      "vaddr": 6780861584,
+      "size": 0
+    },
+    {
+      "name": "_espresso_plan_auto_profile",
+      "vaddr": 6781211120,
+      "size": 0
+    },
+    {
+      "name": "_espresso_plan_build",
+      "vaddr": 6774502472,
+      "size": 0
+    },
+    {
+      "name": "_espresso_plan_build_clean",
+      "vaddr": 6775337016,
+      "size": 0
+    },
+    {
+      "name": "_espresso_plan_build_with_options",
+      "vaddr": 6774502544,
+      "size": 0
+    },
+    {
+      "name": "_espresso_plan_can_use_submit",
+      "vaddr": 6780871660,
+      "size": 0
+    },
+    {
+      "name": "_espresso_plan_destroy",
+      "vaddr": 6774598748,
+      "size": 0
+    },
+    {
+      "name": "_espresso_plan_execute_sync",
+      "vaddr": 6774615480,
+      "size": 0
+    },
+    {
+      "name": "_espresso_plan_finish_profiling",
+      "vaddr": 6781205784,
+      "size": 0
+    },
+    {
+      "name": "_espresso_plan_get_error_info",
+      "vaddr": 6780867640,
+      "size": 0
+    },
+    {
+      "name": "_espresso_plan_get_phase",
+      "vaddr": 6780870644,
+      "size": 0
+    },
+    {
+      "name": "_espresso_plan_perfbench",
+      "vaddr": 6780869248,
+      "size": 0
+    },
+    {
+      "name": "_espresso_plan_perfbench_nocopy",
+      "vaddr": 6780869492,
+      "size": 0
+    },
+    {
+      "name": "_espresso_plan_set_execution_queue",
+      "vaddr": 6780873984,
+      "size": 0
+    },
+    {
+      "name": "_espresso_plan_set_priority",
+      "vaddr": 6780873384,
+      "size": 0
+    },
+    {
+      "name": "_espresso_plan_share_intermediate_buffer",
+      "vaddr": 6780898084,
+      "size": 0
+    },
+    {
+      "name": "_espresso_plan_start_profiling",
+      "vaddr": 6780903924,
+      "size": 0
+    },
+    {
+      "name": "_espresso_plan_start_profiling_with_options",
+      "vaddr": 6780902832,
+      "size": 0
+    },
+    {
+      "name": "_espresso_plan_static_profiling_info",
+      "vaddr": 6781211040,
+      "size": 0
+    },
+    {
+      "name": "_espresso_plan_submit",
+      "vaddr": 6780871896,
+      "size": 0
+    },
+    {
+      "name": "_espresso_plan_submit_camera",
+      "vaddr": 6780874652,
+      "size": 0
+    },
+    {
+      "name": "_espresso_plan_submit_set_multiple_buffering",
+      "vaddr": 6780874396,
+      "size": 0
+    },
+    {
+      "name": "_espresso_plan_submit_with_args",
+      "vaddr": 6780871912,
+      "size": 0
+    },
+    {
+      "name": "_espresso_plan_wipe_tempoary",
+      "vaddr": 6780870424,
+      "size": 0
+    }
+  ],
+  "espresso_recommended": [
+    {
+      "name": "_espresso_recommended_device_id",
+      "vaddr": 6780878056,
+      "size": 0
+    }
+  ],
+  "espresso_set": [
+    {
+      "name": "_espresso_set_analysis_model_metadata_for_key",
+      "vaddr": 6780901948,
+      "size": 0
+    },
+    {
+      "name": "_espresso_set_breakpoint",
+      "vaddr": 6780888864,
+      "size": 0
+    },
+    {
+      "name": "_espresso_set_compilation_platform",
+      "vaddr": 6780915180,
+      "size": 0
+    },
+    {
+      "name": "_espresso_set_image_preprocessing_params",
+      "vaddr": 6780884712,
+      "size": 0
+    },
+    {
+      "name": "_espresso_set_mil_const_values",
+      "vaddr": 6781198716,
+      "size": 0
+    },
+    {
+      "name": "_espresso_set_quantization_flags",
+      "vaddr": 6780860556,
+      "size": 0
+    }
+  ],
+  "espresso_tmp": [
+    {
+      "name": "_espresso_tmp_enable_montreal",
+      "vaddr": 6774282688,
+      "size": 0
+    }
+  ],
+  "espresso_upgrade": [
+    {
+      "name": "_espresso_upgrade_eir_to_mil",
+      "vaddr": 6780904532,
+      "size": 0
+    },
+    {
+      "name": "_espresso_upgrade_net_to_mil",
+      "vaddr": 6780911772,
+      "size": 0
+    },
+    {
+      "name": "_espresso_upgrade_net_to_mil_program",
+      "vaddr": 6780913260,
+      "size": 0
+    },
+    {
+      "name": "_espresso_upgrade_to_mil",
+      "vaddr": 6780912040,
+      "size": 0
+    }
+  ],
+  "espresso_will": [
+    {
+      "name": "_espresso_will_share_intermediate_buffer_with_existing_plan",
+      "vaddr": 6780896044,
+      "size": 0
+    }
+  ]
+}

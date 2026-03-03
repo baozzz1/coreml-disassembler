@@ -1,0 +1,16 @@
+{
+  "name": "coreml-disassembler-book",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "build": "npx honkit build",
+    "serve": "npx honkit serve"
+  },
+  "devDependencies": {
+    "honkit": "^6.1.6"
+  },
+  "dependencies": {
+    "gitbook-plugin-expandable-chapters": "^0.2.0",
+    "gitbook-plugin-search-pro": "^2.0.2"
+  }
+}

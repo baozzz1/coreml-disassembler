@@ -1,0 +1,8 @@
+{
+  "Espresso::base_kernel": [
+    {
+      "name": "___block_descriptor_32_e89_{shared_ptr<Espresso::base_kernel>=^{base_kernel}^{__shared_weak_count}}28\\x01?0r^v8r^v16i24l",
+      "addr": "0x1e71a97e0"
+    }
+  ]
+}
